@@ -13,7 +13,7 @@
  
 // ----------------------------------------------------------------------
 
-#define numMax 5          // Максимальное количество профилей
+#define numMax 10            // Максимальное количество профилей
 #define ArrMax 50           // Максимальное количество символов в названии профиля (в русских буквах в два раза меньше)
 #define Adres 1000          // адрес начала записи в EPROM 
  
@@ -101,6 +101,7 @@ void DumpMem (byte NnProf) {  // читаем память
     Serial.println("");
   }
 // ------------------------------
+#ifdef Set_DUE
 void i2c_eeprom_write_byte( int deviceaddress, unsigned int eeaddress, byte data ) {
     int rdata = data;
     Wire.beginTransmission(deviceaddress);
@@ -119,12 +120,15 @@ byte i2c_eeprom_read_byte( int deviceaddress, unsigned int eeaddress ) {
     Wire.requestFrom(deviceaddress,1);
     if (Wire.available()) rdata = Wire.read();
     return rdata;
-  }  
+  } 
+#endif   
 // ------------------------------
 void setup() {
   // Open serial communications and wait for port to open:
   Serial.begin(9600);
-  Wire.begin();        // join i2c bus (address optional for master)
+#ifdef Set_DUE
+ Wire.begin();        // join i2c bus (address optional for master)
+#endif
   while (!Serial) { ; } // wait for serial port to connect. Needed for native USB port only
   Serial.println("Выводим имена профилей");
         //Serial.println(ProfN1[]);  
