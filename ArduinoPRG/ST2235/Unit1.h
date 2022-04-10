@@ -13,12 +13,18 @@
 #include <Vcl.Forms.hpp>
 #include "AdvPageControl.hpp"
 #include <Vcl.ComCtrls.hpp>
+#include "W7Classes.hpp"
+#include "W7Images.hpp"
+#include <Vcl.Imaging.jpeg.hpp>
 //---------------------------------------------------------------------------
 class TForm1 : public TForm
 {
 __published:	// IDE-managed Components
 	TAdvPageControl *AdvPageControl1;
 	TAdvTabSheet *AdvTabSheet1;
+	TAdvTabSheet *AdvTabSheet2;
+	TAdvTabSheet *AdvTabSheet3;
+	TW7Image *W7Image1;
 private:	// User declarations
 public:		// User declarations
 	__fastcall TForm1(TComponent* Owner);

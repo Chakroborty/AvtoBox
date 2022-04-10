@@ -7,6 +7,8 @@
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma link "AdvPageControl"
+#pragma link "W7Classes"
+#pragma link "W7Images"
 #pragma resource "*.dfm"
 TForm1 *Form1;
 //---------------------------------------------------------------------------
