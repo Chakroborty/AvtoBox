@@ -4,11 +4,11 @@
 #define Adf4355H
 
 // ---------------------------------------------------------------------------
-class ADF4159
+class Adf4355
 {
 	public:
-		ADF4355(double F, int I, int N, bool Pol_PUS, double Ref,int Dabl);
-		~ADF4355();
+		Adf4355(double F, int I, int N, bool Pol_PUS, double Ref,int Dabl);
+		~Adf4355();
 
 		double FregSIN;
 		void SetFreq(double fsint,double Fref);

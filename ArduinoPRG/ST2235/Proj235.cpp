@@ -5,6 +5,7 @@
 #include <tchar.h>
 //---------------------------------------------------------------------------
 USEFORM("Unit1.cpp", Form1);
+USEFORM("..\Klasses\PriborST\MeasPanel\SxemaALL.cpp", FormSH);
 //---------------------------------------------------------------------------
 int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 {
@@ -13,6 +14,7 @@ int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 		Application->Initialize();
 		Application->MainFormOnTaskBar = true;
 		Application->CreateForm(__classid(TForm1), &Form1);
+		Application->CreateForm(__classid(TFormSH), &FormSH);
 		Application->Run();
 	}
 	catch (Exception &exception)

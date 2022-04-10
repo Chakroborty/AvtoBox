@@ -45,16 +45,12 @@
         <Cfg_2>true</Cfg_2>
         <Base>true</Base>
     </PropertyGroup>
-    <PropertyGroup Condition="('$(Platform)'=='Win64' and '$(Cfg_2)'=='true') or '$(Cfg_2_Win64)'!=''">
-        <Cfg_2_Win64>true</Cfg_2_Win64>
-        <CfgParent>Cfg_2</CfgParent>
-        <Cfg_2>true</Cfg_2>
-        <Base>true</Base>
-    </PropertyGroup>
     <PropertyGroup Condition="'$(Base)'!=''">
+        <ILINK_LibraryPath>..\Klasses\LightNetwork\;..\Klasses\Kanal22350\;..\Klasses\;..\Klasses\MicroShem\;..\Klasses\PriborST\MeasPanel\;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+        <IncludePath>..\Klasses\LightNetwork\;..\Klasses\Kanal22350\;..\Klasses\;..\Klasses\MicroShem\;..\Klasses\PriborST\MeasPanel\;$(IncludePath)</IncludePath>
         <UWP_CppLogo150>$(BDS)\bin\Artwork\Windows\UWP\cppreg_UwpDefault_150.png</UWP_CppLogo150>
         <ProjectType>CppVCLApplication</ProjectType>
-        <AllPackageLibs>rtl.lib;vcl.lib;tmsdXE10.lib;adortl.lib;dbrtl.lib;vclx.lib;xmlrtl.lib;vclactnband.lib;vclimg.lib;vcldb.lib;VclSmp.lib</AllPackageLibs>
+        <AllPackageLibs>rtl.lib;vcl.lib;tmsdXE10.lib;adortl.lib;dbrtl.lib;vclx.lib;xmlrtl.lib;vclactnband.lib;vclimg.lib;vcldb.lib;VclSmp.lib;tmsexdXE10.lib;DbxCommonDriver.lib;dsnap.lib;soaprtl.lib;inet.lib</AllPackageLibs>
         <Multithreaded>true</Multithreaded>
         <Icon_MainIcon>$(BDS)\bin\cbuilder_PROJECTICON.ico</Icon_MainIcon>
         <SanitizedProjectName>Proj235</SanitizedProjectName>
@@ -79,12 +75,10 @@
         <Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
         <PackageImports>adortl;appanalytics;bcbie;bcboffice2k;bcbsmp;bindcomp;bindcompdbx;bindcompfmx;bindcompvcl;bindengine;CloudService;CustomIPTransport;DataSnapClient;DataSnapCommon;DataSnapConnectors;DatasnapConnectorsFreePascal;DataSnapFireDAC;DataSnapIndy10ServerTransport;DataSnapNativeClient;DataSnapProviderClient;DataSnapServer;DataSnapServerMidas;dbexpress;dbrtl;dbxcds;DbxClientDriver;DbxCommonDriver;DBXDb2Driver;DBXFirebirdDriver;DBXInformixDriver;DBXInterBaseDriver;DBXMSSQLDriver;DBXMySQLDriver;DBXOdbcDriver;DBXOracleDriver;DBXSqliteDriver;DBXSybaseASADriver;DBXSybaseASEDriver;dsnap;dsnapcon;dsnapxml;emsclient;emsclientfiredac;emsedge;emshosting;EntityDac;FireDAC;FireDACADSDriver;FireDACASADriver;FireDACCommon;FireDACCommonDriver;FireDACCommonODBC;FireDACDb2Driver;FireDACDBXDriver;FireDACDSDriver;FireDACIBDriver;FireDACInfxDriver;FireDACMongoDBDriver;FireDACMSAccDriver;FireDACMSSQLDriver;FireDACMySQLDriver;FireDACODBCDriver;FireDACOracleDriver;FireDACPgDriver;FireDACSqliteDriver;FireDACTDataDriver;fmx;FMX_SignalLabScopePkg;fmxase;fmxdae;fmxFireDAC;fmxobj;FMXTee;FmxTeeUI;frx24;frxDB24;frxe24;frxTee24;ibmonitor;ibxbindings;ibxpress;IndyCore;IndyIPClient;IndyIPCommon;IndyIPServer;IndyProtocols;IndySystem;inet;inetdb;inetdbxpress;Intraweb;Mitov_BasicLab;Mitov_FMX_BasicLab;Mitov_Runtime;Mitov_VCL_BasicLab;Mitov_VCL_Runtime;OpenWireBindingDatabasePkg;OpenWireBindingFmxPkg;OpenWireBindingPkg;OpenWireBindingVclPkg;OpenWireEditorBasicPkg;OpenWireEditorPkg;OpenWirePkg;OpenWireStudioHostPkg;RESTBackendComponents;RESTComponents;rtl;SignalLabAdditionalPkg;SignalLabBasicPkg;SignalLabGenericBasicPkgCB;SignalLabGenericPkgCB;SignalLabPkg;SignalLabScopePkg;soapmidas;soaprtl;soapserver;svn;Tee;TeeDB;TeeUI;tethering;TimingLabBasicPkg;tmsdXE10;tmsexdXE10;tmswizdXE10;tmsxlsdXE10;vcl;vclactnband;vcldb;vcldsnap;vclFireDAC;vclib;vclie;vclimg;VCLRESTComponents;VclSmp;vcltouch;vclwinx;vclx;xmlrtl;$(PackageImports)</PackageImports>
         <DCC_Namespace>Winapi;System.Win;Data.Win;Datasnap.Win;Web.Win;Soap.Win;Xml.Win;Bde;$(DCC_Namespace)</DCC_Namespace>
-        <BCC_PCHName_Clang>Project235.h</BCC_PCHName_Clang>
         <BT_BuildType>Debug</BT_BuildType>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Base_Win64)'!=''">
         <IncludePath>$(BDSINCLUDE)\windows\vcl;$(IncludePath)</IncludePath>
-        <BCC_PCHName_Clang>Project235.h</BCC_PCHName_Clang>
         <PackageImports>adortl;appanalytics;bindcomp;bindcompdbx;bindcompfmx;bindcompvcl;bindengine;CloudService;CustomIPTransport;DataSnapClient;DataSnapCommon;DataSnapConnectors;DatasnapConnectorsFreePascal;DataSnapFireDAC;DataSnapIndy10ServerTransport;DataSnapNativeClient;DataSnapProviderClient;DataSnapServer;DataSnapServerMidas;dbexpress;dbrtl;dbxcds;DbxClientDriver;DbxCommonDriver;DBXDb2Driver;DBXFirebirdDriver;DBXInformixDriver;DBXInterBaseDriver;DBXMSSQLDriver;DBXMySQLDriver;DBXOdbcDriver;DBXOracleDriver;DBXSqliteDriver;DBXSybaseASADriver;DBXSybaseASEDriver;dsnap;dsnapcon;dsnapxml;emsclient;emsclientfiredac;emsedge;emshosting;FireDAC;FireDACADSDriver;FireDACASADriver;FireDACCommon;FireDACCommonDriver;FireDACCommonODBC;FireDACDb2Driver;FireDACDBXDriver;FireDACDSDriver;FireDACIBDriver;FireDACInfxDriver;FireDACMongoDBDriver;FireDACMSAccDriver;FireDACMSSQLDriver;FireDACMySQLDriver;FireDACODBCDriver;FireDACOracleDriver;FireDACPgDriver;FireDACSqliteDriver;FireDACTDataDriver;fmx;FMX_SignalLabScopePkg;fmxase;fmxdae;fmxFireDAC;fmxobj;FMXTee;FmxTeeUI;ibmonitor;ibxbindings;ibxpress;IndyCore;IndyIPClient;IndyIPCommon;IndyIPServer;IndyProtocols;IndySystem;inet;inetdb;inetdbxpress;Intraweb;Mitov_BasicLab;Mitov_FMX_BasicLab;Mitov_Runtime;Mitov_VCL_BasicLab;Mitov_VCL_Runtime;OpenWireBindingDatabasePkg;OpenWireBindingFmxPkg;OpenWireBindingPkg;OpenWireBindingVclPkg;OpenWireEditorBasicPkg;OpenWireEditorPkg;OpenWirePkg;OpenWireStudioHostPkg;RESTBackendComponents;RESTComponents;rtl;SignalLabAdditionalPkg;SignalLabBasicPkg;SignalLabGenericBasicPkgCB;SignalLabGenericPkgCB;SignalLabPkg;SignalLabScopePkg;soapmidas;soaprtl;soapserver;Tee;TeeDB;TeeUI;tethering;TimingLabBasicPkg;tmsdXE10;tmsexdXE10;vcl;vclactnband;vcldb;vcldsnap;vclFireDAC;vclib;vclie;vclimg;VCLRESTComponents;VclSmp;vcltouch;vclwinx;vclx;xmlrtl;$(PackageImports)</PackageImports>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1)'!=''">
@@ -110,7 +104,12 @@
         <ILINK_TranslatedLibraryPath>$(BDSLIB)\$(PLATFORM)\debug\$(LANGDIR);$(ILINK_TranslatedLibraryPath)</ILINK_TranslatedLibraryPath>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1_Win32)'!=''">
-        <LinkPackageImports>rtl.bpi;vcl.bpi;tmsdXE10.bpi;adortl.bpi;dbrtl.bpi;vclx.bpi;xmlrtl.bpi;vclactnband.bpi;vclimg.bpi;vcldb.bpi;VclSmp.bpi</LinkPackageImports>
+        <BCC_Defines>WINDOWS;LIGHT_NETWORK_SRC;NDEBUG;$(BCC_Defines)</BCC_Defines>
+        <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+        <VerInfo_Locale>1033</VerInfo_Locale>
+        <IncludePath>D:\Program FilesD\Embarcadero\Studio\18.0\source\TMSComponentPack8340;$(IncludePath)</IncludePath>
+        <ILINK_LibraryPath>D:\Program FilesD\Embarcadero\Studio\18.0\source\TMSComponentPack8340;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+        <LinkPackageImports>rtl.bpi;vcl.bpi;tmsdXE10.bpi;adortl.bpi;dbrtl.bpi;vclx.bpi;xmlrtl.bpi;vclactnband.bpi;vclimg.bpi;vcldb.bpi;VclSmp.bpi;tmsexdXE10.bpi;DbxCommonDriver.bpi;dsnap.bpi;soaprtl.bpi;inet.bpi</LinkPackageImports>
         <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
         <AppEnableHighDPI>true</AppEnableHighDPI>
     </PropertyGroup>
@@ -119,14 +118,179 @@
         <TASM_Debugging>None</TASM_Debugging>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2_Win32)'!=''">
-        <BCC_PCHName_Clang>Project235.h</BCC_PCHName_Clang>
+        <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+        <BCC_Defines>WINDOWS;LIGHT_NETWORK_SRC;$(BCC_Defines)</BCC_Defines>
+        <VerInfo_Locale>1033</VerInfo_Locale>
         <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
         <AppEnableHighDPI>true</AppEnableHighDPI>
     </PropertyGroup>
-    <PropertyGroup Condition="'$(Cfg_2_Win64)'!=''">
-        <BCC_PCHName_Clang>Project235.h</BCC_PCHName_Clang>
-    </PropertyGroup>
     <ItemGroup>
+        <CppCompile Include="..\Klasses\Agilent8560.cpp">
+            <DependentOn>..\Klasses\Agilent8560.h</DependentOn>
+            <BuildOrder>27</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Agilent9030.cpp">
+            <DependentOn>..\Klasses\Agilent9030.h</DependentOn>
+            <BuildOrder>28</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\AgilentE4407.cpp">
+            <DependentOn>..\Klasses\AgilentE4407.h</DependentOn>
+            <BuildOrder>29</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\AgilentFF.cpp">
+            <DependentOn>..\Klasses\AgilentFF.h</DependentOn>
+            <BuildOrder>30</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\AGN5183A.cpp">
+            <DependentOn>..\Klasses\AGN5183A.h</DependentOn>
+            <BuildOrder>31</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\BinSearch.cpp">
+            <DependentOn>..\Klasses\BinSearch.h</DependentOn>
+            <BuildOrder>32</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\E5071BNetwAnalizer.cpp">
+            <DependentOn>..\Klasses\E5071BNetwAnalizer.h</DependentOn>
+            <BuildOrder>34</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\HPE44XXB.cpp">
+            <DependentOn>..\Klasses\HPE44XXB.h</DependentOn>
+            <BuildOrder>35</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Kanal22350\BL3CR37.cpp">
+            <DependentOn>..\Klasses\Kanal22350\BL3CR37.h</DependentOn>
+            <BuildOrder>32</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Kanal22350\Kanal235.cpp">
+            <DependentOn>..\Klasses\Kanal22350\Kanal235.h</DependentOn>
+            <BuildOrder>33</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Kanal22350\MFC1RR.cpp">
+            <DependentOn>..\Klasses\Kanal22350\MFC1RR.h</DependentOn>
+            <BuildOrder>34</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Kanal22350\PRC235.cpp">
+            <DependentOn>..\Klasses\Kanal22350\PRC235.h</DependentOn>
+            <BuildOrder>35</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Keysigth9020.cpp">
+            <DependentOn>..\Klasses\Keysigth9020.h</DependentOn>
+            <BuildOrder>36</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\KLSMF100A.cpp">
+            <DependentOn>..\Klasses\KLSMF100A.h</DependentOn>
+            <BuildOrder>37</BuildOrder>
+        </CppCompile>
+        <None Include="..\Klasses\LightNetwork\Definitions.h">
+            <BuildOrder>36</BuildOrder>
+        </None>
+        <CppCompile Include="..\Klasses\LightNetwork\NetworkStream.cpp">
+            <BuildOrder>37</BuildOrder>
+        </CppCompile>
+        <None Include="..\Klasses\LightNetwork\NetworkStream.h">
+            <BuildOrder>38</BuildOrder>
+        </None>
+        <CppCompile Include="..\Klasses\LightNetwork\NetworkStreamUdp.cpp">
+            <BuildOrder>39</BuildOrder>
+        </CppCompile>
+        <None Include="..\Klasses\LightNetwork\NetworkStreamUdp.h">
+            <BuildOrder>40</BuildOrder>
+        </None>
+        <CppCompile Include="..\Klasses\LightNetwork\TcpClient.cpp">
+            <BuildOrder>41</BuildOrder>
+        </CppCompile>
+        <None Include="..\Klasses\LightNetwork\TcpClient.h">
+            <BuildOrder>42</BuildOrder>
+        </None>
+        <CppCompile Include="..\Klasses\LightNetwork\UdpClient.cpp">
+            <BuildOrder>43</BuildOrder>
+        </CppCompile>
+        <None Include="..\Klasses\LightNetwork\UdpClient.h">
+            <BuildOrder>44</BuildOrder>
+        </None>
+        <CppCompile Include="..\Klasses\LightNetwork\UdpServer.cpp">
+            <BuildOrder>45</BuildOrder>
+        </CppCompile>
+        <None Include="..\Klasses\LightNetwork\UdpServer.h">
+            <BuildOrder>46</BuildOrder>
+        </None>
+        <CppCompile Include="..\Klasses\ManageINI.cpp">
+            <DependentOn>..\Klasses\ManageINI.h</DependentOn>
+            <BuildOrder>39</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\Adf4108.cpp">
+            <DependentOn>..\Klasses\MicroShem\Adf4108.h</DependentOn>
+            <BuildOrder>7</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\Adf4159.cpp">
+            <DependentOn>..\Klasses\MicroShem\Adf4159.h</DependentOn>
+            <BuildOrder>9</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\HMC830.cpp">
+            <DependentOn>..\Klasses\MicroShem\HMC830.h</DependentOn>
+            <BuildOrder>17</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\hmc839.cpp">
+            <DependentOn>..\Klasses\MicroShem\hmc839.h</DependentOn>
+            <BuildOrder>18</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\LMX2594.cpp">
+            <DependentOn>..\Klasses\MicroShem\LMX2594.h</DependentOn>
+            <BuildOrder>19</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\MHMC394.cpp">
+            <DependentOn>..\Klasses\MicroShem\MHMC394.h</DependentOn>
+            <BuildOrder>23</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\MUXM15.cpp">
+            <DependentOn>..\Klasses\MicroShem\MUXM15.h</DependentOn>
+            <BuildOrder>24</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MicroShem\MUXM20.cpp">
+            <DependentOn>..\Klasses\MicroShem\MUXM20.h</DependentOn>
+            <BuildOrder>25</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\MP_N6702A.cpp">
+            <DependentOn>..\Klasses\MP_N6702A.h</DependentOn>
+            <BuildOrder>40</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\PrBL3PX1.cpp">
+            <BuildOrder>41</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\PriborST\MeasPanel\StendPR.cpp">
+            <DependentOn>..\Klasses\PriborST\MeasPanel\StendPR.h</DependentOn>
+            <BuildOrder>3</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\PriborST\MeasPanel\SxemaALL.cpp">
+            <Form>FormSH</Form>
+            <FormType>dfm</FormType>
+            <DependentOn>..\Klasses\PriborST\MeasPanel\SxemaALL.h</DependentOn>
+            <BuildOrder>4</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\PriborST\MeasPanel\VirtBlock.cpp">
+            <DependentOn>..\Klasses\PriborST\MeasPanel\VirtBlock.h</DependentOn>
+            <BuildOrder>5</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\RSFSL18.cpp">
+            <DependentOn>..\Klasses\RSFSL18.h</DependentOn>
+            <BuildOrder>42</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\RSFSU50.cpp">
+            <DependentOn>..\Klasses\RSFSU50.h</DependentOn>
+            <BuildOrder>43</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\RSZVA50.cpp">
+            <DependentOn>..\Klasses\RSZVA50.h</DependentOn>
+            <BuildOrder>44</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\SMU200.cpp">
+            <DependentOn>..\Klasses\SMU200.h</DependentOn>
+            <BuildOrder>45</BuildOrder>
+        </CppCompile>
+        <CppCompile Include="..\Klasses\Switch34980A.cpp">
+            <DependentOn>..\Klasses\Switch34980A.h</DependentOn>
+            <BuildOrder>49</BuildOrder>
+        </CppCompile>
         <CppCompile Include="Proj235.cpp">
             <BuildOrder>0</BuildOrder>
         </CppCompile>
@@ -141,6 +305,7 @@
             <BuildOrder>2</BuildOrder>
         </CppCompile>
         <FormResources Include="Unit1.dfm"/>
+        <FormResources Include="..\Klasses\PriborST\MeasPanel\SxemaALL.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -167,6 +332,12 @@
                     <ProjectProperties Name="VerifyPackages">True</ProjectProperties>
                     <ProjectProperties Name="IndexFiles">False</ProjectProperties>
                 </ProjectProperties>
+                <Excluded_Packages>
+                    <Excluded_Packages Name="C:\Users\Public\Documents\Embarcadero\Studio\18.0\Bpl\VirtualTreesD24.bpl">VirtualTreeView Controls</Excluded_Packages>
+                    <Excluded_Packages Name="$(BDSBIN)\bcbofficexp240.bpl">Embarcadero C++Builder Office XP Servers Package</Excluded_Packages>
+                    <Excluded_Packages Name="$(BDSBIN)\dcloffice2k240.bpl">Microsoft Office 2000 Sample Automation Server Wrapper Components</Excluded_Packages>
+                    <Excluded_Packages Name="$(BDSBIN)\dclofficexp240.bpl">Microsoft Office XP Sample Automation Server Wrapper Components</Excluded_Packages>
+                </Excluded_Packages>
             </CPlusPlusBuilder.Personality>
             <Deployment Version="3">
                 <DeployFile Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'!='true'" LocalName="$(BDS)\bin\cc32240.dll" Class="DependencyModule">
@@ -209,9 +380,9 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName=".\Win32\Debug\Proj235.tds" Configuration="Debug" Class="DebugSymbols">
+                <DeployFile LocalName=".\Win32\Debug\Proj235.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
-                        <RemoteName>Proj235.tds</RemoteName>
+                        <RemoteName>Proj235.exe</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
@@ -220,14 +391,14 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'=='true'" LocalName="$(BDS)\bin\cc32240mt.dll" Class="DependencyModule">
+                <DeployFile LocalName=".\Win32\Debug\Proj235.tds" Configuration="Debug" Class="DebugSymbols">
                     <Platform Name="Win32">
+                        <RemoteName>Proj235.tds</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName=".\Win32\Debug\Proj235.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile Condition="'$(DynamicRTL)'=='true' And '$(Multithreaded)'=='true'" LocalName="$(BDS)\bin\cc32240mt.dll" Class="DependencyModule">
                     <Platform Name="Win32">
-                        <RemoteName>Proj235.exe</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>

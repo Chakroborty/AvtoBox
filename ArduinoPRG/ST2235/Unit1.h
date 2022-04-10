@@ -3,6 +3,10 @@
 #ifndef Unit1H
 #define Unit1H
 //---------------------------------------------------------------------------
+#include "VirtBlock.h"
+#include "BL3CR37.h"
+#include "SxemaALL.h"
+
 #include <System.Classes.hpp>
 #include <Vcl.Controls.hpp>
 #include <Vcl.StdCtrls.hpp>

@@ -14,10 +14,10 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 13
   object AdvPageControl1: TAdvPageControl
-    Left = 80
+    Left = 8
     Top = 24
     Width = 561
-    Height = 369
+    Height = 379
     ActivePage = AdvTabSheet1
     ActiveFont.Charset = DEFAULT_CHARSET
     ActiveFont.Color = clWindowText
@@ -38,10 +38,7 @@ object Form1: TForm1
       ColorTo = clNone
       TabColor = clBtnFace
       TabColorTo = clNone
-      ExplicitLeft = 24
-      ExplicitTop = 0
-      ExplicitWidth = 100
-      ExplicitHeight = 100
+      ExplicitHeight = 341
     end
   end
 end
