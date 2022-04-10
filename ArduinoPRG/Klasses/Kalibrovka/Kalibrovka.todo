@@ -1,0 +1,14 @@
+☐ [[..\SxemA.cpp::Калибр из INI]]← Калибр из INI
+☐ [[..\SxemA.cpp::Калибр в INI]]← Калибр в INI
+
+☐ [[..\Unit1.cpp::Корект Gain]]← Калибр в Gain
+☐ [[..\Unit1.cpp::Meas3DG10P1S]]← Калибр в Gain
+
+☐ [[..\Unit1.cpp::Корект SEN35]]← Калибр в SEN35
+☐ [[..\Unit1.cpp::Корект SEN11]]← Калибр в SEN11
+☐ [[..\Unit1.cpp::Meas3DG10P1S(]]← Калибр в SEN11
+/******************** Разноканальность ***********
+☐ [[..\SxemA.cpp::АТТ из INI]]← АТТ из INI
+☐ [[..\SxemA.cpp::АТТ в INI]]← АТТ в INI
+
+☐ [[..\Unit1.cpp::Edit25KeyPress]]← АТТ в Gain

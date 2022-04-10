@@ -1,0 +1,47 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 617
+  ClientWidth = 932
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object AdvPageControl1: TAdvPageControl
+    Left = 136
+    Top = 128
+    Width = 497
+    Height = 353
+    ActivePage = AdvTabSheet1
+    ActiveFont.Charset = DEFAULT_CHARSET
+    ActiveFont.Color = clWindowText
+    ActiveFont.Height = -11
+    ActiveFont.Name = 'Tahoma'
+    ActiveFont.Style = []
+    DoubleBuffered = True
+    TabBackGroundColor = clBtnFace
+    TabMargin.RightMargin = 0
+    TabOverlap = 0
+    Version = '2.0.0.10'
+    PersistPagesState.Location = plRegistry
+    PersistPagesState.Enabled = False
+    TabOrder = 0
+    object AdvTabSheet1: TAdvTabSheet
+      Caption = 'AdvTabSheet1'
+      Color = clBtnFace
+      ColorTo = clNone
+      TabColor = clBtnFace
+      TabColorTo = clNone
+      ExplicitLeft = 24
+      ExplicitTop = 0
+      ExplicitWidth = 100
+      ExplicitHeight = 100
+    end
+  end
+end

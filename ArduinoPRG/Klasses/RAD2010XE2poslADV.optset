@@ -1,0 +1,22 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UsePackages>false</UsePackages>
+        <ILINK_LibraryPath>C:\Program Files (x86)\Embarcadero\RAD Studio\11.0\include\6930\XlsAdapter;c:\Program Files (x86)\Embarcadero\RAD Studio\11.0\include\windows\rtl;c:\Program Files (x86)\Embarcadero\RAD Studio\11.0\include\windows\rtl\;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+        <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+        <UsingDelphiRTL>false</UsingDelphiRTL>
+        <IncludePath>C:\windriver_xp\samples\shared;C:\windriver_xp\samples;C:\windriver_xp;C:\windriver_xp\include;C:\Program Files (x86);C:\Program Files (x86)\Embarcadero\RAD Studio\11.0\include\6930\XlsAdapter;c:\Program Files (x86)\Embarcadero\RAD Studio\11.0\include\windows\rtl;$(IncludePath)</IncludePath>
+        <BCC_UserSuppliedOptions>-ps -Vx -r- -k -Ve</BCC_UserSuppliedOptions>
+        <VerInfo_Locale>1033</VerInfo_Locale>
+        <TASM_AdditionalSwitches>/w2</TASM_AdditionalSwitches>
+        <TASM_DisplaySourceLines>false</TASM_DisplaySourceLines>
+        <VerInfo_Keys>CompanyName=;FileDescription=;FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=;ProductVersion=1.0.0.0</VerInfo_Keys>
+    </PropertyGroup>
+    <ProjectExtensions>
+        <Borland.Personality>CPlusPlusBuilder.Personality.12</Borland.Personality>
+        <Borland.ProjectType>OptionSet</Borland.ProjectType>
+        <BorlandProject>
+            <CPlusPlusBuilder.Personality/>
+        </BorlandProject>
+        <ProjectFileVersion>12</ProjectFileVersion>
+    </ProjectExtensions>
+</Project>

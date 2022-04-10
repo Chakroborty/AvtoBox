@@ -1,0 +1,22 @@
+  /*=========  Настройка параметров Канала   =========================*/
+☐ [[..\Unit1.cpp::352]]← Выбор преселекторов
+☐ [[..\PRCRR.cpp::SetFriq(i]]← Прогрузка
+  ☐ [[..\KanalRRUKV.cpp::WriteFregIN(d]]← Прогрузка
+  ☐ [[..\BLKRPURR.cpp::LoadRPURRALL]]← Прогрузка
+    ☐ [[..\PRCRR.cpp::LoadKL(i]]← Прогрузка
+      ☐ [[..\KanalRRUKV.cpp::LoadKL(i]]← Прогрузка
+    ☐ [[..\PRCRR.cpp::LoadATT_K1(i]]← Прогрузка
+☐ [[..\PRC.h::3290001]]← Настройка параметров соединения
+☐ [[..\KanalRRUKV.cpp::WriteFregIN(d]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::ATT1_SET(]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::AmplifSET(i]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::PRESELSET(i]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::LoadKL(i]]← Прогрузка COM
+☐ [[..\PRCRR.cpp::LoadATT_K1(]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::LoadATT(i]]← Прогрузка COM
+  MKanal->AmplifSET(Ampl);
+    
+    MKanal->ATT1_SET(DB1);
+    MKanal->ATT2_SET(DB2);
+    MKanal->ATT3_SET(DB2);
+    MKanal->ATT4_SET(DB2);

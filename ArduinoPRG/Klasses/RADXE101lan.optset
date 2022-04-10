@@ -1,0 +1,22 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UsePackages>false</UsePackages>
+        <_TCHARMapping>char</_TCHARMapping>
+        <IncludePath>D:\Program FilesD\Embarcadero\Studio\18.0\source\TMSComponentPack8340;D:\Docum\Progekts\EMBARCADERO\Klasses;D:\Docum\Progekts\EMBARCADERO\Klasses\MicroShem;$(IncludePath)</IncludePath>
+        <ILINK_LibraryPath>D:\Program FilesD\Embarcadero\Studio\18.0\source\TMSComponentPack8340;D:\Docum\Progekts\EMBARCADERO\Klasses;D:\Docum\Progekts\EMBARCADERO\Klasses\MicroShemonentPack8340;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+        <VerInfo_Locale>1033</VerInfo_Locale>
+        <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+        <BCC_IncludePath>d:\Program FilesD\Embarcadero\Studio\18.0\include\windows\sdk\atl;$(BCC_IncludePath)</BCC_IncludePath>
+        <BCC_Defines>WINDOWS;LIGHT_NETWORK_SRC;$(BCC_Defines)</BCC_Defines>
+        <AppEnableRuntimeThemes>true</AppEnableRuntimeThemes>
+        <AppEnableHighDPI>true</AppEnableHighDPI>
+    </PropertyGroup>
+    <ProjectExtensions>
+        <Borland.Personality>CPlusPlusBuilder.Personality.12</Borland.Personality>
+        <Borland.ProjectType>OptionSet</Borland.ProjectType>
+        <BorlandProject>
+            <CPlusPlusBuilder.Personality/>
+        </BorlandProject>
+        <ProjectFileVersion>12</ProjectFileVersion>
+    </ProjectExtensions>
+</Project>

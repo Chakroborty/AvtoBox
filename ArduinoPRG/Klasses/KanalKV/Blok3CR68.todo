@@ -1,0 +1,90 @@
+☐ [[..\BL3Cr6.cpp::SetFriq]]← Установка параметров модуля.
+☐ [[..\Mod3CR5.cpp::LoadKL()]]← Подготовка команды параметров модуля.
+☐ [[..\BL3Cr6.cpp::SetALL]]← Отправка данных в USB
+  ☐ [[..\Mod3CR5.cpp::LoadATT_UPC(]]← Подготовка команды параметров модуля.
+  ☐ [[..\Mod3CR5.cpp::LoadAmpl_UPC(]]← Подготовка команды параметров модуля.
+☐ [[..\UKV3CR6I8.cpp::WriteDword_3СК68]]← Подготовка пакета USB.
+/*==================================
+=            Измерения             =
+==================================*/
+☐ [[..\Unit3CR5.cpp::Button8Click(TObject]]← Процедура измерений
+☐ [[..\Unit3CR5.cpp::btn9Click(TObject]]← Процедура измерений
+☐ [[..\Unit3CR5.cpp::btn8Click(TObject]]← Процедура измерений +5%
+☐ [[..\Unit3CR5.cpp::btn7Click(TObject]]← Процедура измерений -5%
+☐ [[..\Unit3CR5.cpp::Измерение 3Чр5]]← Процедура измерений
+
+/* Требует доработки  */
+
+ 
+☐ [[..\Unit3CR5.cpp::Измерение 3Чр5]]← Процедура измерений
+/* Исправить  */
+Разобраться с k,Col 
+  ☐ [[..\Stend3CR68.cpp::GeinPanoram]]← Процедура измерений панорамой
+  ☐ [[..\Stend3CR68.cpp::GeinAnGen  param8]]← Процедура измерений GeinAnGen
+    ☐ [[..\Stend3CR68.cpp::SelektKanalCr68(int]]← Процедура измерений GeinAnGen
+  ☐ [[..\Stend3CR68.cpp::GeinAnGen  param4]]← Процедура измерений GeinAnGen
+  ☐ [[..\Stend3CR68.cpp::Set5071_PerenosBW]]← Процедура перенос BW панорамой
+    ☐ [[..\E5071BNetwAnalizer.cpp::CalkMarkBW]]← Процедура перенос BW панорамой
+    ☐ [[..\E5071BNetwAnalizer.cpp::Threshold BW]]← Переменная BW панорамой
+    ☐ [[..\Stend3CR68.cpp::Установка Average BW]]← Процедура перенос BW панорамой
+    ☐ [[..\Stend3CR68.cpp::Sens]]← Процедура перенос BW панорамой
+☐ [[..\Stend3CR68.cpp::IP1(]]← Процедура IP1
+☐ [[..\Stend3CR68.cpp::Sens]]← Процедура IP1
+  ☐ [[..\Unit3CR5.cpp::Парам менее]]← Процедура измерений
+  ☐ [[..\Unit3CR5.cpp::Парам более]]← Процедура измерений
+  ☐ [[..\Unit3CR5.cpp::Диапазон]]← Процедура измерений
+/*=====  End of Измерения   ======*/
+/* 3Чр5-03 ПСИ*/
+☐ [[..\Unit3CR5.cpp::AdvStringGrid1ClickCell(TObject]]← Процедура измерений ClickCell
+☐ [[..\Unit3CR5.cpp::AdvStringGrid1DblClickCell]]← Процедура измерений DblClickCell
+  ☐ [[..\Unit3CR5.cpp::btn9Click]]← Процедура Начало измерений 1-8
+  ☐ [[..\Unit3CR5.cpp::Измерение 3Чр5]]← Процедура измерений
+    ☐ [[..\Unit3CR5.cpp::Измерение полосы]]← Процедура измерений
+☐ [[..\Unit3CR5.cpp::AdvStringGrid1DblClickCell]]← Процедура измерений DblClickCell
+  ☐ [[..\Unit3CR5.cpp::Button8Click]]← Процедура Начало измерений 9-16
+  /* Требует доработки  */
+☐ [[..\Unit3CR5.cpp::Button8Click]]← До после 8 канала 9-16
+  ☐ [[..\Unit3CR5.cpp::Измерение 3Чр5]]← Процедура измерений
+    ☐ [[..\Unit3CR5.cpp::Измерение полосы]]← Процедура измерений    
+    /*================================
+    =            ПСИ 3Чр6            =
+    ================================*/
+    /* Сохранение протокола 3Чр6 */
+☐ [[..\Unit3CR5.cpp::Button35Click(T]]← Сохранение протокола 3Чр5-03
+
+☐ [[..\Unit3CR5.cpp::Button47Click(T]]← Сохранение протокола 3Чр6
+
+    /*=====  End of Сохранение протокола 3Чр6  ======*/
+    
+    
+    ☐ [[..\Unit3CR5.cpp::ПСИ 3Чр6]]← Процедура Начало измерений 1-8
+    
+    
+    /*=====  End of ПСИ 3Чр6  ======*/
+    
+/*==========================================
+=            Section Объявление            =
+==========================================*/
+ ☐ [[..\Unit3CR5.cpp::Mas()]]← Процедура подсказки
+    ☐ [[..\Unit3CR5.cpp::кабели 23]]← Сх. изм. номера кабелей
+ ☐ [[..\Unit3CR5.cpp::MasPriemka(int]]← Процедура подсказки
+ ☐ [[..\Unit3CR5.cpp::MasKanal(int]]← Процедура подсказки
+  SOOBCH1 = AdvStringGrid5->Cells[0][0];
+
+       switch (ComboBox10->ItemIndex)
+    {
+       case 0:
+       SOOBCH2 = "ОТК";
+       break;
+
+       case 1:
+       SOOBCH2 = "ВП МО";
+       break;
+    }
+      if (mrNo ==MessageDlg("Внимание! Установлен протокол блока №"+SOOBCH1+"приемка "+SOOBCH2+". Продолжить?", mtInformation, TMsgDlgButtons() << mbNo << mbYes, 0)) {
+       return ;
+     }
+      Mas();
+     Button6Click(Button6);
+☐ [[..\Unit3CR5.cpp::MasKanal(int]]← Процедура подсказки
+/*=====  End of Section Объявление  ======*/

@@ -1,0 +1,18 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ILINK_LibraryPath>C:\Users\Public\Documents\Embarcadero\Studio\15.0\DCP\;$(BDS)\lib\win32\release\;C:\Program Files (x86)\Embarcadero\Studio\15.0\bin;$(ILINK_LibraryPath)</ILINK_LibraryPath>
+        <UsePackages>false</UsePackages>
+        <UsingDelphiRTL>false</UsingDelphiRTL>
+        <BCC_UserSuppliedOptions>-ps -Vx -r- -k -Ve</BCC_UserSuppliedOptions>
+        <TASM_AdditionalSwitches>/w2</TASM_AdditionalSwitches>
+        <TASM_DisplaySourceLines>false</TASM_DisplaySourceLines>
+    </PropertyGroup>
+    <ProjectExtensions>
+        <Borland.Personality>CPlusPlusBuilder.Personality.12</Borland.Personality>
+        <Borland.ProjectType>OptionSet</Borland.ProjectType>
+        <BorlandProject>
+            <CPlusPlusBuilder.Personality/>
+        </BorlandProject>
+        <ProjectFileVersion>12</ProjectFileVersion>
+    </ProjectExtensions>
+</Project>

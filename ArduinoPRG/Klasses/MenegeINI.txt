@@ -1,0 +1,11 @@
+
+  *.h
+ OPTIONS_BASE *MemINI;
+
+
+ *.ccp
+MemINI = new OPTIONS_BASE("RPU16.ini");
+ComboBox1->ItemIndex =  MemINI->ReadDouble("Priemka","Tipe",0);
+
+MemINI->WriteDouble("Priemka","Tipe",ComboBox1->ItemIndex);
+MemINI->TWriteDouble(ComboBox1->ItemIndex,"Tabl1","Kp1",ComboBox1->ItemIndex);

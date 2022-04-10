@@ -1,0 +1,16 @@
+  /*=========  Настройка параметров Канала   =========================*/
+☐ [[..\BlKRPURR.cpp::LoadRPURR()]]← Прогрузка COM  
+☐ [[..\PRCRR.cpp::SetFriq(i]]← Настройка параметров соединения
+☐ [[..\KanalRRUKV.cpp::WriteFregIN(d]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::ATT1_SET(]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::AmplifSET(i]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::PRESELSET(i]]← Прогрузка COM
+☐ [[..\KanalRRUKV.cpp::LoadKL(i]]← Прогрузка COM
+
+
+  MKanal->AmplifSET(Ampl);
+    
+    MKanal->ATT1_SET(DB1);
+    MKanal->ATT2_SET(DB2);
+    MKanal->ATT3_SET(DB2);
+    MKanal->ATT4_SET(DB2);

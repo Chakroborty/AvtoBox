@@ -1,0 +1,21 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
+			<UsingDelphiRTL>false</UsingDelphiRTL>
+			<IncludePath>C:\windriver_xp\samples\shared;C:\windriver_xp\samples;C:\windriver_xp;C:\windriver_xp\include;C:\Program Files (x86);$(IncludePath)</IncludePath>
+			<BCC_UserSuppliedOptions>-ps -Vx -r- -k -Ve</BCC_UserSuppliedOptions>
+			<VerInfo_Locale>1033</VerInfo_Locale>
+			<TASM_AdditionalSwitches>/w2</TASM_AdditionalSwitches>
+			<Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
+			<TASM_DisplaySourceLines>false</TASM_DisplaySourceLines>
+			<VerInfo_Keys>CompanyName=;FileDescription=;FileVersion=1.0.0.0;InternalName=;LegalCopyright=;LegalTrademarks=;OriginalFilename=;ProductName=;ProductVersion=1.0.0.0</VerInfo_Keys>
+		</PropertyGroup>
+		<ProjectExtensions>
+			<Borland.Personality>CPlusPlusBuilder.Personality.12</Borland.Personality>
+			<Borland.ProjectType>OptionSet</Borland.ProjectType>
+			<BorlandProject>
+				<CPlusPlusBuilder.Personality/>
+			</BorlandProject>
+			<ProjectFileVersion>12</ProjectFileVersion>
+		</ProjectExtensions>
+	</Project>

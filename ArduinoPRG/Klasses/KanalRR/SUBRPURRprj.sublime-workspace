@@ -1,0 +1,1992 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"I",
+				"INI"
+			],
+			[
+				"PD",
+				"PDEV"
+			],
+			[
+				"B",
+				"BPERENOS"
+			],
+			[
+				"ALL",
+				"ALLAnDELTA"
+			],
+			[
+				"L",
+				"Lan"
+			],
+			[
+				"Ka",
+				"Kanal"
+			],
+			[
+				"F",
+				"Fin"
+			],
+			[
+				"Ste",
+				"StendPRibor"
+			],
+			[
+				"For",
+				"FormSH"
+			],
+			[
+				"Fi",
+				"FIN"
+			],
+			[
+				"Bl",
+				"BLKRPURR"
+			],
+			[
+				"час",
+				"частоты"
+			],
+			[
+				"Vir",
+				"VirtBlock.h\t(VirtBlock.h)"
+			],
+			[
+				"Set",
+				"SetFriq\t(BLKRPURR.cpp)"
+			],
+			[
+				"BL",
+				"BLKRPURR.cpp\t(BLKRPURR.cpp)"
+			],
+			[
+				"DE",
+				"DEV"
+			],
+			[
+				"D",
+				"DEV"
+			],
+			[
+				"BLK",
+				"BLKRPURR.cpp::Ссылка]]←\t(StendPR.todo)"
+			],
+			[
+				"AT",
+				"ATT1"
+			],
+			[
+				"Uni",
+				"Unit1.cpp"
+			],
+			[
+				"Form",
+				"FormSNSW"
+			],
+			[
+				"DEV",
+				"DEVICESTR_"
+			],
+			[
+				"Dial",
+				"DialogSave.cpp\t(DialogSave.cpp)"
+			],
+			[
+				"Dia",
+				"DialogSave.h"
+			],
+			[
+				"MF",
+				"MFC1RR.cpp"
+			],
+			[
+				"TODO",
+				"TODO\t(MFC1RR.cpp)"
+			],
+			[
+				"CUR",
+				"CURSET"
+			],
+			[
+				"Po",
+				"Poz"
+			],
+			[
+				"LO",
+				"LOAD_F\t(FCHPERENOS.cpp)"
+			],
+			[
+				"S",
+				"S20p"
+			],
+			[
+				"ПР",
+				"прогрузка"
+			],
+			[
+				"UP",
+				"UPR1"
+			],
+			[
+				"SET",
+				"SETUXM20"
+			],
+			[
+				"BFc",
+				"BFCHP"
+			],
+			[
+				"MX",
+				"MXUXM20"
+			],
+			[
+				"Nu",
+				"NumDapazon"
+			],
+			[
+				"Polo",
+				"Polosa830"
+			],
+			[
+				"SetF",
+				"SetFreq\t(MFC1RR.cpp)"
+			],
+			[
+				"ARR",
+				"ARRAY947"
+			],
+			[
+				"Sw",
+				"Switch34980"
+			],
+			[
+				"SW",
+				"SW947ST\t(Switch34980A.h)"
+			],
+			[
+				"SE",
+				"SETDIV\t(MUXM20.cpp)"
+			],
+			[
+				"ND",
+				"NDIV"
+			],
+			[
+				"DI",
+				"DIV"
+			],
+			[
+				"UM",
+				"UXM20"
+			],
+			[
+				"N",
+				"NDIV\t(MUXM20.h)"
+			],
+			[
+				"MFC",
+				"MFC1RRH\t(MFC1RR.h)"
+			],
+			[
+				"At",
+				"Att1"
+			],
+			[
+				"си",
+				"синтезатора"
+			],
+			[
+				"Polosa",
+				"Polosa830\t(MFC1RR.h)"
+			],
+			[
+				"U",
+				"UPR\t(KanalRRUKV.h)"
+			],
+			[
+				"MP",
+				"MPRC"
+			],
+			[
+				"Kana",
+				"KanalRRUKV.h\t(KanalRRUKV.cpp)"
+			],
+			[
+				"OU",
+				"OUT"
+			],
+			[
+				"tr",
+				"true\t(PRCRR.cpp)"
+			],
+			[
+				"Che",
+				"CheckBox2"
+			],
+			[
+				"VA",
+				"VALUE"
+			],
+			[
+				"Val",
+				"VALUE"
+			],
+			[
+				"LD",
+				"LDTupe"
+			],
+			[
+				"P",
+				"PDovn\t(LMX2594.cpp)"
+			],
+			[
+				"RE",
+				"RES"
+			],
+			[
+				"M",
+				"MULT"
+			],
+			[
+				"ML",
+				"MLT"
+			],
+			[
+				"MU",
+				"MULT"
+			],
+			[
+				"PLL",
+				"PLL_PRE"
+			],
+			[
+				"UX",
+				"UXM15"
+			],
+			[
+				"UXD",
+				"UXD20"
+			],
+			[
+				"Sint1_LM",
+				"Sint1_LMX2594"
+			],
+			[
+				"ch",
+				"Checked"
+			],
+			[
+				"Str",
+				"StrToInt"
+			],
+			[
+				"E",
+				"Edit17"
+			],
+			[
+				"Re",
+				"Reg"
+			],
+			[
+				"re",
+				"return\t(Unit1.cpp)"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"Lab",
+				"Label23\t(Unit1.h)"
+			],
+			[
+				"Edit",
+				"Edit9\t(Unit1.h)"
+			],
+			[
+				"Lo",
+				"LoadVME"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"DDATA",
+				"DDATA32"
+			],
+			[
+				"dd",
+				"DDATA64"
+			],
+			[
+				"AD",
+				"ADR\t(Unit1.h)"
+			],
+			[
+				"Loa",
+				"LoadREG"
+			],
+			[
+				"An",
+				"AnE4407"
+			],
+			[
+				"Get",
+				"GetIPlok"
+			],
+			[
+				"RS",
+				"RS_FSL"
+			],
+			[
+				"St",
+				"Stend"
+			],
+			[
+				"Cm",
+				"CmB17"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"GP",
+				"GPIB_Set"
+			],
+			[
+				"sin",
+				"Sint100_ADF4002"
+			],
+			[
+				"MAP",
+				"MAP02"
+			],
+			[
+				"BL3",
+				"BL3DG1C.h\t(BL3DG1C.cpp)"
+			],
+			[
+				"n",
+				"N2"
+			],
+			[
+				"DF",
+				"DFpc\t(MFC2DG.h)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"DN",
+				"DNSys\t(MFC1DG.h)"
+			],
+			[
+				"Dn",
+				"DNdiap"
+			],
+			[
+				"com",
+				"comm-todo\tComment - To-do list"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"div",
+				"DIvG"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"if",
+				"ifelse\tif(…) else"
+			],
+			[
+				"comm",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"co",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"тр",
+				"труда\t(Служебная комп.txt)"
+			],
+			[
+				"про",
+				"производительности\t(Служебная комп.txt)"
+			],
+			[
+				"comm-",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"To",
+				"TODO"
+			],
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "MFC1RR.cpp",
+			"settings":
+			{
+				"buffer_size": 57946,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/TempVMshare/Vivado/History/init.c",
+			"settings":
+			{
+				"buffer_size": 13401,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/TempVMshare/Vivado/History/main.c",
+			"settings":
+			{
+				"buffer_size": 15621,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "\n#include \"intc_header.h\"\n\n#define TEST_BUFFER_SIZE 4\nstatic u8 RecvBuffer[TEST_BUFFER_SIZE];\n\n#define BUFFER_SIZE 5\n\nint main()\n{\nint Status;\nu8 temp=0, IOB, mask;\nXUartLite Uart;\nu16 RecvData=0;\nReg26Offset =0x0000001A;\nunsigned int ReceivedCount;\nunsigned char ADDR;\nstatic u16 DataBuf[BUFFER_SIZE];\nstatic u8 AddrBuf[BUFFER_SIZE];\nint MyLoop;\nu32 RgloadDDS;\n\nu32 ReadWME=0, temp2=0;\n\n\tstruct byte {\n\t\tunsigned B0:   1;\n\t\tunsigned B1:   1;\n\t\tunsigned B2:   1;\n\t\tunsigned B3:   1;\n\t\tunsigned B4:   1;\n\t\tunsigned B5:   1;\n\t\tunsigned B6:   1;\n\t\tunsigned B7:   1;\n\t};\n\n\tstruct byte x = {0, 0, 0, 0, 0, 0, 0, 0};\n\n\n\tStatus = XUartLite_Initialize(&Uart, XPAR_AXI_UARTLITE_0_DEVICE_ID);\n\tif(Status != XST_SUCCESS) {\n\t    \txil_printf(\"Uart Initialzation Failed\\r\\n\");\n\t    \treturn XST_FAILURE;\n\t}\n\n\tinitADF4355();\n\tinitDDS();\n\tinitTempSensor();\n\n\tWriteReg(26, 1, 0x20000000); // АК и КНП enable\n\t//WriteReg(31, 1, 0x80000009); // WME enable\n\n\twhile(1) {\n\n\n\n\t\t/* -------------------------------------------------- */\n\t\t/* -------------------------------------------------- */\n\t\t/* -------- Block receiving buffer from USB  -------- */\n\t\t/* -------------------------------------------------- */\n\t\t/* -------------------------------------------------- */\n\n\n/*\t\tReceivedCount = 0;\n     \twhile (ReceivedCount < TEST_BUFFER_SIZE) {\n     \tReceivedCount +=\n     \tXUartLite_Recv(&Uart, &RecvBuffer[ReceivedCount],\n     \t\t\t\t(TEST_BUFFER_SIZE - ReceivedCount));\n     \t}\n\n     \tRecvData = 0;\n     \ttemp = 0;\n\n\n     \tADDR = RecvBuffer[0];\n\n\n     \tswitch(ADDR){\n     \t\tcase 0x04:\n     \t\t\tRecvData = (RecvData | RecvBuffer[1]) << 8;\n     \t\t\ttemp = (temp | (RecvBuffer[2] <<4)) | (RecvBuffer[2] & 0x0F); \t// так как биты П1=П5, П2=П6, П3=П7, П4=П8, а в посылке только П8-П5 биты\n     \t\t\tRecvData = (RecvData & 0xFF00) | temp;\n     \t\tbreak;\n\n     \t\tdefault:\n     \t\t\tfor(int i=1; i<TEST_BUFFER_SIZE-1; i++)\t{\n     \t\t\t\tRecvData = RecvData<<8 | RecvBuffer[i];\n     \t\t\t}\n     \t}\n\n       \txil_printf(\"RecvData = %x\", ADDR);\n     \txil_printf(\"%x\", RecvData);\n     \txil_printf(\"h\\r\\n\");\n\n\n     \tswitch(ADDR){\n\n     \t\tcase 0x00:\t\t\t\t\t\t\t\t\t// Коммутатор генератора шума(может не нужен)\n     \t\t\txil_printf(\"ADDR = %x\\r\\n\", ADDR);\n     \t\tbreak;\n\n     \t\tcase 0x01:\t\t\t\t\t\t\t\t\t// ГУН_2\n     \t\t    VCO(RecvData, 2);\n     \t\tbreak;\n\n     \t\tcase 0x02:\t\t\t\t\t\t\t\t\t// ГУН_3\n     \t\t\tVCO(RecvData, 3);\n     \t\tbreak;\n\n     \t\tcase 0x03:\t\t\t\t\t\t\t\t\t// ГУН_4\n     \t\t\tVCO(RecvData, 4);\n     \t\tbreak;\n\n     \t\tcase 0x04:\t\t\t\t\t\t\t\t\t// Установка режима работы СРЧ\n     \t\t\tWriteReg(10, 1, RecvData);\n     \t\tbreak;\n\n     \t\tcase 0x05:\t\t\t\t\t\t\t\t\t// Рег-ка ампл. шума(FB3-FB0), вкл/выкл шум(FB4), m-последовательность(FB14-FB5)\n     \t\t    //xil_printf(\"ADDR = %x\\r\\n\", ADDR);\n     \t\tbreak;\n\n     \t\tcase 0x06:\t\t\t\t\t\t\t\t\t// Автоконтроль\n     \t\t    //xil_printf(\"ADDR = %x\\r\\n\", ADDR);\n     \t\t\t//Reg10Date = 0xc002522;\n     \t\tbreak;\n\n     \t\tcase 0x07:\t\t\t\t\t\t\t\t\t// ГУН_1\n     \t\t\tVCO(RecvData, 1);\n\t\t\t\n     \t\tbreak;\n\n\n\n     \t\tcase '1':\t\t\t\t\t\t\t\t\t// test ГУН_1\n\n     \t\t\tDDS1AmplUpdate(RecvData);\n\n     \t\tbreak;\n\n     \t\tcase '2':\t\t\t\t\t\t\t\t\t// test ГУН_2\n\n     \t\t\txil_printf(\"WME = %x\\r\\n\", VModule_In32(MYIP_0_S00_AXI_BASEADDR + 26));   // 26 register -> WME\n\n     \t\tbreak;\n\n\n     \t\tcase '3':\t\t\t\t\t\t\t\t\t// test ГУН_2\n     \t\t\t//mask = RecvData & 0x0f;\n     \t\t\tfor(int i=0; i<100000; i++) {\n       \t\t\t\tif((IOB = ((IOB<<1)|(((x.B5^x.B7)^x.B4)^x.B3))) == 0) IOB = 0x07;\n       \t\t\t\tRecvData = (RecvData & 0xFFF0) | (IOB & 0x0f) ;\n       \t\t//\t\txil_printf(\"IOB = %x\\r\\n\", IOB);\n       \t\t\t\t//xil_printf(\"RecvData = %x\\r\\n\", RecvData);\n       \t\t\t\tVCO(RecvData, 1);\n       \t\t\t}\n\n\n     \t\tbreak;\n\n    \t\tdefault:\n     \t\t\tfor(int i=4; i<1; i--) {\n     \t\t\tXUartLite_Recv(&Uart, &RecvBuffer[4-i],\n     \t\t\t     \t\t\t(TEST_BUFFER_SIZE - i));\n     \t\t\t}\n     \t\t\txil_printf(\"case default\\r\\n\");\n\n     \t}*/\n\n\n\t\t/* -------------------------------------------------- */\n\t\t/* -------------------------------------------------- */\n\t\t/* -------- Block receiving from WME in stend-------- */\n\t\t/* -------------------------------------------------- */\n\t\t/* -------------------------------------------------- */\n\n\n\t//\tReadWME = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 26); \t// 26 register -> WME\n\n     \tReceivedCount = 0;\n\t\twhile(ReceivedCount < BUFFER_SIZE) {\n\t\t\tReadWME = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 26);\n\t\t\tif(temp2 == ReadWME) {}\n\t\t\telse if ((ReadWME == 0x60010) ||\n\t\t\t\t\t (ReadWME == 0x60020) ||\n\t\t\t\t\t (ReadWME == 0x60040) ||\n\t\t\t\t\t (ReadWME == 0x60080))  {\n\t\t\t\tWriteReg(26, 1, 0xE0000000);\n\t\t\t}\n\t\t\telse if (ReadWME == 0x60000) {  \t\t// AK1\n\t\t\t\t//temp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 26);\n\t\t\t\t//xil_printf(\"temp2 = %x\\r\\n\", temp2);\n\t\t\t\ttemp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 31);\n\n\t\t\t\t// DT\n\t\t\t\t// initTempSensor();\n\t\t\t\t// DT\n\n\t\t\t\tif ((temp2 & 0x1000000) == 0x1000000) {  //0x800000\n\t\t\t\t\tWriteReg(26, 1, 0x60000000);\n\t\t\t\t}\n\t\t\t\telse {\n\t\t\t\t\tWriteReg(26, 1, 0x20000000);\n\t\t\t\t}\n\t\t\t}\n\t\t\telse if (ReadWME == 0x60001) {  \t\t// AK2\n\t\t\t\ttemp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 31);\n\t\t\t\tif ((temp2 & 0x2000000) == 0x2000000) {  // 1000000\n\t\t\t\t\tWriteReg(26, 1, 0x60000000);\n\t\t\t\t}\n\t\t\t\telse {\n\t\t\t\t\tWriteReg(26, 1, 0x20000000);\n\t\t\t\t}\n\t\t\t}\n\t\t\telse if (ReadWME == 0x60011) { }\n\t\t\t//else if (ReadWME == 0x60001)  {\t}\n\t\t\telse if (((ReadWME & 0xF0000) >> 16) != AddrBuf[ReceivedCount-1]) {\n\t\t\t\tif ((ReceivedCount == 0) && ((ReadWME & 0xFFFFF) == 0x40000)) {\n\t\t\t\t\tAddrBuf[ReceivedCount] = (ReadWME & 0xF0000) >> 16;\n\t\t\t\t\tDataBuf[ReceivedCount] =  ReadWME & 0x0000FFFF;\n\t\t\t\t\tReceivedCount++;\n\t\t\t\t\txil_printf(\"WME = %x\\r\\n\", ReadWME);\n\t\t\t\t}\n\t\t\t\tif ((ReceivedCount != 0) && ((ReadWME & 0xFFFFF) != 0x40000)) {\n\t\t\t\t\tAddrBuf[ReceivedCount] = (ReadWME & 0xF0000) >> 16;\n\t\t\t\t\tDataBuf[ReceivedCount] =  ReadWME & 0x0000FFFF;\n\t\t\t\t\tReceivedCount++;\n\t\t\t\t\txil_printf(\"WME = %x\\r\\n\", ReadWME);\n\t\t\t\t}\n\t\t\t}\n\t\t\ttemp2 = ReadWME;\n\t\t}\n\n\t\tfor(int i=0; i < ReceivedCount; i++) {\n\n\t\t\tswitch(AddrBuf[i]) {\n\t\t\t\tcase 0x04:\n\t\t\t\t\tRecvData = ((DataBuf[i] << 4) | (DataBuf[i] & 0x0000000F));\n\t\t\t\tbreak;\n\n\t\t\t\tdefault:\n\t\t\t\t\tRecvData = DataBuf[i];\n\t\t\t}\n\nФЫС\n\t//\txil_printf(\"WME = %x\\r\\n\", ReadWME);\n\n\t\tswitch(AddrBuf[i]){\n\t\t\tcase 0x00:\t\t\t\t\t\t\t\t\t// Коммутатор генератора шума(может не нужен)\n\t\t    \t//xil_printf(\"ADDR = %x\\r\\n\", ADDR);\n\t\t\t\tif (RecvData == 0x1) {\n\t\t\t\t\tRgloadDDS = 0x0705<<16 | 0x0f<<8 | 0x5;\n\t\t\t\t\tWriteReg( 0, 1, RgloadDDS);\t\t\t\t// up_word\n\t\t\t\t\tRgloadDDS = 0x2120<<16 | 0x0d<<8 | 0x5;\n\t\t\t\t\tWriteReg( 0, 1, RgloadDDS);\t\t\t\t// dw_word\n\t\t\t\t\tWriteReg(14, 1, 0x1); \t\t\t\t\t// UPDATE dds1\n\n\t\t\t\t\tRgloadDDS = 0x0705<<16 | 0x0f<<8 | 0x5;\n\t\t\t\t\tWriteReg(16, 1, RgloadDDS);\t\t\t\t// up_word\n\t\t\t\t\tRgloadDDS = 0x2120<<16 | 0x0d<<8 | 0x5;\n\t\t\t\t\tWriteReg(16, 1, RgloadDDS);\t\t\t\t// dw_word\n\t\t\t\t\tWriteReg(30, 1, 0x1); \t\t\t\t\t// UPDATE dds2\n\n\t\t\t\t}\n//\t\t\t\t\tfor (MyLoop =0; MyLoop <300; MyLoop =MyLoop +1);\n\t\t\t\t\tif (RecvData == 0x2) {\n\t\t\t\t\tRgloadDDS = 0x0005<<16 | 0x0f<<8 | 0x5;\n\t\t\t\t\tWriteReg( 0, 1, RgloadDDS);\t\t\t\t// up_word\n\t\t\t\t\tRgloadDDS = 0x2120<<16 | 0x0d<<8 | 0x5;\n\t\t\t\t\tWriteReg( 0, 1, RgloadDDS);\t\t\t\t// dw_word\n\t\t\t\t\tWriteReg(14, 1, 0x1); \t\t\t\t\t// UPDATE dds1\n\n\t\t\t\t\tRgloadDDS = 0x0005<<16 | 0x0f<<8 | 0x5;\n\t\t\t\t\tWriteReg(16, 1, RgloadDDS);\t\t\t\t// up_word\n\t\t\t\t\tRgloadDDS = 0x2120<<16 | 0x0d<<8 | 0x5;\n\t\t\t\t\tWriteReg(16, 1, RgloadDDS);\t\t\t\t// dw_word\n\t\t\t\t\tWriteReg(30, 1, 0x1); \t\t\t\t\t// UPDATE dds2\n\t\t\t\t}\n\n\t\t\t\tif (RecvData == 0x4) {\n\t\t\t\t\tinitDDS();\n\t\t\t\t}\n\n\t\t\t\tif (RecvData == 0x8) {\n\t\t\t\t\tRgloadDDS = 0x0001<<16 | 0x03<<8 | 0x5;\n\t\t\t\t\tWriteReg( 0, 1, RgloadDDS);\t\t\t\t// up_word\n\t\t\t\t\tRgloadDDS = 0x0088<<16 | 0x01<<8 | 0x5;\n\t\t\t\t\tWriteReg( 0, 1, RgloadDDS);\t\t\t\t// dw_word\n\t\t\t\t\tWriteReg(14, 1, 0x1); \t\t\t\t\t// UPDATE dds1\n\n\t\t\t\t\tRgloadDDS = 0x0001<<16 | 0x03<<8 | 0x5;\n\t\t\t\t\tWriteReg(16, 1, RgloadDDS);\t\t\t\t// up_word\n\t\t\t\t\tRgloadDDS = 0x0088<<16 | 0x01<<8 | 0x5;\n\t\t\t\t\tWriteReg(16, 1, RgloadDDS);\t\t\t\t// dw_word\n\t\t\t\t\tWriteReg(30, 1, 0x1); \t\t\t\t\t// UPDATE dds2\n\t\t\t\t}\n\n\t\t\t\tbreak;\n\n\n\n\t\t//\t\t\t\t\tfor (MyLoop =0; MyLoop <300; MyLoop =MyLoop +1);\n\n\n\t\t    case 0x01:\t\t\t\t\t\t\t\t\t// ГУН_2\n\t\t     \tVCO(RecvData, 2);\n\t\t     \tWriteReg(6, 1, RecvData);\n\t\t     \tWriteReg(5, 1, 0x00);\n\t\t     \tWriteReg(7, 1, 0x00);\n\t\t     \tWriteReg(8, 1, 0x00);\n\n\t\t    break;\n\n\t\t    case 0x02:\t\t\t\t\t\t\t\t\t// ГУН_3\n\t\t    \t//RecvData = (RecvData | 0x2000);\n\t\t    \t//RecvData = (RecvData | 0xEFFF);\n\t\t    \tVCO(RecvData, 3);\n\t\t    \tWriteReg(7, 1, RecvData);\n\t\t    \tWriteReg(5, 1, 0x00);\n\t\t    \tWriteReg(6, 1, 0x00);\n\t\t    \tWriteReg(8, 1, 0x00);\n\n\t\t    break;\n\n\t\t    case 0x03:\t\t\t\t\t\t\t\t\t// ГУН_4\n\t\t     \tVCO(RecvData, 4);\n\t\t     \tWriteReg(8, 1, RecvData);\n\t\t     \tWriteReg(5, 1, 0x00);\n\t\t     \tWriteReg(6, 1, 0x00);\n\t\t     \tWriteReg(7, 1, 0x00);\n\n\t\t    break;\n\n\t\t    case 0x04:\t\t\t\t\t\t\t\t\t// Установка режима работы СРЧ\n\t\t     \tif(RecvData == 0x9411) RecvData = 0xA411;\n\t\t     \tif(RecvData == 0x9522) RecvData = 0xA522;\n\t\t     \tif(RecvData == 0xA844) RecvData = 0x9844;\n\t\t     \tif(RecvData == 0xAA88) RecvData = 0x9A88;\n\t\t    \t//if (RecvData > 0){\n\t\t    \tWriteReg(10, 1, RecvData);\n\t\t    //\ttemp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 10);\n\t\t    //\txil_printf(\"temp2 = %x\\r\\n\", temp2);\n\t\t    //\t}\n\t\t \tbreak;\n\n\t\t\tcase 0x05:\t\t\t\t\t\t\t\t\t// Рег-ка ампл. шума(FB3-FB0), вкл/выкл шум(FB4), m-последовательность(FB14-FB5)\n\t\t\t\tif((RecvData & 0x10) == 0x10) {\n\t\t\t\t\tif((RecvData & 0x7FE0) <= 0x1F) {\n\n\t\t\t\t\t/*\tWriteReg(10, 1, 0x0000);\n\t\t\t\t\t\tfor (MyLoop =0; MyLoop <3000; MyLoop =MyLoop +1);\n\t\t\t\t\t\tWriteReg(10, 1, 0x6922);*/\n\n\t\t\t\t\t//\ttemp2 = ((RecvData & 0x7FE0) >> 5) << 16;\n\t\t\t\t\t\ttemp = ~(RecvData & 0x0F);\n\t\t\t\t\t\ttemp =  (temp & 0x0F) + 1;\n\t\t\t\t\t\t//xil_printf(\"temp_case 0x05 = %x\\r\\n\", temp);\n\t\t\t\t\t\tRecvData = (0x1 << temp) - 1 ;\n\n\t\t\t\t\t//\tfor (int i = 0x0; i < 0xFFFF; i++) {\n\t\t\t\t\t//\tRecvData =  i;\n\t\t\t\t\t//\tfor (MyLoop =0; MyLoop <3000; MyLoop =MyLoop +1);\n\n\t\t\t\t\t\t//RecvData = temp2 | RecvData;\n\t\t\t\t\t\txil_printf(\"RecvData0_case 0x05 = %x\\r\\n\", RecvData);\n\t\t\t\t\t\tWriteReg( 9, 1, RecvData);\n\t\t\t\t\t\tWriteReg(25, 1, RecvData);\n\n\n\n\t\t\t\t\t\t//WriteReg( 9, 2, RecvData);\n\t\t\t\t\t\t//WriteReg(25, 2, RecvData);\n\n\t\t\t\t\t\t//xil_printf(\"RecvData_case 0x05 = %x\\r\\n\", RecvData);\n\t\t\t\t\t//\t}\n\t\t\t\t\t\t//xil_printf(\"RecvData_case 0x05 = %x\\r\\n\", RecvData);\n\n\t\t\t\t\t}\n\n\t\t\t\t\telse {\n\t\t\t\t\t\ttemp2 = ((RecvData & 0x7FE0) >> 5) << 21; //16;\n\t\t\t\t\t\ttemp = ~(RecvData & 0x0F);\n\t\t\t\t\t\ttemp =  (temp & 0x0F) + 1;\n\t\t\t\t\t\t//xil_printf(\"temp_case 0x05 = %x\\r\\n\", temp);\n\t\t\t\t\t\ttemp2 = temp2 | ((0x1 << temp) - 1);\n\t\t\t\t\t\txil_printf(\"RecvData1_case 0x05_temp2 = %x\\r\\n\", temp2);\n\t\t\t\t\t\txil_printf(\"RecvData1_case 0x05 = %x\\r\\n\", RecvData);\n\t\t\t\t\t\tWriteReg( 9, 1, temp2);\n\t\t\t\t\t\tWriteReg(25, 1, temp2);\n\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t//else if((RecvData & 0x7FE0) > 0x00) {\n\t\t\t\t//\tRecvData = (RecvData & 0x7FE0) >> 5;\n\t\t\t\t//\tWriteReg( 9, 2, RecvData);\n\t\t\t\t//\tWriteReg(25, 2, RecvData);\n\t\t\t\t//\txil_printf(\"RecvData2_case 0x05 = %x\\r\\n\", RecvData);\n\t\t\t\t//}\n\t\t\t\telse {\n\t\t\t\t\t//WriteReg( 9, 1, 0x00);\n\t\t\t\t\t//WriteReg(25, 1, 0x00);\n\t\t\t\t\ttemp2 = ((RecvData & 0x7FE0) >> 5) << 21; //16;\n\t\t\t\t\tWriteReg( 9, 1, temp2);\n\t\t\t\t\tWriteReg(25, 1, temp2);\n\t\t\t\t}\n\n\t\t   \tbreak;\n\n\t\t\tcase 0x06:\t\t\t\t\t\t\t\t\t// Автоконтроль\n\t\t     \t\t    //xil_printf(\"ADDR = %x\\r\\n\", ADDR);\n\t\t     \t\t\t//Reg10Date = 0xc002522;\n\t\t  \tbreak;\n\n\t\t \tcase 0x07:\t\t\t\t\t\t\t\t\t// ГУН_1\n\t\t     \tVCO(RecvData, 1);\n\t\t\t\tWriteReg(5, 1, RecvData);\n\t\t\t\tWriteReg(6, 1, 0x00);\n\t\t\t\tWriteReg(7, 1, 0x00);\n\t\t\t\tWriteReg(8, 1, 0x00);\n\t\t  \tbreak;\n\n\n\n\t\t\tdefault:\n\t\t     \txil_printf(\"case default\\r\\n\");\n\n\n\t\t}\n\t}\n\t}\n\n\n\t/* -------------------------------------------------- */\n\t/* -------------------------------------------------- */\n\t/* -------- Block receiving from WME in block-------- */\n\t/* -------------------------------------------------- */\n\t/* -------------------------------------------------- */\n\n\n\n/*\t\tReceivedCount = 0;\n\t\t//\twhile(ReceivedCount < BUFFER_SIZE) {\n\t\t\t\tReadWME = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 26);\n\t\t\t\tif(temp2 == ReadWME) {}\n\t\t\t\telse if ((ReadWME == 0x60010) ||\n\t\t\t\t\t\t (ReadWME == 0x60020) ||\n\t\t\t\t\t\t (ReadWME == 0x60040) ||\n\t\t\t\t\t\t (ReadWME == 0x60080))  {\n\t\t\t\t\tWriteReg(26, 1, 0xE0000000);\n\t\t\t\t}\n\t\t\t\telse if (ReadWME == 0x60000) {  \t\t// AK1\n\t\t\t\t\t//temp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 26);\n\t\t\t\t\t//xil_printf(\"temp2 = %x\\r\\n\", temp2);\n\t\t\t\t\ttemp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 31);\n\n\t\t\t\t\tif ((temp2 & 0x1000000) == 0x1000000) {  //0x800000\n\t\t\t\t\t\tWriteReg(26, 1, 0x60000000);\n\t\t\t\t\t}\n\t\t\t\t\telse {\n\t\t\t\t\t\tWriteReg(26, 1, 0x20000000);\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\telse if (ReadWME == 0x60001) {  \t\t// AK2\n\t\t\t\t\ttemp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 31);\n\t\t\t\t\tif ((temp2 & 0x2000000) == 0x2000000) {  // 1000000\n\t\t\t\t\t\tWriteReg(26, 1, 0x60000000);\n\t\t\t\t\t}\n\t\t\t\t\telse {\n\t\t\t\t\t\tWriteReg(26, 1, 0x20000000);\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\telse if (ReadWME == 0x60011) { }\n\n\t\t\t\telse if (temp2 != ReadWME) {\n\t\t\t\t\ttemp2 = ReadWME;\n\n\n\t\t\t\tADDR = (ReadWME & 0xF0000) >> 16;\n\t\t\t\tswitch(ADDR) {\n\t\t\t\t\tcase 0x04:\n\t\t\t\t\t\tRecvData = ((ReadWME << 4) | (ReadWME & 0x0000000F));\n\t\t\t\t\tbreak;\n\n\t\t\t\t\tdefault:\n\t\t\t\t\t\tRecvData = ReadWME;\n\t\t\t\t}\n\n\t\t\t\txil_printf(\"WME = %x\\r\\n\", ReadWME);\n\n\t\t\tswitch(ADDR) {\n\t\t\t\tcase 0x00:\t\t\t\t\t\t\t\t\t// Коммутатор генератора шума(может не нужен)\n\t\t\t    \t//xil_printf(\"ADDR = %x\\r\\n\", ADDR);\n\t\t\t    break;\n\n\t\t\t    case 0x01:\t\t\t\t\t\t\t\t\t// ГУН_2\n\t\t\t     \tVCO(RecvData, 2);\n\t\t\t     \tWriteReg(6, 1, RecvData);\n\t\t\t     \tWriteReg(5, 1, 0x00);\n\t\t\t     \tWriteReg(7, 1, 0x00);\n\t\t\t     \tWriteReg(8, 1, 0x00);\n\n\t\t\t    break;\n\n\t\t\t    case 0x02:\t\t\t\t\t\t\t\t\t// ГУН_3\n\t\t\t    \t//RecvData = (RecvData | 0x2000);\n\t\t\t    \t//RecvData = (RecvData | 0xEFFF);\n\t\t\t    \tVCO(RecvData, 3);\n\t\t\t    \tWriteReg(7, 1, RecvData);\n\t\t\t    \tWriteReg(5, 1, 0x00);\n\t\t\t    \tWriteReg(6, 1, 0x00);\n\t\t\t    \tWriteReg(8, 1, 0x00);\n\n\t\t\t    break;\n\n\t\t\t    case 0x03:\t\t\t\t\t\t\t\t\t// ГУН_4\n\t\t\t     \tVCO(RecvData, 4);\n\t\t\t     \tWriteReg(8, 1, RecvData);\n\t\t\t     \tWriteReg(5, 1, 0x00);\n\t\t\t     \tWriteReg(6, 1, 0x00);\n\t\t\t     \tWriteReg(7, 1, 0x00);\n\n\t\t\t    break;\n\n\t\t\t    case 0x04:\t\t\t\t\t\t\t\t\t// Установка режима работы СРЧ\n\t\t\t     \tif(RecvData == 0x9411) RecvData = 0xA411;\n\t\t\t     \tif(RecvData == 0x9522) RecvData = 0xA522;\n\t\t\t     \tif(RecvData == 0xA844) RecvData = 0x9844;\n\t\t\t     \tif(RecvData == 0xAA88) RecvData = 0x9A88;\n\t\t\t    \t//if (RecvData > 0){\n\t\t\t    \tWriteReg(10, 1, RecvData);\n\t\t\t    //\ttemp2 = VModule_ReadReg(MYIP_0_S00_AXI_BASEADDR, 10);\n\t\t\t    //\txil_printf(\"temp2 = %x\\r\\n\", temp2);\n\t\t\t    //\t}\n\t\t\t \tbreak;\n\n\t\t\t\tcase 0x05:\t\t\t\t\t\t\t\t\t// Рег-ка ампл. шума(FB3-FB0), вкл/выкл шум(FB4), m-последовательность(FB14-FB5)\n\t\t\t\t\tif((RecvData & 0x10) == 0x10) {\n\t\t\t\t\t\tif((RecvData & 0x7FE0) <= 0x1F) {\n\n\n\t\t\t\t\t\t\ttemp = ~(RecvData & 0x0F);\n\t\t\t\t\t\t\ttemp =  (temp & 0x0F) + 1;\n\t\t\t\t\t\t\t//xil_printf(\"temp_case 0x05 = %x\\r\\n\", temp);\n\t\t\t\t\t\t\tRecvData = (0x1 << temp) - 1 ;\n\n\n\t\t\t\t\t\t\txil_printf(\"RecvData0_case 0x05 = %x\\r\\n\", RecvData);\n\t\t\t\t\t\t\tWriteReg( 9, 1, RecvData);\n\t\t\t\t\t\t\tWriteReg(25, 1, RecvData);\n\n\n\n\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\telse {\n\t\t\t\t\t\t\ttemp2 = ((RecvData & 0x7FE0) >> 5) << 21; //16;\n\t\t\t\t\t\t\ttemp = ~(RecvData & 0x0F);\n\t\t\t\t\t\t\ttemp =  (temp & 0x0F) + 1;\n\t\t\t\t\t\t\t//xil_printf(\"temp_case 0x05 = %x\\r\\n\", temp);\n\t\t\t\t\t\t\ttemp2 = temp2 | ((0x1 << temp) - 1);\n\t\t\t\t\t\t\txil_printf(\"RecvData1_case 0x05_temp2 = %x\\r\\n\", temp2);\n\t\t\t\t\t\t\txil_printf(\"RecvData1_case 0x05 = %x\\r\\n\", RecvData);\n\t\t\t\t\t\t\tWriteReg( 9, 1, temp2);\n\t\t\t\t\t\t\tWriteReg(25, 1, temp2);\n\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\telse {\n\t\t\t\t\t\ttemp2 = ((RecvData & 0x7FE0) >> 5) << 21; //16;\n\t\t\t\t\t\tWriteReg( 9, 1, temp2);\n\t\t\t\t\t\tWriteReg(25, 1, temp2);\n\t\t\t\t\t}\n\n\t\t\t   \tbreak;\n\n\t\t\t\tcase 0x06:\t\t\t\t\t\t\t\t\t// Автоконтроль\n\t\t\t     \t\t    //xil_printf(\"ADDR = %x\\r\\n\", ADDR);\n\t\t\t     \t\t\t//Reg10Date = 0xc002522;\n\t\t\t  \tbreak;\n\n\t\t\t \tcase 0x07:\t\t\t\t\t\t\t\t\t// ГУН_1\n\t\t\t     \tVCO(RecvData, 1);\n\t\t\t\t\tWriteReg(5, 1, RecvData);\n\t\t\t\t\tWriteReg(6, 1, 0x00);\n\t\t\t\t\tWriteReg(7, 1, 0x00);\n\t\t\t\t\tWriteReg(8, 1, 0x00);\n\t\t\t  \tbreak;\n\n\n\t\t\t\tdefault:\n\t\t\t     \txil_printf(\"case default\\r\\n\");\n\n\t\t\t}\n\t\t}\n\t\t}*/\n\n\treturn 0;\n}\n\n",
+			"file": "/D/TempVMshare/Vivado/SRCH_1114_1602_2020_VME_Work_in_blok_stend_TU/src/main.c",
+			"file_size": 16220,
+			"file_write_time": 132379776780000000,
+			"settings":
+			{
+				"buffer_size": 15624,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.cpp",
+			"settings":
+			{
+				"buffer_size": 8410,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.cpp",
+			"settings":
+			{
+				"buffer_size": 51807,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PRIBOR/Diapazon.cpp",
+			"settings":
+			{
+				"buffer_size": 1553,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.cpp",
+			"settings":
+			{
+				"buffer_size": 33155,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.h",
+			"settings":
+			{
+				"buffer_size": 3058,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ASCII Decorator: Font Selector"
+			],
+			[
+				"nu",
+				"Insert Nums"
+			],
+			[
+				"sn sw",
+				"Snippet: #switch"
+			],
+			[
+				"sn lin",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"num",
+				"Insert Nums"
+			],
+			[
+				"to",
+				"TodoReview: Open Files"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"sn com lin",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"ins",
+				"Insert Nums"
+			],
+			[
+				"sn no",
+				"Snippet: NOTE"
+			],
+			[
+				"commen",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"snch",
+				"Snippet: CHANGED"
+			],
+			[
+				"snsw",
+				"Snippet: #switch"
+			],
+			[
+				"sn ch",
+				"Snippet: CHANGED"
+			],
+			[
+				"sn ",
+				"Snippet: #switch"
+			],
+			[
+				"snto",
+				"Snippet: TODO lin"
+			],
+			[
+				"TOdo",
+				"TodoReview: Open Files"
+			],
+			[
+				"tod",
+				"TodoReview: Open Files"
+			],
+			[
+				"sn li",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"snfu",
+				"Snippet: FUNC"
+			],
+			[
+				"sn fu",
+				"Snippet: FUNC"
+			],
+			[
+				"snlin",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"snli",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"ed sn",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"sn f",
+				"Snippet: FIXME"
+			],
+			[
+				"bed sn",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"reve",
+				"CodeMap: Reveal in CodeMap"
+			],
+			[
+				"toggie vi",
+				"CodeMap: Toggle Visibility"
+			],
+			[
+				"Code",
+				"CodeMap: Render From View"
+			],
+			[
+				"str",
+				"Snippet: Struct"
+			],
+			[
+				"Sn tas",
+				"Snippet: NEW TASK"
+			],
+			[
+				"sntolin",
+				"Snippet: TODO lin"
+			],
+			[
+				"sncom",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"tas sn",
+				"Snippet: NEW TASK"
+			],
+			[
+				"sntas",
+				"Snippet: NEW TASK"
+			],
+			[
+				"sn to",
+				"Snippet: TODO lin"
+			],
+			[
+				"sn tas",
+				"Snippet: NEW TASK"
+			],
+			[
+				"asci",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"tas",
+				"Tasks: New"
+			],
+			[
+				"sn",
+				"Snippet: NEW TASK"
+			],
+			[
+				"be",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"bet",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"sn new",
+				"SaneSnippets: New SaneSnippet..."
+			],
+			[
+				"sn ed",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"com lin",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"snip new",
+				"SaneSnippets: New SaneSnippet..."
+			],
+			[
+				"comm",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"com fo",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"Tasks",
+				"Tasks: New"
+			],
+			[
+				"sni lin",
+				"Snippet: TODO lin"
+			],
+			[
+				"toli",
+				"Snippet: TODO lin"
+			],
+			[
+				"lin",
+				"Snippet: TODO lin"
+			],
+			[
+				"edisn",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"SaneSnip",
+				"SaneSnippets: New SaneSnippet..."
+			],
+			[
+				"BeSnippet: ",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"Snippet: ",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"new",
+				"SaneSnippets: New SaneSnippet..."
+			],
+			[
+				"Better",
+				"BetterSnippetManager: Create New Snippet"
+			],
+			[
+				"Be",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"bett",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"Snipp",
+				"Preferences: BetterSnippetManager Settings"
+			],
+			[
+				"TODO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"sw",
+				"Snippet: #switch"
+			],
+			[
+				"in",
+				"Insert Nums"
+			],
+			[
+				"To",
+				"Tasks: Open Link"
+			],
+			[
+				"fo",
+				"Snippet: For Loop"
+			],
+			[
+				"Todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"if",
+				"Snippet: if(…) else1"
+			],
+			[
+				"go",
+				"Class Navigator: Go to next Function"
+			],
+			[
+				"calc",
+				"Snippet: Clang Version <= Check"
+			],
+			[
+				"codem",
+				"CodeMap: Toggle Visibility"
+			],
+			[
+				"code",
+				"CodeMap: Render From View"
+			],
+			[
+				"codei",
+				"SublimeCodeIntel: Enable Debug Mode"
+			],
+			[
+				"cod",
+				"CodeMap: Toggle Visibility"
+			],
+			[
+				"san",
+				"Snippet: nav - Placeholder"
+			],
+			[
+				"sanes",
+				"Set Syntax: SaneSnippet"
+			],
+			[
+				"creasn",
+				"BetterSnippetManager: Create New Snippet"
+			],
+			[
+				"vie",
+				"View: Toggle Menu"
+			],
+			[
+				"coment to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"Tes",
+				"BracketHighlighter: Tag Settings"
+			],
+			[
+				"Tod",
+				"TodoReview: Open Files"
+			],
+			[
+				"Alignm",
+				"Preferences: Alignment File Settings – Syntax Specific – User"
+			],
+			[
+				"sele",
+				"Bookmarks: Select All"
+			],
+			[
+				"Tok",
+				"Toks: Search for any occurrences of symbol (prompt)"
+			],
+			[
+				"toc",
+				"Toks: Search for any occurrences of symbol (prompt)"
+			],
+			[
+				"ren",
+				"CodeMap: Render From View"
+			],
+			[
+				"Codem",
+				"CodeMap: Render From View"
+			],
+			[
+				"codema",
+				"CodeMap: Toggle Visibility"
+			],
+			[
+				"Comm",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Compa",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"comp",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"comme",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"If",
+				"Snippet: if(…)"
+			],
+			[
+				"ma",
+				"Snippet: main(…)"
+			],
+			[
+				"com",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"brow",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"bro",
+				"Browse Mode: Close sidebar(s)"
+			],
+			[
+				"class",
+				"Class Navigator: Go to next Function"
+			],
+			[
+				"cla",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"Dia",
+				"Set Syntax: Diagram"
+			],
+			[
+				"snip",
+				"Snippet: While Loop"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"uml",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"um",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"UML",
+				"yUML: Open Diagram in Browser"
+			],
+			[
+				"dia",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"come",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"i",
+				"Snippet: if(…)"
+			],
+			[
+				"co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"swi",
+				"Snippet: #switch"
+			],
+			[
+				" sw",
+				"Snippet: #switch"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: For Loop"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"b",
+				"Bookmarks: Clear All"
+			],
+			[
+				"CLIP",
+				"Jimbly's Clipboard History: Paste Choice"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: sw",
+				"Snippet: #switch"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"to do",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"TO DO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"sn if",
+				"Snippet: if(…)"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"f",
+				"File: New View into File"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 373.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses"
+	],
+	"file_history":
+	[
+		"/D/TempVMshare/Vivado/History/main.c",
+		"/D/TempVMshare/Vivado/SRCH_1114_1602_2020_VME_Work_in_blok_stend_TU/Регистры СРЧ.txt",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/__history/Unit1.cpp.~332~",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/__history/Unit1.cpp.~331~",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/__history/Unit1.cpp.~326~",
+		"/D/TempVMshare/Программирование/Алгоритм/Дракон/Дракон облако/ИС Дракон/Dragon.exe",
+		"/D/TempVMshare/Программирование/Алгоритм/Дракон/Дракон облако/ИС Дракон/Dragon.act",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/FCHPERENOS.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRRUKV.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/MFC1RR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/FCHPERENOS.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/BLKRPURR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/MFC1RR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/ПРОБЛ/НР30_1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/ПРОБЛ/Р30_1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/StendPR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRRUKV.h",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/ПРОБЛ/Shar123.txt",
+		"/F/СРЧ/Р30.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Agilent9030.cpp",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/Sourcetrail_2020_2_43_64bit_Installer/readme.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/StendPR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/SHABLONMEAS.CPP",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/PRCRR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MUXM20.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/PRCRR.h",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++/CHANGED.sublime-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++/FUNC.sublime-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++/FIXME.sublime-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/CodeMap/Code - Map",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/INIJOB.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/StendPR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/DialogSave.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/StendOBCH.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/BLKRPURR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/DialogSave.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/VirtBlock.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/VirtBlock.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++,/COML.sublime-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/todo,/TASK.sublime-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++/TODO.sublime-snippet",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/COMMENTLIN.sane-snippet",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/INIJOB",
+		"/D/TempVMshare/С121Р517Ч/Кириевскому/221020/Доработка генератора ГК176.txt",
+		"//mailserver/Обмен/2931/СРЧ/Прошивка СРЧ инструкция.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/C++ Snippets/reference.md",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/C++ Snippets/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/SnTODO2.sane-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/SnTODO.sane-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/snippets/c++/TODO Lin.sublime-snippet",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/MFC2RR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/BLPCHSON/FCHPERENOS.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StDDS/SINTH9910.h",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/DiapazonSearch.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/Tri3VK6.h",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/GoTools.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/GoTools/GoTools.sublime-settings",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/SUBRPURRprj.sublime-project",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/go2function.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Find Function Definition/go2function.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Find Function Definition/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/QuickGotoAnything/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/QuickGotoAnything/QuickGotoAnything.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/EncodingHelper.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/SublimeBookmarks/Default.sublime-keymap",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Test1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.dfm",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/DiapazonSearch.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MUXM20.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MUXM15.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/test1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Diapazon.h",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.h",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/messages/1.4.0.txt",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/InsertNums-master/format_syntax.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/MFCRR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/AUTO_RR.todo",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/AcecoolCodeMappingSystem/readme.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Modific/README.md",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFCGDG.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Serial/SerialMFC.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Switch34980A.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/C++.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Cscope/CscopeSublime.sublime-settings",
+		"/D/Program FilesD/Common Files/cscope.out",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/SublimeCscope/messages/0.0.1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/test.txt",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/test1.cpp",
+		"/F/LMX2594/LMX2594INIT11_9.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-mousemap",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/ПереченьИзменений.txt",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/Активация.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Switch34980A.h",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/Комм.txt",
+		"/D/TempVMshare/lmx2594/LMX2594INIT12_0.txt",
+		"/D/TempVMshare/lmx2594/LMX2594INIT11_9.txt",
+		"/D/Docum/Приборы/Agilent/Agilent_34980A_Switch/34980ASwitch.txt",
+		"/D/Docum/Приборы/Agilent/Agilent 34980A Switch/34980ASwitch.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MUXM15.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/DRAKONRR.todo",
+		"/C/Program Files (x86)/ModelMakerTools/ModelMaker/11.10/mmcsharp-readme.txt",
+		"/C/Users/bikadorov/AppData/Local/Programs/Raabe Software/MMX/15/readme.txt",
+		"/D/TempVMshare/TXT/TableArt1.1/TableArt1.1/input_cmd.txt",
+		"/D/TempVMshare/TXT/TableArt1.1/TableArt1.1/asciiArtTable_out.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594INIT15_0.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594INIT10_5.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/RPURR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/SWRR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/SwitchRR.cpp"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open files>,<open folders>",
+			"D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\KanalRR",
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open files>,<open folders>,<open folders>",
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"QBit",
+			"reg2",
+			"RelBlokRRINI(ComboBox",
+			"RelBlokRRINI(",
+			"TWriteDouble(ComboBox1",
+			"MemINI->TWriteDouble(ComboBox1",
+			"RRINI",
+			"MemINI->MPAthSet(",
+			"K1.1",
+			"USTR",
+			"Dia",
+			"Apli",
+			"FormSH->Stend->TCom",
+			"00 00 00 00 00 00 15 14 ",
+			"PERENOS",
+			"DB4);",
+			"ALL)",
+			"DB4)",
+			"VstendeBL3VK1->FriqOUT()",
+			"StringGrid2",
+			"Row",
+			"Col",
+			"Grid->Cells[",
+			"FormSH->MemINI->TWriteDouble(ComboBox4",
+			"FormSH->MemINI->TWriteDouble(ComboBox",
+			"Pres_Band_LNA",
+			"AdresModul::",
+			"AdresModul",
+			"GOTO",
+			"GOTO:NN1 ;",
+			"return;",
+			"BLOKRR->PRC->MKanal->",
+			"FPCH1",
+			"FPCH1 ",
+			"DB1,DB2,DB3,DB4",
+			"SAWESN CONSTR",
+			"STE",
+			"StringGrid1DblClick",
+			"Edit1KeyPress",
+			"CURSET",
+			"CurSet",
+			"HMC830(",
+			"МФЧ",
+			"::LoadLMX1()",
+			"fine",
+			"SetAUTOCOR(int",
+			"RES[",
+			"];//",
+			"DEVFC1R[0].F394",
+			"Sint2_",
+			"Sint2_HMC830->RegLoad830(i)",
+			"RegLoad830(i)",
+			"830(i",
+			"(3)",
+			"extra_tag_",
+			"/",
+			"\\",
+			"coma",
+			"F394",
+			".F394",
+			"UPR1 = 1;",
+			"PLAN[NumDapazon].",
+			"9778.15384615385",
+			"PLAN[266]",
+			"266]",
+			"PLAN[NumDapazon].FVCO",
+			".FVCO =",
+			".F ",
+			".F",
+			".",
+			",",
+			"N395",
+			" UXM15P",
+			"UXM15P",
+			"UXM15 ",
+			"UXM15",
+			"AdrMod",
+			",",
+			"].M",
+			"].VCO",
+			"118",
+			"].M",
+			"PLAN[0].M",
+			"PLAN[0].VCO",
+			";\n",
+			"PLAN[0].VCO",
+			"PLAN",
+			"PLAN[0].VCO",
+			"=",
+			" << '\\n'",
+			".OUT",
+			",",
+			"CAD",
+			"[KANAL]",
+			"ShowMessage",
+			",",
+			" = ",
+			"DIV",
+			"UXM15",
+			"0xA;",
+			"NUM",
+			"SetAUTOCOR(i",
+			"case",
+			"PC2INMATRIX[2][2]",
+			"BLOKRR->PRC->MKanal->NKanal[3]",
+			"Pres_UPR_Kluch",
+			"NKanal",
+			" CTRLIN ",
+			"LoadRPURR",
+			"SW_SW = ASW[0]",
+			"+",
+			"ADRSW",
+			"KanalRR",
+			"Polosa[",
+			"LNAD =",
+			"NSET(int",
+			" goto exit_door",
+			"if (freqCR",
+			"(F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Grid",
+			"FormSH->MemINI->TWriteDouble(ComboBox10",
+			"Sint1_",
+			"Sint2_HMC830->RegLoad830(Poz)",
+			".F =",
+			".FVCO",
+			".FVCO1",
+			".",
+			".OUTM",
+			".",
+			"CAP",
+			"UXD15",
+			"CSwitchRR",
+			"SetFriq",
+			"Form4",
+			"FormSR2",
+			"",
+			"LMX2594",
+			"unsigned long",
+			"KanalRR",
+			"MPRC",
+			"MMFC1RR",
+			"MMFC2RR",
+			"9020",
+			"Form6",
+			"RelBlok3Vk1INI",
+			"Meas3VK6P1145",
+			"Meas3VK6Kp",
+			"3VK6",
+			"3Вк6",
+			"MOD3VK6_.ini",
+			"Mod3VK6It",
+			"Rel3VK6INI"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "MFC1RR.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57946,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50014,
+								50014
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "6f0a53aa",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								9179.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9179.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/TempVMshare/Vivado/History/init.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13401,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1500,
+								1500
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "c1c9db1a",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								792.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/TempVMshare/Vivado/History/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8834,
+								8834
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "dcb42aa7",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								6738.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6738.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/TempVMshare/Vivado/SRCH_1114_1602_2020_VME_Work_in_blok_stend_TU/src/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6031,
+								6028
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "089c2611",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								4362.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4362.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 8410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5891,
+								5891
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "89a047ee",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								4210.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 51807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51487,
+								51487
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "e8903e2e",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								25658.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 25658.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PRIBOR/Diapazon.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1553,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								241,
+								241
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "48ccd1d0",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1313,
+								1310
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "7ccbb6f9",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								149.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1313,
+								1310
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "7ccbb6f9",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								149.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/MeasPanel/SxemaALL.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3058,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/bookmark.png",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								2749,
+								2749
+							],
+							[
+								2761,
+								2761
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "2001bb75",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								1161.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.538329026701,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.figlet_preview":
+	{
+		"height": 304.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "SUBRPURRprj.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Klasses\\KanalRR\\MFC1RR.cpp"
+			],
+			[
+				"SETDF",
+				"Klasses\\PriborST\\MeasPanel\\SxemaALL.dfm"
+			],
+			[
+				"MFC",
+				"KanalRR\\MFC1RR.h"
+			],
+			[
+				"diap",
+				"RPURR\\DiapazonSearch.h"
+			],
+			[
+				"di",
+				"Klasses\\Diapazon.h"
+			],
+			[
+				"mf",
+				"3DG1\\Kanal3DG6\\MFC1DG.h"
+			],
+			[
+				"t",
+				"3DG1\\KanalPerexv\\Tri3PX2.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "::",
+		"selected_items":
+		[
+			[
+				"::",
+				"FCHP::"
+			],
+			[
+				"CO",
+				"COMdef"
+			],
+			[
+				"",
+				"ADF4002"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 238.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

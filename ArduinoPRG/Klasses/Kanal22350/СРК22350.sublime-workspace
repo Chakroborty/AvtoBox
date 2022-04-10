@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"кл",
+				"клемм"
+			],
+			[
+				"вк",
+				"вкладка\t(Словарь.txt)"
+			],
+			[
+				"час",
+				"частоту\t(Исходник.txt)"
+			],
+			[
+				"ини",
+				"инициализация\t(Словарь)"
+			],
+			[
+				"про",
+				"пропущена"
+			],
+			[
+				"прог",
+				"прогрузки\t(Прогрузка ~1.txt)"
+			],
+			[
+				"Та",
+				"Табл\t(Словарь)"
+			],
+			[
+				"Ша",
+				"Шаг\t(Порядок пр~1.txt)"
+			],
+			[
+				"ре",
+				"регистров\t(Прогрузка ~1.txt)"
+			],
+			[
+				"FO",
+				"FOUT\t(FCHPERENOS.h)"
+			],
+			[
+				"UP",
+				"UPR1\t(FCHPERENOS.cpp)"
+			],
+			[
+				"UPR",
+				"UPR1"
+			],
+			[
+				"Set",
+				"SetVCO\t(LMX2594.h)"
+			],
+			[
+				"B",
+				"BLKPRC51H\t(BLKPRC51.h)"
+			],
+			[
+				"Un",
+				"Unit2.h\t(Unit2.cpp)"
+			],
+			[
+				"За",
+				"Замена\t(Unit2.cpp)"
+			],
+			[
+				"Ус",
+				"установки"
+			],
+			[
+				"часто",
+				"частотой\t(МФЧГ преобразователя УППММ.txt)"
+			],
+			[
+				"SU",
+				"SUPR1\t(PRC051.h)"
+			],
+			[
+				"си",
+				"синтезатора"
+			],
+			[
+				"Polosa",
+				"Polosa830\t(MFC1RR.h)"
+			],
+			[
+				"U",
+				"UPR\t(KanalRRUKV.h)"
+			],
+			[
+				"MP",
+				"MPRC"
+			],
+			[
+				"Kana",
+				"KanalRRUKV.h\t(KanalRRUKV.cpp)"
+			],
+			[
+				"OU",
+				"OUT"
+			],
+			[
+				"tr",
+				"true\t(PRCRR.cpp)"
+			],
+			[
+				"Che",
+				"CheckBox2"
+			],
+			[
+				"VA",
+				"VALUE"
+			],
+			[
+				"Val",
+				"VALUE"
+			],
+			[
+				"LD",
+				"LDTupe"
+			],
+			[
+				"P",
+				"PDovn\t(LMX2594.cpp)"
+			],
+			[
+				"RE",
+				"RES"
+			],
+			[
+				"M",
+				"MULT"
+			],
+			[
+				"ML",
+				"MLT"
+			],
+			[
+				"MU",
+				"MULT"
+			],
+			[
+				"PLL",
+				"PLL_PRE"
+			],
+			[
+				"UX",
+				"UXM15"
+			],
+			[
+				"UXD",
+				"UXD20"
+			],
+			[
+				"MF",
+				"MFC1"
+			],
+			[
+				"Sint1_LM",
+				"Sint1_LMX2594"
+			],
+			[
+				"MFC",
+				"MFC1RR.h\t(MFC1RR.cpp)"
+			],
+			[
+				"ch",
+				"Checked"
+			],
+			[
+				"Str",
+				"StrToInt"
+			],
+			[
+				"E",
+				"Edit17"
+			],
+			[
+				"Re",
+				"Reg"
+			],
+			[
+				"re",
+				"return\t(Unit1.cpp)"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"Lab",
+				"Label23\t(Unit1.h)"
+			],
+			[
+				"Edit",
+				"Edit9\t(Unit1.h)"
+			],
+			[
+				"Lo",
+				"LoadVME"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"S",
+				"Sender"
+			],
+			[
+				"DDATA",
+				"DDATA32"
+			],
+			[
+				"dd",
+				"DDATA64"
+			],
+			[
+				"AD",
+				"ADR\t(Unit1.h)"
+			],
+			[
+				"Loa",
+				"LoadREG"
+			],
+			[
+				"An",
+				"AnE4407"
+			],
+			[
+				"Get",
+				"GetIPlok"
+			],
+			[
+				"RS",
+				"RS_FSL"
+			],
+			[
+				"St",
+				"Stend"
+			],
+			[
+				"Cm",
+				"CmB17"
+			],
+			[
+				"D",
+				"Down"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"GP",
+				"GPIB_Set"
+			],
+			[
+				"sin",
+				"Sint100_ADF4002"
+			],
+			[
+				"MAP",
+				"MAP02"
+			],
+			[
+				"BL3",
+				"BL3DG1C.h\t(BL3DG1C.cpp)"
+			],
+			[
+				"n",
+				"N2"
+			],
+			[
+				"DF",
+				"DFpc\t(MFC2DG.h)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"DN",
+				"DNSys\t(MFC1DG.h)"
+			],
+			[
+				"Dn",
+				"DNdiap"
+			],
+			[
+				"Polo",
+				"Polosa\t(MFC1DG.h)"
+			],
+			[
+				"com",
+				"comm-todo\tComment - To-do list"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"div",
+				"DIvG"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"if",
+				"ifelse\tif(…) else"
+			],
+			[
+				"comm",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"co",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"тр",
+				"труда\t(Служебная комп.txt)"
+			],
+			[
+				"comm-",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"To",
+				"TODO"
+			],
+			[
+				"N",
+				"Nsys"
+			],
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comp",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"in",
+				"Insert Nums"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"num",
+				"Insert Nums"
+			],
+			[
+				"di",
+				"Disnum: swap as 16 bit word"
+			],
+			[
+				"Num",
+				"Insert Nums"
+			],
+			[
+				"Ali",
+				"AlignTab"
+			],
+			[
+				"br",
+				"BracketHighlighter: Documentation"
+			],
+			[
+				"sw",
+				"Snippet: #switch"
+			],
+			[
+				"fo",
+				"Snippet: For Loop"
+			],
+			[
+				"plac",
+				"Snippet: ul - Placeholder"
+			],
+			[
+				"com",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"doc",
+				"Tasks: New document"
+			],
+			[
+				"Doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"if",
+				"Snippet: if(…) else"
+			],
+			[
+				"Com",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"bl",
+				"Toggle Block Comment"
+			],
+			[
+				"brow",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"bro",
+				"Browse Mode: Close sidebar(s)"
+			],
+			[
+				"class",
+				"Class Navigator: Go to next Function"
+			],
+			[
+				"codem",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"cla",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"Dia",
+				"Set Syntax: Diagram"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"snip",
+				"Snippet: While Loop"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"uml",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"um",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"UML",
+				"yUML: Open Diagram in Browser"
+			],
+			[
+				"dia",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"",
+				"AutoFoldCode: Open Settings"
+			],
+			[
+				"come",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"i",
+				"Snippet: if(…)"
+			],
+			[
+				"co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"If",
+				"Snippet: if(…)"
+			],
+			[
+				"swi",
+				"Snippet: #switch"
+			],
+			[
+				" sw",
+				"Snippet: #switch"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: For Loop"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Struct"
+			],
+			[
+				"to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"b",
+				"Bookmarks: Clear All"
+			],
+			[
+				"CLIP",
+				"Jimbly's Clipboard History: Paste Choice"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: sw",
+				"Snippet: #switch"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"todo",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"to do",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"TO DO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"sn if",
+				"Snippet: if(…)"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"f",
+				"File: New View into File"
+			],
+			[
+				"sni",
+				"Snippet: if(…) else"
+			],
+			[
+				"ne",
+				"Tasks: New"
+			],
+			[
+				"sni  com",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"sni for",
+				"Snippet: For Loop"
+			],
+			[
+				"sp",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"snippet:co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"snippet",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Trigg",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"snipp",
+				"Snippet: MIT License"
+			],
+			[
+				"Sni  to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"Sni",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"boo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"todo ",
+				"TodoReview: Open Files"
+			],
+			[
+				"ks",
+				"Tasks: Open Link"
+			],
+			[
+				"tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TO",
+				"Tasks: Complete"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"spa",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"Tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350",
+		"/D/Docum/Progekts/EMBARCADERO/CR22350"
+	],
+	"file_history":
+	[
+		"/D/Docum/Progekts/EMBARCADERO/CR22350/PROG22350.cbproj",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/PRCH051.cbproj",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/BL3CR37.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/PRC235.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/MFC1RR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/FCHPERENOS.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Insert Nums/Default (Windows).sublime-keymap",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Insert Nums/README.md",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/PRC235.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/Комм.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/Kanal235.h",
+		"/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/Kanal2235.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/Kanal2235.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/BL3CR37.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.h",
+		"/D/USERS2/Бобрышев/Передача работ/Keil/Устройство управления ЛБИЮ.468332.025 и не только/ПЧ_043(Блохин)/Drivers/Version_History.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/СРК22350.sublime-project",
+		"/D/Docum/Progekts/TEXTDOCUM_SUBLIME/Словарь.txt",
+		"/D/Docum/Статья/Атояну",
+		"/D/TempVMshare/Комплектация/Источник_питания/Коммутатор/40А fuse is smaller and beatifull/Power_Multiplexer.txt",
+		"/D/TempVMshare/Комплектация/Источник_питания/новые детали в базу/ТМЛ-10-8-5.pdf",
+		"/D/TempVMshare/Electronics/Excel/Формула.txt",
+		"/F/Dokuments/Быкадоров/шекель.txt",
+		"/F/Dokuments/Быкадоров/4663.txt",
+		"/F/Dokuments/Быкадоров/git.txt",
+		"/D/TempVMshare/Install/Программирование/БД/EntityDAC_Delphi/AsInsert.pas",
+		"/D/TempVMshare/Водоканал/Заявление ГВ пломба",
+		"/D/TempVMshare/rostov_2018-01-30/pv.txt",
+		"/F/Dokuments/Быкадоров/gfhjk.txt",
+		"/F/Dokuments/Быкадоров/Нонк.txt",
+		"/D/TempVMshare/rostov_2018-01-30/readme_ru.txt",
+		"/D/Docum/Progekts/EMBARCADERO/delphi-orm-master/contributors.txt",
+		"/F/Dokuments/Цфеук.txt",
+		"/F/Dokuments/Быкадоров/Коммуналка/new  1.txt",
+		"/D/TempVMshare/Install/Программирование/БД/DORM/delphi-orm-master/contributors.txt",
+		"/D/Temp/Решение ЗУ",
+		"/D/TempVMshare/Electronics/Excel/Формула",
+		"/D/Docum/Elektronics/Програмирование/Базы данных/MySQL/Пароли.txt",
+		"/G/Dokuments/Быкадоров/шекель.txt",
+		"/D/TempVMshare/Комплектация/Источник_питания/Зарядное/XAL1010-103ME.txt",
+		"/G/Dokuments/Быкадоров/4663.txt",
+		"/D/TempVMshare/Комплектация/Источник_питания/Зарядное/Перевод4015fb.txt",
+		"/D/TempVMshare/Vivado/SRCH_B/SRCH_B.runs/impl_1/htr.txt",
+		"/D/Docum/Progekts/Altium/РтутьПМП/czki_436737_074_blok_pit/Указания по работе с символами.txt",
+		"/D/Docum/Progekts/Altium/РтутьПМП/czki_436737_074_blok_pit/Указания по работе с символами",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Август2021/Работы2131 август 2021.txt",
+		"//mailserver/Обмен/1_3_5 (2070)/1сДО/прочтименя.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Август2021/Работы2134 август 2021.txt",
+		"/D/Docum/СРЧ/СРЧ Нестандарт ЗАКАЗ/СРЧ нестандарт.txt",
+		"/D/Docum/Иванова1",
+		"/D/TempVMshare/Install/Mindjet MindManager/1236/Mindjet MindManager 2021 v21.0.263 Multilingual x64/Readme.txt",
+		"/F/Dokuments/Быкадоров/Altium.txt",
+		"/F/Dokuments/Быкадоров/Aliexpres.txt",
+		"/F/Dokuments/Быкадоров/Страх.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Sourcetrail/Sourcetrail.sublime-settings",
+		"/D/Docum/СРЧ/СРЧ ТЭО/Сравнительные характеристики микросхемы ROS-3100+",
+		"/D/Docum/СРЧ/СРЧ ТЭО/LFCN2500",
+		"/D/Docum/Progekts/EMBARCADERO/chr18/ПСИ.TXT",
+		"/D/Docum/Progekts/EMBARCADERO/chr18/Прибор.txt",
+		"/D/Docum/Progekts/EMBARCADERO/chr18/Настройка.TXT",
+		"//mailserver/Обмен/1_1_4_2/РтутьПМ_svn.txt",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/crpu_kv/fpga_new.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Р082021/Юдин17-27.txt",
+		"/D/TempVMshare/Electronics/ПЛИС/112123.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Ткаченко_Ртуть-ПМ/разьемы fq/разьемы.txt",
+		"/D/Temp/БазаAltium/БиблиотекиDB",
+		"/F/svn.txt",
+		"/D/Temp/123.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/работы06.21.TXT",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Р062021/Глушко и Витренко работы17-27.05.21.TXT",
+		"/D/Docum/Progekts/EMBARCADERO/chr18/Grid.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Р062021/Юдин17-27.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Р072021/Юдин17-27.txt",
+		"/D/Docum/Progekts/Altium/Красуха4/Доработки/Доработки5В.txt",
+		"//putin/Install/Altium/Search/Readme.txt",
+		"/D/TempVMshare/Install/ALTIUM21_3_2/Altium2132Build30/!!AD21 Unis Licenses/!!! ReadMe !!!.txt",
+		"/D/TempVMshare/Install/systemvue/_SolidSQUAD_/readme.txt",
+		"/F/Soft/Elektro/NI AWR Design Environment 14.0/Readme_ru.txt",
+		"/E/Distr/Электронное моделирование/NI AWR Design Environment 12.02/Readme_ru.txt",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/readme.txt",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/_SolidSQUAD_/readme.txt",
+		"/D/Docum/Служебная Сотрудник",
+		"/D/Docum/Progekts/Altium/Красуха4/Документация/Прошивка/Диск/Прошивка на диске.txt",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Р052021/Глушко В.В апрель.TXT",
+		"//mailserver/Обмен/1_1_4_2/1.1.4.2.1/Работы/Р052021/Юдин апрель.TXT",
+		"/G/Dokuments/Быкадоров/Нонк.txt",
+		"/D/Docum/Progekts/TEXTDOCUM_SUBLIME/СРЧ_Задел.txt",
+		"/D/TempVMshare/Install/PROMT Expert 19 Final Eng_Rus/PROMT Expert 19 Final Eng_Rus/Лечение.txt",
+		"/D/TempVMshare/Install/PROMT Master 19 Final Eng_Rus/Лечение.txt",
+		"/D/TempVMshare/Install/PROMT Master 19 Final Eng_Rus/ID PROMT 19.txt",
+		"/D/TempVMshare/Install/PROMT Master 19 Final Eng_Rus/About the program.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (14)/Исходник.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (14)/Шаг3.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (14)/Зключение.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (14)/Шаг1.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (14)/Шаг2.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Шаг1.txt",
+		"/D/TempVMshare/VMProgects/Vosmikr/Datashets/Словарь.txt",
+		"/D/USERS2/Юдин/ADF4371/32.txt",
+		"/D/USERS2/Юдин/ADF4371/26.txt",
+		"/C/Users/bikadorov/AppData/Local/Temp/_tc/Кириевскому/Проверки.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Зключение.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Словарь",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Шаг2.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Прогрузка ~1.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Шаг3.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Default (Windows).sublime-keymap",
+		"/D/USERS2/а.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Исходник.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Порядок пр~1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/BLKPRC51.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051FCH.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/BLKPRC51.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/FCHPERENOS.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.sublime-project",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit2.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.h",
+		"/C/Users/bikadorov/Desktop/A_test_log.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open files>,<open folders>,<open folders>",
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"case",
+			"189",
+			"//",
+			"MXUXM15",
+			"UXD15 ",
+			"RPURR",
+			"MFC1RRH",
+			"Q3",
+			"управленя",
+			"необхоимым",
+			"451",
+			"43",
+			"G2:G43",
+			"G43",
+			"005",
+			"Чр-22350:",
+			"23,7 кОм",
+			"23,7",
+			"Х2",
+			"1.",
+			"-Т",
+			"- Т",
+			"изделии XXXX",
+			"микросхемы",
+			"заказ",
+			"Шаг",
+			".",
+			"FCHLOAD_LMX(",
+			"94.h",
+			".h",
+			"CURSET",
+			"FCAL_EN",
+			"SEG1EN",
+			"OUTBPWR(",
+			"OUTBPWR(;",
+			"OUTBPWR(31);",
+			"TPRC51->FCHP2594->",
+			",",
+			"//",
+			",",
+			"DIV",
+			"FCHP2594->PLMX2594",
+			"DLMX2594",
+			"RPURR",
+			"MFC1->Sint1_LMX2594",
+			"Замена",
+			"Sint1_LMX2594",
+			"SintLOAD_L(1",
+			"SintLOAD_L",
+			"MFC1->",
+			"load",
+			".sinth",
+			".sinth ",
+			"SintLOAD",
+			"load",
+			"<<ASW[1].",
+			"<ASW[1]",
+			"PRUPR",
+			"Switch",
+			"BLRPU",
+			"ATT",
+			" + ",
+			"AdrMod",
+			"DBLookupComboBox7",
+			"dblkcbbFirmNAME",
+			"FRSET(",
+			"ReadLMXUNO",
+			"BLOKRR",
+			"Kluch",
+			"регистр",
+			"SetFreq",
+			"TRpu16",
+			"RPURR",
+			"Polosa[",
+			"LNAD =",
+			"NSET(int",
+			" goto exit_door",
+			"if (freqCR",
+			"(F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"/ ",
+			"//",
+			"OUTAMUX",
+			"CHDIV",
+			"DIVOUT",
+			"K2",
+			"KK1",
+			"KK1/",
+			"KK1",
+			"K1",
+			",",
+			"00,",
+			"2,Fin",
+			"1,Fin",
+			"LNAD",
+			"break;",
+			";break;",
+			"Fin1, Ampl, DB1, DB2)",
+			"ModulDG2->SeFriq(",
+			"FriqSET",
+			";",
+			"PRES",
+			"SeFriq",
+			"for",
+			" while",
+			"Kanal",
+			"268",
+			"SetFriq",
+			"i+1",
+			"REG[78]",
+			"dlgSave1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BL3CR37",
+			"Этап",
+			"TPRC51->DLMX2594",
+			"BLRPU",
+			"TRpuCTL20",
+			"RPURD",
+			"SetFriq",
+			"Form4",
+			"FormSR2",
+			"",
+			"LMX2594",
+			"unsigned long",
+			"KanalRR",
+			"MPRC",
+			"MMFC1RR",
+			"MMFC2RR",
+			"9020",
+			"Form6",
+			"RelBlok3Vk1INI",
+			"Meas3VK6P1145",
+			"Meas3VK6Kp",
+			"3VK6",
+			"3Вк6",
+			"MOD3VK6_.ini",
+			"Mod3VK6It",
+			"Rel3VK6INI"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.533788088017,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "СРК22350.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"MaketNUSB\\DDS9910.res"
+			],
+			[
+				"mf",
+				"3DG1\\Kanal3DG6\\MFC1DG.h"
+			],
+			[
+				"t",
+				"3DG1\\KanalPerexv\\Tri3PX2.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ADF4002"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 87.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Tod",
+		"selected_items":
+		[
+			[
+				"Tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #include <…>"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/BL3DG1C.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/__history/HMC830.cpp.~24~",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/MFC1DG.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/MFC1DG.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/BL3DG1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/BL3DG1.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/BL3DG1C.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/E5071BNetwAnalizer.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Agilent9030.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Agilent9030.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/E5071BNetwAnalizer.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4355.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4355.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Delphi/Dem_500M/Ver_0/Units/UIOMAClass.pas",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF4355/КОД4355.txt",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF43XX/ADF435x/Backup/ADF435x/Properties/Settings.Designer.cs",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF43XX/ADF435x/Backup/ADF435x/Properties/Resources.Designer.cs",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF43XX/ADF435x/Backup/ADF435x/Properties/AssemblyInfo.cs",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF43XX/ADF435x/Backup/ADF435x/Program.cs",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF43XX/ADF435x/Backup/ADF435x/Main_Form.Designer.cs",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/EV-ADF43XX/ADF435x/Backup/ADF435x/Main_Form.resx",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Trimmer/Default (Windows).sublime-keymap",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/adf5355_3.c",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/adf4350_1.c",
+		"/E/TempVMshare/Комплектац/Синтезатор/AD/adf5355_3",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/NEW.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Lan_GPIB",
+			"ini",
+			"Western",
+			"ini",
+			"ini ",
+			"Иниц",
+			"PHP",
+			"Иниц",
+			"Init_Synth_L",
+			"Ini",
+			"D10",
+			"RDIV",
+			"RDIV2DBB"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "BL3DG1C.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"3DG1\\Kanal3DG6\\BL3DG1C.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

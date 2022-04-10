@@ -1,0 +1,1043 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Str",
+				"StrToInt"
+			],
+			[
+				"E",
+				"Edit17"
+			],
+			[
+				"Re",
+				"Reg"
+			],
+			[
+				"re",
+				"return\t(Unit1.cpp)"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"Lab",
+				"Label23\t(Unit1.h)"
+			],
+			[
+				"Edit",
+				"Edit9\t(Unit1.h)"
+			],
+			[
+				"Lo",
+				"LoadVME"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"Che",
+				"Checked"
+			],
+			[
+				"S",
+				"Sender"
+			],
+			[
+				"DDATA",
+				"DDATA32"
+			],
+			[
+				"dd",
+				"DDATA64"
+			],
+			[
+				"AD",
+				"ADR\t(Unit1.h)"
+			],
+			[
+				"Loa",
+				"LoadREG"
+			],
+			[
+				"An",
+				"AnE4407"
+			],
+			[
+				"Get",
+				"GetIPlok"
+			],
+			[
+				"RS",
+				"RS_FSL"
+			],
+			[
+				"St",
+				"Stend"
+			],
+			[
+				"Cm",
+				"CmB17"
+			],
+			[
+				"D",
+				"Down"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"GP",
+				"GPIB_Set"
+			],
+			[
+				"sin",
+				"Sint100_ADF4002"
+			],
+			[
+				"MAP",
+				"MAP02"
+			],
+			[
+				"BL3",
+				"BL3DG1C.h\t(BL3DG1C.cpp)"
+			],
+			[
+				"n",
+				"N2"
+			],
+			[
+				"DF",
+				"DFpc\t(MFC2DG.h)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"DN",
+				"DNSys\t(MFC1DG.h)"
+			],
+			[
+				"Dn",
+				"DNdiap"
+			],
+			[
+				"Polo",
+				"Polosa\t(MFC1DG.h)"
+			],
+			[
+				"com",
+				"comm-todo\tComment - To-do list"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"div",
+				"DIvG"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"if",
+				"ifelse\tif(…) else"
+			],
+			[
+				"comm",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"co",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"тр",
+				"труда\t(Служебная комп.txt)"
+			],
+			[
+				"про",
+				"производительности\t(Служебная комп.txt)"
+			],
+			[
+				"comm-",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"To",
+				"TODO"
+			],
+			[
+				"N",
+				"Nsys"
+			],
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "mserial.cpp",
+			"settings":
+			{
+				"buffer_size": 3257,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "KLSMF100A.h",
+			"settings":
+			{
+				"buffer_size": 1125,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mserial.h",
+			"settings":
+			{
+				"buffer_size": 2887,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"Snippet: if(…)"
+			],
+			[
+				"sw",
+				"Snippet: #switch"
+			],
+			[
+				"co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"com",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"if",
+				"Snippet: if(…)"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"If",
+				"Snippet: if(…)"
+			],
+			[
+				"dia",
+				"Diagram: Generate Diagrams for Active View"
+			],
+			[
+				"um",
+				"UI: Select Theme"
+			],
+			[
+				"swi",
+				"Snippet: #switch"
+			],
+			[
+				" sw",
+				"Snippet: #switch"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: For Loop"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Struct"
+			],
+			[
+				"to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"b",
+				"Bookmarks: Clear All"
+			],
+			[
+				"",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"CLIP",
+				"Jimbly's Clipboard History: Paste Choice"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: sw",
+				"Snippet: #switch"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"fo",
+				"Snippet: For Loop"
+			],
+			[
+				"todo",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"to do",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"TO DO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"sn if",
+				"Snippet: if(…)"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"f",
+				"File: New View into File"
+			],
+			[
+				"sni",
+				"Snippet: if(…) else"
+			],
+			[
+				"ne",
+				"Tasks: New"
+			],
+			[
+				"sni  com",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"sni for",
+				"Snippet: For Loop"
+			],
+			[
+				"snip",
+				"Snippet: struct"
+			],
+			[
+				"sp",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"snippet:co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"snippet",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Trigg",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"snipp",
+				"Snippet: MIT License"
+			],
+			[
+				"Sni  to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"Sni",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"boo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"todo ",
+				"TodoReview: Open Files"
+			],
+			[
+				"ks",
+				"Tasks: Open Link"
+			],
+			[
+				"tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TO",
+				"Tasks: Complete"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"spa",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"Tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/COMPORT"
+	],
+	"file_history":
+	[
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/COMPORT/KLSMF100A.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/SRCH/TestSRCH.todo",
+		"/D/Docum/Progekts/EMBARCADERO/12Дж2/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/SRCH/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/SRCH/Unit1.cpp",
+		"/D/Docum/СРЧ/src/testperiph.c",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Krasuxa/SRCHTBL.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Krasuxa/SRCHTBL.h",
+		"/D/Docum/Progekts/EMBARCADERO/12Дж2/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/TEST3DG4/MFCG.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC700.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC700.h",
+		"/D/Docum/СРЧ/src/xintc_tapp_example.c",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/sublime_diagram_plugin/samples/example.wsd",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/yUML/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/D/Docum/СРЧ/src/testperiph_2112_2019.c",
+		"/D/Docum/Progekts/EMBARCADERO/MaketNUSB/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/MaketNUSB/MAKAD9910.todo",
+		"/D/Docum/Progekts/EMBARCADERO/MaketNUSB/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StDDS/SINTH9910.h",
+		"/D/TempVMshare/Контроллеры/CNCMEGA2560/NANO/Control Linear Slide Rail Guid with Arduino - Banggood/Arduino-d3caa06b0c012673a99ce1e131be12da8108f514/cdromstepperA4988/cdromstepperA4988.ino",
+		"/D/TempVMshare/Контроллеры/CNCMEGA2560/NANO/Control Linear Slide Rail Guid with Arduino - Banggood/Arduino-d3caa06b0c012673a99ce1e131be12da8108f514/Tb6560Arduino/Tb6560Arduino.ino",
+		"/D/TempVMshare/Контроллеры/CNCMEGA2560/NANO/Control Linear Slide Rail Guid with Arduino - Banggood/stepper_with_limit_test_1/stepper_with_limit_test_1.ino",
+		"/D/TempVMshare/Контроллеры/CNCMEGA2560/NANO/Control Linear Slide Rail Guid with Arduino - Banggood/Tb6560Arduino/Tb6560Arduino.ino",
+		"/D/TempVMshare/Контроллеры/CNCMEGA2560/NANO/Aktuator/pr1.ino",
+		"/D/TempVMshare/Контроллеры/CNCMEGA2560/NANO/Control Linear Slide Rail Guid with Arduino - Banggood/stepper_with_limit_test_1.ino",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/yUML/Default (Windows).sublime-keymap",
+		"/D/Docum/Progekts/EMBARCADERO/MaketNUSB/DDS9910.res",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Modific/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/cpp-sublime-snippet/conditional/if_else1.sublime-snippet",
+		"/D/Docum/Progekts/EMBARCADERO/TEST3DG1/src/Stend3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/TEST3DG1/src/Stend3PX1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StDDS/SRC_libusbK/Rpu16.cpp",
+		"/D/TempVMshare/Progects/Keil/AD9910069/AD991BOARD.todo",
+		"/D/TempVMshare/Progects/Keil/AD9910069/AD9910_control_board.c",
+		"/D/TempVMshare/PLL/DDS/AD9910/Reg.txt",
+		"/D/TempVMshare/Контроллеры/Паяльная станция STM32F103/Arduino/2592019/sketch_TFT-320x480_dimer_PC_revolver_Dmitrysh_v4_EX.ino",
+		"/D/Docum/Progekts/EMBARCADERO/RPU16/RPU16.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StendPR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StendPR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StendPR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/SxemaALL.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPU16/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/SxemaALL.h",
+		"/D/Docum/Progekts/EMBARCADERO/TEST3DG4/src/Stend3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Keysigth9020.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Keysigth9020.h",
+		"/D/Docum/Progekts/EMBARCADERO/RPU16/Unit1.h",
+		"/D/Docum/Статья/sample.bib",
+		"/D/TempVMshare/Программирование/Документация/sample.bib",
+		"/D/Docum/Статья/FiltBiblioSib.tex",
+		"/D/Docum/Статья/FiltBiblio.tex",
+		"/D/Docum/Статья/Statia2018PrRal.tex",
+		"/D/TempVMshare/Javascr.txt",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/3PH1INI.todo",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/CapthionPX1.todo",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/3PH1.todo",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/SxemA.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/KanalCRPU.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/SxemA.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/src/Stend3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/Tri3PX2.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/SavePX2.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/BL3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3px1/ABOUTPX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3DG1/src/Stend3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3DG1/MFCH1DG.todo",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/Protocol3VK1INI.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/BL3VK1C.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/BL3VK1C.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/DiapazonSearch.dfm",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/DiapazonSearch.h",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/DiapazonSearch.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/Tri3VK6.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/SRC/Stend3PX1.h",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/SRC/Stend3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Agilent9030.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/RSFSL18.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/SavePX2.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/ProvI4MFC1.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/KanalVKUKV.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/RSFSL18.h",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/Protocol3VK6INI.todo",
+		"/D/Docum/Progekts/EMBARCADERO/TEST3DG4/src/Stend3PX1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/MFC1VK.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/ProvI4MFC2.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/Expor/KanalVKUKV.h",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/Test3Vk1.todo",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/ProtocolDG2INI.todo",
+		"/D/Docum/Progekts/EMBARCADERO/3Vk1/StendPribor.todo",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/Unit1.cpp",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/sublime_diagram_plugin/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/sublime_diagram_plugin/README.md",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/sublime_diagram_plugin/samples/EXAMPLE.wsd",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/yUML/Default (Windows).sublime-keymap",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/MFCH2DG.todo",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/ProtocolDG2INI.todo",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/StendPribor.todo",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/src/Stend3PX1.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/BinSearch.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/BinSearch/Unit1.cpp",
+		"/E/Docum/База ImBase/Процесс проверки на правильность Altium",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/Unit1.h",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/SxemA.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MP_N6702A.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/src/Stend3PX1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/SavePX2.cpp",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/BL3DG1.todo",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/BL3DG1Nastr.todo",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.h",
+		"/E/Docum/Progekts/EMBARCADERO/3px1/KanalPerexv/HMC830.h",
+		"/E/Docum/Progekts/EMBARCADERO/3px1/KanalPerexv/HMC830.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/CADF4002.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFC2DG.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Test3DG1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/CADF4002.h"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"<open files>,<open folders>,<open folders>",
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"O1VCO3_10_12",
+			"int",
+			"b",
+			"time",
+			"|",
+			"bufp",
+			"CloseHandle",
+			"hSerial_2",
+			"CBR_19200",
+			"LoadVME",
+			"Parametr",
+			"LoadVME",
+			"VCO2025VME",
+			"VCO2530VME",
+			"&DIV",
+			"int Vme",
+			"|",
+			"u32",
+			"|",
+			"N2025",
+			"Regim|",
+			"if(CheckBox",
+			"/* code */",
+			"Regim = Regim&0x",
+			">Enabled",
+			"else",
+			"/* condition */",
+			"/* code */",
+			">visible",
+			">Visible",
+			">visible",
+			">Visible",
+			">visible",
+			">Visible",
+			">visible",
+			"sdd",
+			"/* condition */",
+			"|",
+			"//|",
+			"|",
+			"N2530BIT = ;",
+			"N2530 = ",
+			"N2530",
+			"N =",
+			"N",
+			"2025",
+			"N = ",
+			"Diapazon2025",
+			"code",
+			"if(",
+			"GUN",
+			"CFR1",
+			"<<8||0x05",
+			"<<8||0x01",
+			"CFR",
+			"Reg0Offset",
+			"MAD9910",
+			"AD9910(",
+			"AD9910",
+			"LoadREG(0);",
+			"(Sender)",
+			"Sender",
+			");",
+			"IntToHex",
+			"REG9910.DDAT8 ",
+			"LoadLIST",
+			")",
+			"Delete(",
+			">Text +",
+			"+E",
+			"/* code */",
+			"DAT",
+			"DAT = ",
+			"DAT",
+			"MyDDAT",
+			"Text",
+			"StrBinToInt",
+			"Button1Click",
+			"True",
+			"RST",
+			"case",
+			"send_sint_reg",
+			"// клок",
+			"//CLK клок 0",
+			"// в данных ",
+			"// CLK 0",
+			"//CLK клок 1",
+			"// клок",
+			"IOB",
+			"IOC&=0xef;",
+			"IOC|=0x10;",
+			"SYNCDELAY;  \n   IOC|=0x10;",
+			"SYNCDELAY;  \n   IOC|=0x10;\t\t// клок 1",
+			"IOC&=0xfe;",
+			"IOC|=0x01;",
+			"IOC",
+			"ALLAnPeak(int Num)",
+			"GeinAnGen",
+			"ALLAnSpanSet(double",
+			"ALLAnPeak(Num)",
+			"ALLAnPeak(int Num)",
+			"An8560->MkrPeak()",
+			"analiz",
+			"anal",
+			"MemINI->WriteDouble(\"Stend\",\"analiz\"",
+			"INI",
+			"9030",
+			"dayField",
+			")",
+			",",
+			"_pat",
+			"// Now construct a button",
+			"pasp1",
+			"textSize",
+			"AgE44XX",
+			"Edit1",
+			"An9030",
+			"if (KanalNum_B_Mod==1)",
+			"2,Fin1,",
+			"1,Fin1,",
+			"Form2",
+			"StringGrid11",
+			"Edit",
+			"AdrSet",
+			"ModulFCH2->AdrSet();//",
+			"ModulFCH1->AdrSet();//",
+			"Tabl1",
+			"ComboBox4->ItemIndex"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"9020",
+			"Form6",
+			"RelBlok3Vk1INI",
+			"Meas3VK6P1145",
+			"Meas3VK6Kp",
+			"3VK6",
+			"3Вк6",
+			"MOD3VK6_.ini",
+			"Mod3VK6It",
+			"Rel3VK6INI"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "mserial.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3257,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "3c70e73e",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "KLSMF100A.h",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "36805ecb",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "mserial.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2885,
+								2885
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "3c261f12",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1693.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "COMX.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"MaketNUSB\\DDS9910.res"
+			],
+			[
+				"mf",
+				"3DG1\\Kanal3DG6\\MFC1DG.h"
+			],
+			[
+				"t",
+				"3DG1\\KanalPerexv\\Tri3PX2.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ADF4002"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

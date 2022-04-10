@@ -1,0 +1,40 @@
+class Stend
+{
+public:
+	Stend(IBlock* block) : _block(block)
+	{
+		
+	}
+	long SetFreq()
+	{
+		_block->SetFreq();
+		generator->SetFreq();
+		analyziator->SetFreq();
+		long value = analyziator->...
+		return value;		
+	}
+private:
+	IBLock* _block;
+	void _test();
+	protected:
+	IBlock Block;
+	public:
+	IBLock Block;
+}
+
+class IBLock
+{
+public:
+	virtual void SetFreq() = 0;
+}
+
+class Block1 : public IBlock
+{
+public:
+	void SetFreq() override
+	{
+		
+	}
+}
+
+Stend *stend = new Stend(new Block1());

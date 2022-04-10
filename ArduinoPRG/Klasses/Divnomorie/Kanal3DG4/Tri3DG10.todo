@@ -1,0 +1,85 @@
+
+/*====================================
+=            Табл 1,2,3,4            =
+====================================*/
+
+☐ [[..\Unit1.cpp::Button26Click]]← Измерить 3-6
+  ☐ [[..\Unit1.cpp::Meas3DG10Kp(i]]← Измерение параметров
+  ☐ [[..\Stend3PX1.cpp::IP1(]]← Измерение параметров
+  ☐ [[..\Stend3PX1.cpp::Sens(]]← Измерение параметров
+☐ [[..\Unit1.cpp::StringGrid11DblClick(T]]←
+
+☐ [[..\Unit1.cpp::Button25Click]]← Измерить 6-18
+  ☐ [[..\Unit1.cpp::Meas3DG10Kp(i]]← Измерение параметров
+☐ [[..\Unit1.cpp::StringGrid3DblClick(T]]←
+/*===================  Работа с INI   ==================*/
+
+☐ [[..\Unit1.cpp::IP1 кнопка]]← Измерить 3-6
+☐ [[..\Unit1.cpp::Button25Click]]← Измерить 6-18
+
+☐ [[..\Unit1.cpp::StringGrid11DblClick]]← Измерить 3-6
+  ☐ [[..\Unit1.cpp::Meas3DG10Kp]]← Измерить 3-6
+☐ [[..\Unit1.cpp::StringGrid2DblClick]]← Измерить 3-6
+  ☐ [[..\Unit1.cpp::Meas3DG10P1S(i]]← Измерить 3-6
+
+
+
+☐ [[..\Unit1.cpp::StringGrid3DblClick]]← Измерить 6-18
+☐ [[..\Unit1.cpp::StringGrid12DblClick]]← Измерить 6-18
+
+☐ [[..\Unit1.cpp::StringGrid5DblClick]]← Измерить 6-18
+  ☐ [[..\Unit1.cpp::Meas3DG10Kp]]← Измерить 6-18
+  ☐ [[..\Unit1.cpp::Button9Click]]← Измерить 6-18
+☐ [[..\Unit1.cpp::StringGrid8DblClick]]← Измерить 6-18
+  ☐ [[..\Unit1.cpp::Meas3DG10Kp]]← Измерить 6-18
+  ☐ [[..\Unit1.cpp::Button33Click]]← Измерить 6-18
+
+☐ [[..\Unit1.cpp::Meas3DG10Kp(i]]← Измерение параметров
+☐ [[..\Unit1.cpp::Meas3PX2P1145(i]]← Измерение параметров
+☐ [[..\Unit1.cpp::Meas3DG10P1S(i]]← Измерение параметров
+☐ [[..\Unit1.cpp::Rel3DG10INI(]]← Перезагрузка таблиц ПСИ 3Дж2
+/*================  End of Табл 1,2,3,4 =============*/
+
+/*=============================================================
+=                Табл. 5         П112                           =
+=============================================================*/
+☐ [[..\Unit1.cpp::Button9Click]]← Измерить П112 0ffset = 8 -9
+☐ [[..\Unit1.cpp::Button23Click]]← Измерить П112 0ffset = 7 -9
+☐ [[..\Unit1.cpp::Button24Click]]← Измерить П112 0ffset = 6 -9
+☐ [[..\Unit1.cpp::StringGrid5DblClick(T]]←
+    ☐ [[..\Unit1.cpp::Meas3DG10Kp(]]← П112 0ffset = 9 -9
+    ☐ [[..\Unit1.cpp::Rel3DG10INI(]]← Перезагрузка таблиц ПСИ 3Дж2
+
+/*========================  End of П112  ====================*/
+
+/*=============================================================
+=                Табл. 6         П114                           =
+=============================================================*/
+☐ [[..\Unit1.cpp::Button33Click]]← Измерить П114 П112 0ffset = 8 -9
+☐ [[..\Unit1.cpp::Button34Click]]← Измерить П114 П112 0ffset = 7 -9
+☐ [[..\Unit1.cpp::Button35Click]]← Измерить П114 П112 0ffset = 6 -9
+☐ [[..\Unit1.cpp::Button37Click]]← Измерить П114 П112 0ffset = 5 -9
+☐ [[..\Unit1.cpp::Button36Click]]← Измерить П114 П112 0ffset = 4 -9
+☐ [[..\Unit1.cpp::Button38Click]]← Измерить П114 П112 0ffset = 3 -9
+    ☐ [[..\Unit1.cpp::StringGrid8DblClick(T]]← Измерение 0ffset = 9 -9
+    ☐ [[..\Unit1.cpp::Meas3DG10Kp(]]← Измерение 0ffset = 9 -9
+    ☐ [[..\Unit1.cpp::PageControl1Change(T]]← перезагрузка 
+    ☐ [[..\Unit1.cpp::Rel3DG10INI(]]← Перезагрузка таблиц ПСИ 3Дж2
+
+/*========================  End of П114  ====================*/
+/*=============================================================
+=                Табл. 7        ПИ                            =
+=============================================================*/
+☐ [[..\Unit1.cpp::Button29Click]]← Измерить П114 П112 0ffset = 8 -9
+☐ [[..\Unit1.cpp::StringGrid6DblClick(T]]← Измерение 0ffset = 9 -9
+/*========================  End of ПИ  ====================*/
+☐ [[..\Tri3DG10.cpp::SetFriq(]] ← Рассчет частот.
+  ☐ [[..\KanalDG10.cpp::WriteFregIN]] ← Рассчет частот.
+  ☐ [[..\KanalDG10.cpp::LoadKL(int]] ← Рассчет частот.
+☐ [[..\KanalDG10.cpp::ATT1_SET(]] ← АТТ1.
+☐ [[..\KanalDG10.cpp::ATT2_SET(]] ← АТТ2.
+☐ [[..\KanalDG10.cpp::FriqSET10(]]
+☐ [[..\BL3DG1C.cpp::FriqSET10(]]
+
+
+☐ [[..\Tri3DG10.cpp::LoadKL_K1]] ← Процедура данные для ключей.

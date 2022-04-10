@@ -1,0 +1,1766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SETA",
+				"SETAUTO\t(FCHPERENOS.cpp)"
+			],
+			[
+				"CO",
+				"CONV"
+			],
+			[
+				"Che",
+				"CheckBox4"
+			],
+			[
+				"It",
+				"ItemIndex"
+			],
+			[
+				"Com",
+				"ComboBox20\t(Unit1.h)"
+			],
+			[
+				"RegL",
+				"RegLoadF\t(LMX2594.cpp)"
+			],
+			[
+				"re",
+				"return\t(PRC051.cpp)"
+			],
+			[
+				"PRC",
+				"PRC051.h\t(PRC051.cpp)"
+			],
+			[
+				"N",
+				"Nint"
+			],
+			[
+				"BL",
+				"BLKPRC51.h\t(BLKPRC51.cpp)"
+			],
+			[
+				"FO",
+				"FOUT\t(FCHPERENOS.h)"
+			],
+			[
+				"UP",
+				"UPR1\t(FCHPERENOS.cpp)"
+			],
+			[
+				"UPR",
+				"UPR1"
+			],
+			[
+				"Set",
+				"SetVCO\t(LMX2594.h)"
+			],
+			[
+				"B",
+				"BLKPRC51H\t(BLKPRC51.h)"
+			],
+			[
+				"Un",
+				"Unit2.h\t(Unit2.cpp)"
+			],
+			[
+				"За",
+				"Замена\t(Unit2.cpp)"
+			],
+			[
+				"Ус",
+				"установки"
+			],
+			[
+				"часто",
+				"частотой\t(МФЧГ преобразователя УППММ.txt)"
+			],
+			[
+				"SU",
+				"SUPR1\t(PRC051.h)"
+			],
+			[
+				"си",
+				"синтезатора"
+			],
+			[
+				"Polosa",
+				"Polosa830\t(MFC1RR.h)"
+			],
+			[
+				"U",
+				"UPR\t(KanalRRUKV.h)"
+			],
+			[
+				"MP",
+				"MPRC"
+			],
+			[
+				"Kana",
+				"KanalRRUKV.h\t(KanalRRUKV.cpp)"
+			],
+			[
+				"OU",
+				"OUT"
+			],
+			[
+				"tr",
+				"true\t(PRCRR.cpp)"
+			],
+			[
+				"VA",
+				"VALUE"
+			],
+			[
+				"Val",
+				"VALUE"
+			],
+			[
+				"LD",
+				"LDTupe"
+			],
+			[
+				"P",
+				"PDovn\t(LMX2594.cpp)"
+			],
+			[
+				"RE",
+				"RES"
+			],
+			[
+				"M",
+				"MULT"
+			],
+			[
+				"ML",
+				"MLT"
+			],
+			[
+				"MU",
+				"MULT"
+			],
+			[
+				"PLL",
+				"PLL_PRE"
+			],
+			[
+				"UX",
+				"UXM15"
+			],
+			[
+				"UXD",
+				"UXD20"
+			],
+			[
+				"MF",
+				"MFC1"
+			],
+			[
+				"Sint1_LM",
+				"Sint1_LMX2594"
+			],
+			[
+				"MFC",
+				"MFC1RR.h\t(MFC1RR.cpp)"
+			],
+			[
+				"ch",
+				"Checked"
+			],
+			[
+				"Str",
+				"StrToInt"
+			],
+			[
+				"E",
+				"Edit17"
+			],
+			[
+				"Re",
+				"Reg"
+			],
+			[
+				"buf",
+				"buffer"
+			],
+			[
+				"Lab",
+				"Label23\t(Unit1.h)"
+			],
+			[
+				"Edit",
+				"Edit9\t(Unit1.h)"
+			],
+			[
+				"Lo",
+				"LoadVME"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"S",
+				"Sender"
+			],
+			[
+				"DDATA",
+				"DDATA32"
+			],
+			[
+				"dd",
+				"DDATA64"
+			],
+			[
+				"AD",
+				"ADR\t(Unit1.h)"
+			],
+			[
+				"Loa",
+				"LoadREG"
+			],
+			[
+				"An",
+				"AnE4407"
+			],
+			[
+				"Get",
+				"GetIPlok"
+			],
+			[
+				"RS",
+				"RS_FSL"
+			],
+			[
+				"St",
+				"Stend"
+			],
+			[
+				"Cm",
+				"CmB17"
+			],
+			[
+				"D",
+				"Down"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"GP",
+				"GPIB_Set"
+			],
+			[
+				"sin",
+				"Sint100_ADF4002"
+			],
+			[
+				"MAP",
+				"MAP02"
+			],
+			[
+				"BL3",
+				"BL3DG1C.h\t(BL3DG1C.cpp)"
+			],
+			[
+				"n",
+				"N2"
+			],
+			[
+				"DF",
+				"DFpc\t(MFC2DG.h)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"DN",
+				"DNSys\t(MFC1DG.h)"
+			],
+			[
+				"Dn",
+				"DNdiap"
+			],
+			[
+				"Polo",
+				"Polosa\t(MFC1DG.h)"
+			],
+			[
+				"com",
+				"comm-todo\tComment - To-do list"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"div",
+				"DIvG"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"if",
+				"ifelse\tif(…) else"
+			],
+			[
+				"comm",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"co",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"тр",
+				"труда\t(Служебная комп.txt)"
+			],
+			[
+				"про",
+				"производительности\t(Служебная комп.txt)"
+			],
+			[
+				"comm-",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"To",
+				"TODO"
+			],
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "//---------------------------------------------------------------------------\n\n#include <vcl.h>\n#pragma hdrstop\n #include \"VirtBlock.h\"\n#include \"Unit1.h\"\n#include \"UdpClient.h\"\n#pragma package(smart_init)\n#pragma link \"AdvPageControl\"\n#pragma link \"AdvSpin\"\n#pragma link \"AdvPicture\"\n#pragma resource \"*.dfm\"\nusing namespace LightNetwork;\nTForm1 *Form1;\n\n//---------------------------------------------------------------------------\n__fastcall TForm1::TForm1(TComponent* Owner)\n\t: TForm(Owner)\n{\n\t BLOKRR = new RPURR();\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button1Click(TObject *Sender)\n{   ComboBox1Change(Sender);\n\tComboBox2Change(Sender);\n\tCheckBox1Click(Sender);\n\tCheckBox2Click(Sender);\n\n    switch (ComboBox11->ItemIndex)\n\t\t{\n\t\tcase 0:  \tBLOKRR->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t\tBLOKRR->MFC1->Set394(10);\n\t\tbreak;\n\t\tcase 1:  \tBLOKRR->MFC1->Sint1_HMC830->Xtal = 90.9090909091;\n\t\t\t\t\tBLOKRR->MFC1->Set394(11);\n\t\tbreak;\n\t\tdefault:  \tBLOKRR->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t  \tBLOKRR->MFC1->Set394(10);\n\t\tbreak;\n\t\t}\n\n\n\tBLOKRR->MFC1->Sint1_HMC830->SetFreq(Edit4->Text.ToDouble());\n\tBLOKRR->LoadMFC1();\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::FormShow(TObject *Sender)\n{\n\t   FormSH->TFormSH_INIT(\"A\",\"B\",BLOKRR);\n\t   for(unsigned i = 0; i < 7; ++i) {\n\t   \tComboBox19->Items->Add(BLOKRR->TPRC51->FCHP2594->FNUM[i+3].FOUT);\n\t   }\n\t  ComboBox19->ItemIndex = 0;\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::N1Click(TObject *Sender)\n{\n\t FormSH->ShowModal();\n}\n//---------------------------------------------------------------------------\nvoid TForm1::SDIAPAZON(int RF, int CONV, int Fil, int GET, int PMA32, int PHA, int ATT)\n{//CHANGED: PROCEDUR @PRES51 (0)\n //--------------RF----------------------\n\tComboBox16->ItemIndex = RF;\n\tBLOKRR->PRC51INSW(RF);\n //---------------CONV-------------------\n\tCheckBox4->Checked = CONV;\n\tBLOKRR->PRC51PERENOS(CONV);\n //---------------PRES-------------------\n\tComboBox13->ItemIndex = Fil;\n\tBLOKRR->PRC51PRES(Fil);\n //--------------PMA32-------------------\n\tCheckBox7->Checked = PMA32;\n\tBLOKRR->PRC51PMA32(PMA32);\n //--------------PHA---------------------\n\tComboBox17->ItemIndex = PHA;\n\tBLOKRR->PRC51PHA3(PHA);\n //--------------ATT4--------------------\n\tComboBox15->ItemIndex;\n\tBLOKRR->PRC51ATT2(ATT);\n //--------------GET---------------------\n\tComboBox19->ItemIndex = GET;\n\tBLOKRR->PRC51FCHFRIQ(GET);\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::CheckBox1Click(TObject *Sender)\n{\n\t\t\tif(CheckBox1->Checked)\n\t\t{\n\t\t\tBLOKRR->MFC1->UPR2 = 1;\n\t\t}\n\t\t\telse\n\t\t{\n\t\t\tBLOKRR->MFC1->UPR2 = 0;\n\t\t}\n\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::CheckBox2Click(TObject *Sender)\n{\n\t\t\tif(CheckBox2->Checked)\n\t\t{\n\t\t\tBLOKRR->MFC1->UPR1 = 1;\n\t\t}\n\t\t\telse\n\t\t{\n\t\t\tBLOKRR->MFC1->UPR1 = 0;\n\t\t}\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox1Change(TObject *Sender)\n{\n\t\tBLOKRR->MFC1->SetUXM15(ComboBox1->Text.ToInt());  //if 15\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox2Change(TObject *Sender)\n{\n\t\tBLOKRR->MFC1->SetUXD20(ComboBox2->Text.ToInt());\t// UXL20\n\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button2Click(TObject *Sender)\n{\n\t\t\tBLOKRR->LoadLMX1();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button3Click(TObject *Sender)\n{\n\t\tBLOKRR->MFC1->Sint1_LMX2594->REG[0] = 0x00241A;\n\t\tBLOKRR->LoadLMXUNO(0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button4Click(TObject *Sender)\n{\n\t\tBLOKRR->MFC1->Sint1_LMX2594->REG[0] = 0x00248;\n\t\tBLOKRR->LoadLMXUNO(0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button5Click(TObject *Sender)\n{\n\t\t//BLOKRR->MFC1->Sint1_LMX2594->REG[0] = 0x002418;\n\t\tBLOKRR->LoadLMXUNO(ComboBox3->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button6Click(TObject *Sender)\n{\n\t   //\tBLOKRR->MFC1->Sint1_LMX2594->REG[0] = 0x002514;\n\tEdit3->Text = BLOKRR->ReadLMXUNO(ComboBox3->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button7Click(TObject *Sender)\n{\nif(Edit2->Text.ToDouble()==7775) {\ti=0;}\nif(Edit2->Text.ToDouble()==7820) {\ti=1;}\nif(Edit2->Text.ToDouble()==8020) {\ti=2;}else{i=5;}\n\t\t\t\t\t\t\tswitch (i)\n\t\t\t{\n\t\t\t\tcase 0:\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->NSET(117);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\t\t\t\t\tBLOKRR->LoadLMX1();\n\t\t\t\tbreak;\n\t\t\t\tcase 1:\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->NSET(63);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\t\t\t\t\tBLOKRR->LoadLMX1();\n\n\t\t\t\tbreak;\n\t\t\t\tcase 2:\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->NSET(51);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\t\t\t\t\tBLOKRR->LoadLMX1();\n\t\t\t\tbreak;\n\t\t\t\tdefault:\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->SetFreq(7820);\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tComboBox1->ItemIndex = 2;\n\t\t\t\t\tEdit4->Text = 7820/(ComboBox1->ItemIndex + 4) - 7820/63 -1000;\n\n\t\t\t\t\t\t\t\tswitch (ComboBox11->ItemIndex)\n\t\t\t\t\t{\n\t\t\t\t\tcase 0:  \tBLOKRR->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t\t\t\t\tBLOKRR->MFC1->Set394(10);\n\t\t\t\t\tbreak;\n\t\t\t\t\tcase 1:  \tBLOKRR->MFC1->Sint1_HMC830->Xtal = 90.9090909091;\n\t\t\t\t\t\t\t\tBLOKRR->MFC1->Set394(11);\n\t\t\t\t\tbreak;\n\t\t\t\t\tdefault:  BLOKRR->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t\t\t\t  BLOKRR->MFC1->Set394(10);\n\t\t\t\t\tbreak;\n\t\t\t\t\t}\n\t\t\t\t\tBLOKRR->MFC1->Sint1_HMC830->SetFreq(Edit4->Text.ToDouble());\n\t\t\t\t\tBLOKRR->LoadMFC1();\n\n\t\t\t\t\tBLOKRR->MFC1->SetUXM15(ComboBox1->ItemIndex + 4);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->NSET(63);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\n\n\t\t\t   \t\tBLOKRR->LoadLMX1();\n\n\t\t\t\tbreak;\n\t\t\t}\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::LMX25941Click(TObject *Sender)\n{\n         Form2->ShowModal();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::HMC831Click(TObject *Sender)\n{\n\t\t Form3->ShowModal();\n}\n//---------------------------------------------------------------------------\n\n\n\nvoid __fastcall TForm1::MFC11Click(TObject *Sender)\n{\n\t   Form4->ShowModal();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button8Click(TObject *Sender)\n{\n\t\t\tBLOKRR->MFC1->SetAUTOCOR(0,0);\n\t\t\tBLOKRR->LoadLMXUNO(19);\n\n\t\t\tBLOKRR->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\tForm2->AdvSpinEdit4->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\tForm2->AdvSpinEdit3->Value = BLOKRR->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\tBLOKRR->LoadLMX1();\n\t\t\tBLOKRR->MFC1->Sint1_LMX2594->MoUTLD(1);\n\t\t\tBLOKRR->LoadLMXUNO(0);\n\t\t\ti = Form4->binary_search(Edit2->Text.ToDouble(),0,269)-1;\n\n\t\t\tRichEdit1->Clear();\n\t\t\tRichEdit1->Lines->Add(i);\n\n\t\t\tRichEdit1->Lines->Add(\"Fl=\" + FloatToStr(Form4->Polosa[i].DFv));\n\t\t\tRichEdit1->Lines->Add(\"Fp=\" + FloatToStr(Form4->Polosa[i+1].DFv));\n\t\t\tRichEdit1->Lines->Add(\"M=\" + IntToStr(Form4->Polosa[i].DM));\n\t\t\tRichEdit1->Lines->Add(\"K=\" + IntToStr(Form4->Polosa[i].K));\n\t\t\tRichEdit1->Lines->Add(\"OUT=\" + IntToStr(Form4->Polosa[i].MOUT));\n\t\t\tRichEdit1->Lines->Add(\"N=\" + IntToStr(Form4->Polosa[i].DN));\n\t\t\tRichEdit1->Lines->Add(\"CAP1=\" + IntToStr(Form4->Polosa[i].CAP1));\n\t\t\tRichEdit1->Lines->Add(\"VCO=\" + IntToStr(Form4->Polosa[i].VCO));\n\t\t\t//BLOKRR->MFC1->SetUXM15(ComboBox1->Text.ToInt());  //if 15\n\n            \t\tswitch (Form4->Polosa[i].DM)\n            {\tcase 4:ComboBox1->ItemIndex = 0;    break;\n\t            case 5:ComboBox1->ItemIndex = 1;    break;\n\t            case 6:ComboBox1->ItemIndex = 2;    break;\n\t            case 7:ComboBox1->ItemIndex = 3;    break;\n\t\t\t\tcase 8:ComboBox1->ItemIndex = 4;    break;\n\t            case 9:ComboBox1->ItemIndex = 5;    break;\n\n\t            default:  ComboBox1->ItemIndex = 4;    break;\n            }\n\t\t\t\tCheckBox1->Checked = true;\n\t\t\t\t\tif(Form4->Polosa[i].K>0)\n\t\t\t{\n\t\t\t\tCheckBox2->Checked = true;\n\t\t\t}\n\t\t\t\telse\n\t\t\t{\n\t\t\t\tCheckBox2->Checked = false;\n\t\t\t}\n\n//\t\t\t\t\tswitch (Form4->Polosa[i].MOUT2)\n//\t\t\t{\tcase 1:ComboBox2->ItemIndex = 0;    break;\n//\t\t\t\tcase 2:ComboBox2->ItemIndex = 1;    break;\n//\t\t\t\tcase 4:ComboBox2->ItemIndex = 2;    break;\n//\t\t\t\tcase 5:ComboBox2->ItemIndex = 3;    break;\n//\t\t\t\tdefault:  ComboBox1->ItemIndex = 0;    break;\n//\t\t\t}\n\n\t\t\tEdit4->Text\t= Edit2->Text.ToDouble()/(Form4->Polosa[i].DM*Form4->Polosa[i].MOUT)  - Form4->Polosa[i].K*Edit2->Text.ToDouble()/Form4->Polosa[i].DN -1000;\n            ComboBox11Change(Sender);\n\t\t\tBLOKRR->MFC1->Sint1_LMX2594->NSET(Form4->Polosa[i].DN);\n\t\t\tBLOKRR->LoadLMXUNO(34);\n\t\t\tBLOKRR->LoadLMXUNO(36);\n\t\t\tBLOKRR->MFC1->Sint1_LMX2594->FRSET(0);\n\t\t\tBLOKRR->LoadLMXUNO(42);\n\t\t\tBLOKRR->LoadLMXUNO(43);\n\t\t\tBLOKRR->LoadLMXUNO(BLOKRR->MFC1->Sint1_LMX2594->VCO_SEL_FORCE(1));\n\t\t\tBLOKRR->LoadLMXUNO(BLOKRR->MFC1->Sint1_LMX2594->VCO_SEL(Form4->Polosa[i].VCO));\n\n\t\t\tForm2->ComboBox1->ItemIndex\t= Form4->Polosa[i].VCO;\n\t\t\tBLOKRR->LoadLMXUNO(BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1));\n\n\n\t\t\t\t\tswitch (Form4->Polosa[i].MOUT)\n\t\t\t\t\t{\n\t\t\t\t\tcase 1:\n\t\t\t\t\tForm2->ComboBox11->ItemIndex=1;\n\t\t\t\t\tForm2->ComboBox12->ItemIndex=1;\n\t\t\t\t\t//0: Channel divider 1: VCO\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->OUTAMUX(1)); //R45\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->OUTBMUX(1)); //R46\n\t\t\t\t\tbreak;\n\t\t\t\t\tcase 2:\n\t\t\t\t\tForm2->ComboBox10->ItemIndex=0;\n\t\t\t\t\tForm2->ComboBox11->ItemIndex=0;\n\t\t\t\t\tForm2->ComboBox12->ItemIndex=0;\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->CHANDiV(0)); //R75[10:6]\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->OUTAMUX(0)); //R45\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->OUTBMUX(0)); //R46\n\t\t\t\t\tbreak;\n\t\t\t\t\tdefault:\n\t\t\t\t\tForm2->ComboBox11->ItemIndex=1;\n\t\t\t\t\tForm2->ComboBox12->ItemIndex=1;\n\t\t\t\t\t//0: Channel divider 1: VCO\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->OUTAMUX(1)); //R45\n\t\t\t\t\tBLOKRR->LoadLMXUNO(Form1->BLOKRR->MFC1->Sint1_LMX2594->OUTBMUX(1)); //R46\n\t\t\t\t\tbreak;\n\t\t\t\t\t}\n\n\n\n\t\t\tButton1Click(Sender);\n\t\t\tBLOKRR->LoadMFC1();\n\t\t\tBLOKRR->LoadLMX1();\n\n//\t\t\t\t\tswitch (CheckBox3->Checked)\n//\t\t{\n//\t\tcase 0:  BLOKRR->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n//\t\tcase 1:  BLOKRR->MFC1->SetAUTOCOR(1,ComboBox10->ItemIndex);  break;\n//\t\tdefault:  BLOKRR->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n//\t\t}\n//\t\tBLOKRR->LoadLMXUNO(BLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form4->Polosa[i].CAP1 + AdvSpinEdit1->Value));  /* TODO -cПрогрузка LMX : Подставить из таблицы */\n//\t\tForm2->AdvSpinEdit1->Value = Form4->Polosa[i].CAP1; //VCO_CAPCTRL\n\n\n\n\t\tBLOKRR->MFC1->Sint1_LMX2594->MoUTLD(1);\n\t\tBLOKRR->LoadLMXUNO(0);\n\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form4->Polosa[i].CAP1 + AdvSpinEdit1->Value);\n\t\t\t\t\t\tswitch (CheckBox3->Checked)\n\t\t{\n\t\tcase 0:  BLOKRR->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n\t\tcase 1:  BLOKRR->MFC1->SetAUTOCOR(1,ComboBox10->ItemIndex);  break;\n\t\tdefault:  BLOKRR->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n\t\t}\n\t\tBLOKRR->LoadLMXUNO(19);\n\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox4Change(TObject *Sender)\n{\n\n//\t  BLOKRR->PRC->SetFriq(0,ComboBox9->ItemIndex,35,ComboBox5->ItemIndex,AdvSpinEdit2->Value,AdvSpinEdit3->Value,AdvSpinEdit4->Value,63-AdvSpinEdit5->Value); //int Mod,int Kanal,double Fin,bool Ampl_,int DB1,int DB2,int DB3,int DB4\n//\t  BLOKRR->PRC->MKanal->PRESELSET(ComboBox4->ItemIndex);\n//\t  BLOKRR->PRC->MKanal->AmplifSET(ComboBox5->ItemIndex);\n//\n//\t  BLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::AdvSpinEdit2Change(TObject *Sender)\n{\n//\t\tBLOKRR->PRC->MKanal->ATT1_SET(AdvSpinEdit2->Value);\n//\t\tBLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit3Change(TObject *Sender)\n{\n\n//\t\tBLOKRR->PRC->MKanal->ATT2_SET(AdvSpinEdit3->Value);\n//\t\tBLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit4Change(TObject *Sender)\n{\n\n//\t\tBLOKRR->PRC->MKanal->ATT3_SET(AdvSpinEdit4->Value);\n//\t\tBLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit5Change(TObject *Sender)\n{\n\n//\t\tBLOKRR->PRC->MKanal->ATT4_SET(63-AdvSpinEdit5->Value);\n//\t\tBLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox5Change(TObject *Sender)\n{\n        ComboBox4Change(Sender);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button9Click(TObject *Sender)\n{\n\n\t\tBLOKRR->MFC1->Sint1_LMX2594->MoUTLD(1);\n\t\tBLOKRR->LoadLMXUNO(0);\n\n\t\tBLOKRR->MFC1->Sint1_LMX2594->VCO_CAPCTRL(AdvSpinEdit6->Value);\n\t\t\t\t\t\tswitch (CheckBox3->Checked)\n\t\t{\n\t\tcase 0:  BLOKRR->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n\t\tcase 1:  BLOKRR->MFC1->SetAUTOCOR(1,ComboBox10->ItemIndex);  break;\n\t\tdefault:  BLOKRR->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n\t\t}\n\tBLOKRR->LoadLMXUNO(19);\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox11Change(TObject *Sender)\n{\n\t\t\t\t\tswitch (ComboBox11->ItemIndex)\n\t\t{\n\t\tcase 0:  \tBLOKRR->MFC1->Sint1_HMC830->SetREF(100.0,1);\n\t\t\t\t\tBLOKRR->MFC1->Set394(10);\n\t\tbreak;\n\t\tcase 1:  \t//BLOKRR->MFC1->Sint1_HMC830->Xtal = 90.9090909091;\n\t\t\t\t\tBLOKRR->MFC1->Sint1_HMC830->SetREF(90.9090909091,1); // SetREF(double INREF, double INR)\n\n\t\t\t\t\tBLOKRR->MFC1->Set394(11);\n\t\tbreak;\n\t\tdefault:  BLOKRR->MFC1->Sint1_HMC830->SetREF(100.0,1);\n\t\t\t\t  BLOKRR->MFC1->Set394(10);\n\t\tbreak;\n\t\t}\n\t\tBLOKRR->MFC1->Sint1_HMC830->SetFreq(Edit4->Text.ToDouble());\n\t\tBLOKRR->LoadMFC1();\n\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::ComboBox6Change(TObject *Sender)\n{\n\n//\t\tBLOKRR->PRC->MKanal->NKanal[2].Pch1_Sw = ComboBox6->ItemIndex;\n//\t\tBLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::ComboBox7Change(TObject *Sender)\n{\n//\t\tBLOKRR->PRC->MKanal->PC2INSET(ComboBox7->ItemIndex);\n//\t\tBLOKRR->LoadRPURR();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox12Change(TObject *Sender)\n{\n//\t\t\t\tswitch (ComboBox12->ItemIndex)     //Вход ПЧ2\n//\t\t{\n//\t\tcase 0:  \tBLOKRR->PRC->MKanal->NKanal[2].Pch2_Sw = BLOKRR->PRC->MKanal->NKanal[2].Pch2_Sw&0x1; \tbreak;\n//\t\tcase 1:    \tBLOKRR->PRC->MKanal->NKanal[2].Pch2_Sw = BLOKRR->PRC->MKanal->NKanal[2].Pch2_Sw|0x2;  \tbreak;\n//\t\tdefault: \tBLOKRR->PRC->MKanal->NKanal[2].Pch2_Sw = BLOKRR->PRC->MKanal->NKanal[2].Pch2_Sw|0x2;  \tbreak;\n//\t\t}\n//\n//\t\tBLOKRR->LoadRPURR();\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button10Click(TObject *Sender)\n{\n\t\tBLOKRR->SENDLAN(StrToInt64(\"0x\"+Edit5->Text)>>32,StrToInt64(\"0x\"+Edit5->Text)&0xFFFFFFFF,0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox13Change(TObject *Sender)\n{\n\t   //BLOKRR->PRC->MKanal->PC2INSET(ComboBox7->ItemIndex);\n//\t   BLOKRR->TPRC51->PRESELSET(ComboBox13->ItemIndex);\n//\t   BLOKRR->LoadPRC51();\n\t   BLOKRR->PRC51PRES(ComboBox13->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::CheckBox4Click(TObject *Sender)\n{\n\t\t\t\t\tif (CheckBox4->Checked)\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].Conv_sw = 1;\n\t\t} \telse\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].Conv_sw = 0;\n\t\t}\n\t\tBLOKRR->LoadPRC51();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox16Change(TObject *Sender)\n{\n\n//\t\t\t\t\tswitch (ComboBox16->ItemIndex)\n//\t\t\t   {\n//\t\t\t\tcase 0: BLOKRR->TPRC51->ASW[1].In_SW = 0;break;\n//\t\t\t\tcase 1: BLOKRR->TPRC51->ASW[1].In_SW = 1;break;\n//\t\t\t\tcase 2: BLOKRR->TPRC51->ASW[1].In_SW = 2;break;\n//\t\t\t\tcase 3: BLOKRR->TPRC51->ASW[1].In_SW = 3;break;\n//\t\t\t\tcase 4: BLOKRR->TPRC51->ASW[1].In_SW = 4;break;\n//\t\t\t\tdefault: BLOKRR->TPRC51->ASW[1].In_SW = 0;break;\n//\t\t\t   }\n//\t\t\t\tBLOKRR->LoadPRC51();\n\t\t\t BLOKRR->PRC51INSW(ComboBox16->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::CheckBox7Click(TObject *Sender)\n{\n\t\t\t\tif (CheckBox7->Checked)\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].LNA_sw = BLOKRR->TPRC51->ASW[1].LNA_sw|0x1;\n\t\t} \telse\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].LNA_sw = BLOKRR->TPRC51->ASW[1].LNA_sw&0x2;\n\t\t}\n\t\tBLOKRR->LoadPRC51();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox17Change(TObject *Sender)\n{//CHANGED: UPR_PHA @PRES51 (1)\n\t\t\tswitch (ComboBox17->ItemIndex)\n\t\t{\n\t\tcase 0: BLOKRR->TPRC51->ASW[1].UsilPCH_sw = 1;break;\n\t\tcase 1: BLOKRR->TPRC51->ASW[1].UsilPCH_sw = 2;break;\n\t\tcase 2: BLOKRR->TPRC51->ASW[1].UsilPCH_sw = 0;break;\n\n\t\tdefault: BLOKRR->TPRC51->ASW[1].UsilPCH_sw = 0;break;\n\t\t}\n\t\tBLOKRR->LoadPRC51();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::CheckBox5Click(TObject *Sender)\n{\n\t\t\tif (CheckBox5->Checked)\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].Filtr_sw = 1;\n\t\t} \telse\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].Filtr_sw = 0;\n\t\t}\n\t\tBLOKRR->LoadPRC51();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::CheckBox6Click(TObject *Sender)\n{\n\t\t\tif (CheckBox6->Checked)\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].LNA_sw = BLOKRR->TPRC51->ASW[1].LNA_sw|0x2;\n\t\t} \telse\n\t\t{\n\t\tBLOKRR->TPRC51->ASW[1].LNA_sw = BLOKRR->TPRC51->ASW[1].LNA_sw&0x1;\n\t\t}\n\t\tBLOKRR->LoadPRC51();\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox15Change(TObject *Sender)\n{        //CHANGED: UPR_ATT @PRES51 (1)\n\t\t// BLOKRR->TPRC51->ATT2_SET(ComboBox15->ItemIndex);\n\t\t// BLOKRR->LoadSwRR(1);\n\t\tBLOKRR->PRC51ATT2(ComboBox15->ItemIndex);\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox14Change(TObject *Sender)\n{\n\t\t// BLOKRR->TPRC51->ATT1_SET(ComboBox14->ItemIndex);\n\t\t// BLOKRR->LoadSwRR(0);\n\t\tBLOKRR->PRC51ATT1(ComboBox14->ItemIndex);\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::CheckBox8Click(TObject *Sender)\n{\n//upr1\n\t\t\tif (CheckBox8->Checked)\n\t\t{\n\t\tBLOKRR->PRC51UPR1(1);\n\t\t} \telse\n\t\t{\n\t\tBLOKRR->PRC51UPR1(0);\n\t\t}\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::CheckBox9Click(TObject *Sender)\n{\n        // up2\n         \tif (CheckBox9->Checked)\n\t\t{\n\t\tBLOKRR->PRC51UPR2(1);\n\t\t} \telse\n\t\t{\n\t\tBLOKRR->PRC51UPR2(0);\n\t\t}\n}\n//---------------------------------------------------------------------------\n\n\n\nvoid __fastcall TForm1::Button11Click(TObject *Sender)\n{\n\t\tBLOKRR->PRC51FCHINIT();\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox18Change(TObject *Sender)\n{\n\t BLOKRR->PRC51UXM15(ComboBox18->ItemIndex+4);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox19Change(TObject *Sender)ToDo\n{\n\t   BLOKRR->PRC51FCHFRIQ(ComboBox19->ItemIndex+3);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit7Change(TObject *Sender)\n{\n\t  BLOKRR->TPRC51->FCHP2594->FINE = AdvSpinEdit7->Value;\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox20Change(TObject *Sender)\n{    //CHANGED: COMBOBOX @PRES51 (0)\n//SDIAPAZON(int RF,int CONV, int Fil,double GET,int PMA32,int PHA,int ATT);\n\tswitch (ComboBox20->ItemIndex)\n\t{\n\tcase 0: SDIAPAZON(2,1,0,0,1,0,1);\n\tbreak;\n\tcase 1: SDIAPAZON(2,1,0,0,1,0,12);\n\tbreak;\n\tcase 2: SDIAPAZON(2,1,1,1,1,0,12);\n\tbreak;\n\tcase 3: SDIAPAZON(2,1,2,2,1,0,9);\n\tbreak;\n\tcase 4: SDIAPAZON(2,1,3,3,1,0,8);\n\tbreak;\n\tcase 5: SDIAPAZON(2,1,4,4,1,0,5);\n\tbreak;\n\tcase 6: SDIAPAZON(2,1,5,5,1,0,5);\n\tbreak;\n\tcase 7: SDIAPAZON(2,1,6,6,1,0,4);\n\tbreak;\n\tdefault: SDIAPAZON(2,1,0,0,1,0,12);   break;\n\t}\n\n}\n//---------------------------------------------------------------------------\n\n",
+			"file": "/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.cpp",
+			"file_size": 22581,
+			"file_write_time": 132507822449317264,
+			"settings":
+			{
+				"buffer_size": 21891,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "//---------------------------------------------------------------------------\n#include <vcl.h>\n#pragma hdrstop\n#include \"BLKPRC51.h\"\n#include \"UdpClient.h\"\n#include \"UdpServer.h\"\n#include \"TcpClient.h\"\nusing namespace LightNetwork;\n\n\n\n//---------------------------------------------------------------------------\nRPURR::RPURR()\n{\n\n\tTPRC51 = new PRC51(0xD);\n\n}\nRPURR::~RPURR()\n{\n\n}\nchar *RPURR::SENDLAN(int ADR,int data,bool Read)\n{   TcpClient tcpClient;\n\t//UdpClient udpClient;\n\tbool result = tcpClient.Connect(\"10.29.31.5\", UDP_051_PORT);\n\t//bool result = udpClient.Connect(HostADR, UDP_038_PORT,UDP_038_PORTR);\n\t//bool result = udpClient.Connect(HostADR, PORT);\n\tif (!result)\n\t{\n\t\tShowMessage(\"Connection failed\");\n\t   \treturn \"\";\n\t}\n\t//\tNetworkStreamUdp *stream = udpClient.Stream();\n\t\tNetworkStream *stream = tcpClient.Stream();\n\t//\tUdpServer udpServer;\n\t//result = udpServer.Bind(\"192.168.1.100\", UDP_038_PORT,UDP_038_PORTRR);\n\t//result = udpServer.Bind(\"192.168.1.100\", PORT);\n\t//\tresult = udpServer.Bind(\"10.29.31.5\", UDP_051_PORT);\n\t//\tif (!result)\n\t//\t{\n\t//\t\tShowMessage(\"Connection failed\");\n\t//\t\treturn \"\";\n\t//\t}\n\t//\tNetworkStreamUdp *streamCell = udpServer.Stream();\n\n\tchar buf[8];\n\t// запись\n//\tbuf[0] = data&0xFF;\n//\tbuf[1] = data>>8&0xFF;\n//\tbuf[2] = data>>16&0xFF;\n//\tbuf[3] = data>>24&0xFF;\n//\tbuf[4] = ADR&0xFF;\n//\tbuf[5] = ADR>>8&0xFF;\n//\tbuf[6] = ADR>>16&0xFF;\n//\tbuf[7] = ADR>>24&0xFF;\n\n \tbuf[0] = ADR>>24&0xFF;\n\tbuf[1] = ADR>>16&0xFF;\n\tbuf[2] = ADR>>8&0xFF;\n\tbuf[3] = ADR&0xFF;\n\tbuf[4] = data>>24&0xFF;\n\tbuf[5] = data>>16&0xFF;\n\tbuf[6] = data>>8&0xFF;\n\tbuf[7] = data&0xFF;\n\n\tlong long writeBytes = stream->Write(buf, 8);\n\tif (writeBytes < 0)\n\t{\n\t\tstd::string errStr = stream->ErrorString();\n\t\tShowMessage(UnicodeString(errStr.c_str()));\n        return \"\";\n\t}\n\t\t\tif (Read)\n{\n\n\tbool hasError = false;\n//\tif (streamCell->WaitDataForReading(100, &hasError))\n\t if (stream->WaitDataForReading(100, &hasError))\n\t{\n//\t\t//ShowMessage(\"Has data\");\n\t\tchar obuf[8];\n\t\tmemset(obuf, 0, 8);\n//\t\t// данные есть\n//\n//\t\tlong long readBytes = streamCell->Read(obuf, 8);\n\t\tlong long readBytes = stream->Read(obuf, 8);\n\t\tif (readBytes < 0)\n\t\t{\n\t\t\t//std::string errStr = streamCell->ErrorString();\n\t\t\tstd::string errStr = stream->ErrorString();\n\t\t\tShowMessage(\"er data\");\n\t\t}\n\n\t\tchar obuf1[9];\n\t\tobuf1[0] = obuf[7];\n\t\tobuf1[1] = obuf[6];\n\t\tobuf1[2] = obuf[5];\n\t\tobuf1[3] = obuf[4];\n\t\tobuf1[4] = obuf[3];\n\t\tobuf1[5] = obuf[2];\n\t\tobuf1[6] = obuf[1];\n\t\tobuf1[7] = obuf[0];\n\t\tobuf1[8] = 0x0;\n\n\n\t\tchar obuf2[8];\n\t\tBinToHex(obuf1,obuf2,8); // преобразовываем исходный текст в HEX\n\t   //\tShowMessage(obuf2);\n\t\treturn  obuf2;\n\t}\n\telse if(hasError)\n\t{\n\t\t//std::string errStr = streamCell->ErrorString();\n\t\tstd::string errStr = stream->ErrorString();\n\t\t\t\tShowMessage(\"Has error\");\n\t}\n\telse\n\t{\n\t\tShowMessage(\"No data\");\n\t\t//данных нет\n\t}\n}\n\n\t//отключение от удаленной стороны\n\t//udpClient.Disconnect();\n\n\t   tcpClient.Disconnect();\n}\n\nvoid RPURR::LoadMFC1()\n{\n\n\t\t\t\tfor (int i = 0; i < 5; ++i)\n\t{\n\t\tSENDLAN(MFC1->Kluch(i),0,0);\n\t}\n\n\t\t// SENDLAN(MFC1->Kluch(3),0);\n\t\t// SENDLAN(MFC1->Kluch(4),0);\n\n\t\t\t\tfor (int i = 0; i < 10; i++)\n\t{\n\t  SENDLAN(MFC1->SintLOAD_H(2),MFC1->SintLOAD_L(2,i),0); // HMC830\n\t}\n\n\n\t\t\t\tfor (int i = 18; i < 20; i++)\n\t{\n\t  SENDLAN(MFC1->SintLOAD_H(2),MFC1->SintLOAD_L(2,i),0); // HMC830\n\t}\n\n\t\t\t\tfor (int i = 10; i < 18; i++)\n\t{\n\t  SENDLAN(MFC1->SintLOAD_H(2),MFC1->SintLOAD_L(2,i),0); // HMC830\n\t}\n\n}\nvoid RPURR::Load830UNO(int r)\n{\n\n\t  SENDLAN(MFC1->SintLOAD_H(2),MFC1->SintLOAD_L(2,r),0); // HMC830\n\n}\n\nvoid RPURR::LoadLMX1()\n{\n\t\tMFC1->Sint1_LMX2594->REG[0] = 0x00241A;\n\t\tSENDLAN(TPRC51->SintLOAD_L(0),0,0); // LMX2594\n\t\tMFC1->Sint1_LMX2594->REG[0] = 0x002418;\n\t\tSENDLAN(TPRC51->SintLOAD_L(0),0,0); // LMX2594\n\n\t\tfor (int i = 112; i > -1; i--)\n\t\t{\n\t\t  SENDLAN(TPRC51->SintLOAD_L(i),0,0); // LMX2594\n\t\t}\n\n\n}\nvoid RPURR::FriqSET(int Mod,int Kanal,double Fin,bool Ampl,int DB1,int DB2,int DB3,int DB4)\n\t{\n//\t\t\t\t\tswitch (Kanal)\n//\t\t{\n//\n//\t\t  case 0:\n//\t\t PRC->SetFriq(0,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;        //\tvoid FriqSET(double Fin1,bool Ampl,int DB1,int DB2,int Kanal);\n//\t\t  case 1:\n//\t\t PRC->SetFriq(1,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 2:\n//\t\t PRC->SetFriq(1,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 3:\n//\t\t PRC->SetFriq(2,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 4:\n//\t\t PRC->SetFriq(2,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 5:\n//\t\t PRC->SetFriq(3,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 6:\n//\t\t PRC->SetFriq(3,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 7:\n//\t\t PRC->SetFriq(4,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 8:\n//\t\t PRC->SetFriq(4,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 9:\n//\t\t PRC->SetFriq(5,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 10:\n//\t\t PRC->SetFriq(5,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 11:\n//\t\t PRC->SetFriq(6,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 12:\n//\t\t PRC->SetFriq(6,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 20:\n//\t\t PRC->SetFriq(7,0,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t  case 21:\n//\t\t PRC->SetFriq(7,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\n//\t\t default : PRC->SetFriq(0,1,Fin,Ampl,DB1,DB2,DB3,DB4);break;\n//\t\t }\n\t//\tLoadRPURR();\n}\n\n//'IBLock::SetFreq(double,double,int,int,int,int,int,int) = 0'\nvoid RPURR::SetFreq(double F,double Fr,int ATT1,int ATT2,int ATT3,int Kanal,int ATT4,int PERENOS)\n{\n\n}\nvoid RPURR::SetMFC1(double FM1,int DIV15,int BLUPR1,int BLUPR2)\n{\n\t   //\tMFC1->SetKLUCH(DIV15,BLUPR1,BLUPR2,0,0,0,0);\n\t\tSENDLAN(MFC1->Kluch(1),0,0);\n\t\tSENDLAN(MFC1->Kluch(3),0,0);\n\t\tSENDLAN(MFC1->Kluch(4),0,0);\n}\n\nvoid RPURR::LoadLMXUNO(int X)\n{\n\n\tSENDLAN(TPRC51->SintLOAD_L(X),0,0); // LMX2594  Замена51\n}\nchar *RPURR::ReadLMXUNO(int X)\n{\n\treturn SENDLAN(TPRC51->SintLOAD_L(X)|0x80000000,0,1); // LMX2594\n}\nvoid RPURR::LoadRPURR()//LoadRPURRALL\n{\n\tfor(int i = 0; i < 4; ++i) {\n\t\tSENDLAN(PRC->LoadKL(i),0,0);\n\t}\n\t\tfor(int i = 0; i < 4; ++i) {\n\t\tSENDLAN(PRC->LoadATT(i),0,0);\n\t}\n}\n\nchar *RPURR::LoadPRC51()//Load51\n{\n\n\t\tfor(int i = 0; i < 11; ++i) {\n\t\tSENDLAN(TPRC51->LoadKL(i),0,0);\n\t}\n\t\t//SENDLAN(TPRC51->LoadKL(9),0,1);\n\t\tfor(int i = 0; i < 2; ++i) {\n\t\tSENDLAN(TPRC51->LoadATT(i),0,0);\n\t}\n}\n\nvoid RPURR::PRC51PRES(int P)\n{\n\tTPRC51->PRESELSET(P);\n\tSENDLAN(TPRC51->LoadKL(9),0,0);\n}\nvoid RPURR::PRC51PERENOS(int P)\n{\n\tTPRC51->PERENOS(P);\n\tSENDLAN(TPRC51->LoadKL(4),0,0);\n}\n\nvoid RPURR::PRC51ATT1(int DB)\n{\n\tTPRC51->ATT1_SET(DB);\n\tSENDLAN(TPRC51->LoadATT(0),0,0);\n\t// LoadPRC51();\n}\nvoid RPURR::PRC51PMA32(int UPR)\n{\n\tif (UPR)\n\t{\n\tTPRC51->ASW[1].LNA_sw = TPRC51->ASW[1].LNA_sw|0x1;\n\t} \telse\n\t{\n\tTPRC51->ASW[1].LNA_sw = TPRC51->ASW[1].LNA_sw&0x2;\n\t}\n\tSENDLAN(TPRC51->LoadKL(3),0,0);\n\n}\nvoid RPURR::PRC51PHA3(int UPR)\n{//CHANGED: UPR_PHA @PRES51 (2)\n\tswitch (UPR)\n\t{\n\tcase 0: TPRC51->ASW[1].UsilPCH_sw = 1;break;\n\tcase 1: TPRC51->ASW[1].UsilPCH_sw = 2;break;\n\tcase 2: TPRC51->ASW[1].UsilPCH_sw = 0;break;\n\tdefault: TPRC51->ASW[1].UsilPCH_sw = 0;break;\n\t}\n\tSENDLAN(TPRC51->LoadKL(5),0,0);\n}\nvoid RPURR::PRC51ATT2(int DB)\n{\n\tTPRC51->ATT2_SET(DB);\n\tSENDLAN(TPRC51->LoadATT(1),0,0);\n\t// LoadPRC51();\n}\nvoid RPURR::PRC51UPR1(int ST)\n{\n\tTPRC51->SUPR1(ST);\n\tSENDLAN(TPRC51->LoadKL(7),0,0);\n}\nvoid RPURR::PRC51UPR2(int ST)\n{\n\tTPRC51->SUPR2(ST);\n\tSENDLAN(TPRC51->LoadKL(8),0,0);\n}\nvoid RPURR::PRC51INSW(int S)\n{\n\tTPRC51->INSET(S);\n\tSENDLAN(TPRC51->LoadKL(2),0,0);\n}\nvoid RPURR::PRC51UXM15(int ST)\n{\n\t TPRC51->SetUXM15(ST);\n\tSENDLAN(TPRC51->LoadKL(10),0,0);\n}\nvoid RPURR::LoadLMX051()\n{\n\t\tTPRC51->DLMX2594->REG[0] = 0x00241A;\n\t\tSENDLAN(TPRC51->SintLOAD_L(1),0,0); // LMX2594\n\t\tTPRC51->DLMX2594->REG[0] = 0x002418;\n\t\tSENDLAN(TPRC51->SintLOAD_L(1),0,0); // LMX2594\n\n\t\tfor (int i = 112; i > -1; i--)\n\t\t{\n\t\t  SENDLAN(TPRC51->SintLOAD_L(i),0,0); // LMX2594\n\t\t}\n}\n\nvoid RPURR::LoadLMX051F()\n{\n\t\tTPRC51->DLMX2594->REG[0] = 0x00241A;\n\t\tSENDLAN(TPRC51->SintLOAD_L(1),0,0); // LMX2594\n\t\tTPRC51->DLMX2594->REG[0] = 0x002418;\n\t\tSENDLAN(TPRC51->SintLOAD_L(1),0,0); // LMX2594\n\n\t\tTPRC51->DLMX2594->SetFreq(8500);\n\n\t\tTPRC51->DLMX2594->NSET(79);\n\t\tSENDLAN(TPRC51->SintLOAD_L(34),0,0); // LMX2594\n\t\tSENDLAN(TPRC51->SintLOAD_L(36),0,0); // LMX2594\n\t\tTPRC51->DLMX2594->FRSET(0);\n\t\tSENDLAN(TPRC51->SintLOAD_L(42),0,0); // LMX2594\n\t\tSENDLAN(TPRC51->SintLOAD_L(43),0,0); // LMX2594\n\t\tfor (int i = 112; i > -1; i--)\n\t\t{\n\t\t  SENDLAN(TPRC51->SintLOAD_L(i),0,0); // LMX2594\n\t\t}\n}\nvoid RPURR::LoadFCHPR()\n{\n\n\t\tTPRC51->FCHP2594->PLMX2594->REG[0] =  0x00241A;\n\t\tSENDLAN(TPRC51->SintLOAD_L(1),0,0); // LMX2594\n\t\tTPRC51->FCHP2594->PLMX2594->REG[0] = 0x002418;\n\t\tSENDLAN(TPRC51->SintLOAD_L(1),0,0); // LMX2594\n\n\t\tTPRC51->FCHP2594->PLMX2594->SetFreq(8500);\n\t\tTPRC51->FCHP2594->PLMX2594->NSET(79);\n\t\tSENDLAN(TPRC51->SintLOAD_L(34),0,0); // LMX2594\n\t\tSENDLAN(TPRC51->SintLOAD_L(36),0,0); // LMX2594\n\t\tTPRC51->FCHP2594->PLMX2594->FRSET(0);\n\t\tSENDLAN(TPRC51->SintLOAD_L(42),0,0); // LMX2594\n\t\tSENDLAN(TPRC51->SintLOAD_L(43),0,0); // LMX2594\n\t\tfor (int i = 112; i > -1; i--)\n\t\t{\n\t\t  SENDLAN(TPRC51->SintLOAD_L(i),0,0); // LMX2594\n\t\t}\n}\n/*\n\n\n\n\t## ##   ## ## ######\n\t## ###  ## ##   ##\n\t## ###  ## ##   ##\n\t## ## # ## ##   ##\n\t## ## # ## ##   ##\n\t## ##  ### ##   ##\n\t## ##  ### ##   ##\n\t## ##   ## ##   ##\n\n\n*/\nvoid RPURR::PRC51FCHINIT()\n{\n\t/**\n\n\t\tTODO:\n\t\t- FCHLOAD_LMX(1)\n\t\t- FCHLOAD_LMX(0)\n\n\t */\nTPRC51->FCHP2594->PLMX2594->Default();\nTPRC51->FCHP2594->PLMX2594->SETPRESET(0);\n\nfor (int i = 0; i < 13; ++i)\n{\n\tSENDLAN(TPRC51->FCHLOAD_LMXINIT(i),0,0);\n}\n\n\n\t/*TPRC51->FCHP2594->PLMX2594->REG[0] =  0x00241A;\n\tSENDLAN(TPRC51->FCHLOAD_LMX(1),0,0); // LMX2594 FCHLOAD_LMX(0)\n\tTPRC51->FCHP2594->PLMX2594->REG[0] = 0x002418;\n\tSENDLAN(TPRC51->FCHLOAD_LMX(1),0,0); // LMX2594 FCHLOAD_LMX(0)\n\tTPRC51->FCHP2594->PLMX2594->Default();\n\tTPRC51->FCHP2594->PLMX2594->NSET(56);//34 36\n\tTPRC51->FCHP2594->PLMX2594->FRSET(0);//42 43\n\tTPRC51->FCHP2594->PLMX2594->CHANDiV(0);//R75[10:6]\n\tTPRC51->FCHP2594->PLMX2594->OUTAPWR(63);//44\n\tTPRC51->FCHP2594->PLMX2594->OUTBPWR(63);//45\n\n\tSENDLAN(TPRC51->FCHLOAD_LMX(34),0,0);//34 36\n\tSENDLAN(TPRC51->FCHLOAD_LMX(36),0,0);//34 36\n\tSENDLAN(TPRC51->FCHLOAD_LMX(42),0,0);//FRSET\n\tSENDLAN(TPRC51->FCHLOAD_LMX(43),0,0);//FRSET\n\tSENDLAN(TPRC51->FCHLOAD_LMX(44),0,0);//OUTAPWR\n\tSENDLAN(TPRC51->FCHLOAD_LMX(45),0,0);//OUTBPWR\n\tSENDLAN(TPRC51->FCHLOAD_LMX(75),0,0);//CHANDiV\n\tSENDLAN(TPRC51->FCHLOAD_LMX(TPRC51->FCHP2594->PLMX2594->CURSET(4)),0,0);//PDCUR\n\tSENDLAN(TPRC51->FCHLOAD_LMX(TPRC51->FCHP2594->PLMX2594->SEG1EN(0)),0,0);//SEG\n\tSENDLAN(TPRC51->FCHLOAD_LMX(TPRC51->FCHP2594->PLMX2594->FCAL_EN(0)),0,0);//FCAL_EN*/\n\n}\n/*\n\t ####  ##### ######        #####\n\t##  ## ##      ##          ##\n\t###    ##      ##          ##\n\t ####  #####   ##          ####\n\t   ### ##      ##          ##\n\t#   ## ##      ##          ##\n\t##  ## ##      ##          ##\n\t ####  #####   ##          ##\n\t                    ######\n*/\nvoid RPURR::PRC51FCHFRIQ(int NUM)\n{//CHANGED: LOADPRESET @LOAD (0)\n\tTPRC51->FCHP2594->SETF(NUM);\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(20),0,0);//20 VCO_SEL_FORCE(1) и VCO_SEL ;\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(8),0,0);//8 VCO_CAPCTRL_FORCE\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(75),0,0);//R75[10:6] OUTDIV\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(19),0,0);//19 VCO_CAPCTRL\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(34),0,0);//34 36\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(36),0,0);//34 36\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(45),0,0);//45 46 AMUX\n\t// SENDLAN(TPRC51->FCHLOAD_LMX(46),0,0);//45 46 BMUX\n\t\tfor (int i = 0; i < 3; i++)\n\t{\n\t  SENDLAN(TPRC51->FCHLOAD_KL(i),0,0); // LMX2594\n\t}\n\tTPRC51->FCHP2594->SETAUTO(0,0);\n\t\tfor (int i = 3; i<116; i++)\n\t{\n\t  SENDLAN(TPRC51->FCHLOADF(i),0,0); // LMX2594\n\t}\n\tTPRC51->FCHP2594->SETAUTO(0,1);\n\tSENDLAN(TPRC51->FCHLOADF(96),0,0); // LMX2594\n}\n#pragma package(smart_init)\n",
+			"file": "BLKPRC51.cpp",
+			"file_size": 12124,
+			"file_write_time": 132507815928324530,
+			"settings":
+			{
+				"buffer_size": 11563,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "// Thursday 11/26/20 at 04:40PM - 5 files in 0.09 secs\n\n## CHANGED (7)\n1. ПРЧ051/Unit1.cpp:64         PROCEDUR @PRES51 (0)\n2. ПРЧ051/Unit1.cpp:671        COMBOBOX @PRES51 (0)\n3. PRC051/BLKPRC51.cpp:451     LOADPRESET @LOAD (0)\n4. PRC051/FCHPERENOS.cpp:8     ТОК LMX @LMX (0)\n5. ПРЧ051/Unit1.cpp:560        UPR_PHA @PRES51 (1)\n6. ПРЧ051/Unit1.cpp:601        UPR_ATT @PRES51 (1)\n7. PRC051/BLKPRC51.cpp:295     UPR_PHA @PRES51 (2)\n\n## FIXME (2)\n1. PRC051/FCHPERENOS.cpp:27    SETPR @PRESET (0)\n2. MicroShem/LMX2594.cpp:359   POW @LMX (0)\n\n## TODO (5)\n1. PRC051/FCHPERENOS.cpp:98    Установка ПРЕСЕТ ФЧ @Установка (0)\n2. PRC051/FCHPERENOS.cpp:132   Установка Перем. ФЧ @Установка (0)\n3. MicroShem/LMX2594.cpp:909   Load LMX2594 CR(3)\n4. PRC051/BLKPRC51.cpp:402     \n5. PRC051/FCHPERENOS.cpp:197   LMX2594 autoset  LOADAUTO*/\n",
+			"settings":
+			{
+				"buffer_size": 821,
+				"line_ending": "Windows",
+				"name": "TodoReview",
+				"scratch": true
+			}
+		},
+		{
+			"file": "PRC051.cpp",
+			"settings":
+			{
+				"buffer_size": 10603,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "FCHPERENOS.cpp",
+			"settings":
+			{
+				"buffer_size": 6360,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.cpp",
+			"settings":
+			{
+				"buffer_size": 28087,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edit s",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"edits",
+				"BetterSnippetManager: Edit Snippets"
+			],
+			[
+				"todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"",
+				"ASCII Decorator: Default Font"
+			],
+			[
+				"nu",
+				"Insert Nums"
+			],
+			[
+				"Todo",
+				"TodoReview: Open Files"
+			],
+			[
+				"sw",
+				"Snippet: #switch"
+			],
+			[
+				"sn ",
+				"Snippet: CHANGED"
+			],
+			[
+				"sn lin",
+				"Snippet: Single LINE Comment"
+			],
+			[
+				"sn swi",
+				"Snippet: #switch"
+			],
+			[
+				"sn sw",
+				"Snippet: While Loop"
+			],
+			[
+				"sn ch",
+				"Snippet: CHANGED"
+			],
+			[
+				"to",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"GOTO",
+				"Class Navigator: Go to previous Function"
+			],
+			[
+				"GO",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"CLA",
+				"Snippet: Class Template"
+			],
+			[
+				"sni",
+				"Snippet: #switch"
+			],
+			[
+				"comm",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"com",
+				"Toggle Block Comment"
+			],
+			[
+				"c",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"comme",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"Snippet:",
+				"Snippet: std::begin($1), std::end($1)"
+			],
+			[
+				"Snip",
+				"Snippet: lorem - One sentence"
+			],
+			[
+				"fun",
+				"Snippet: Functor"
+			],
+			[
+				"s",
+				"Snippet: Template"
+			],
+			[
+				"Material ",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"material theme",
+				"Material Theme: Advanced configuration"
+			],
+			[
+				"br",
+				"BracketHighlighter: Documentation"
+			],
+			[
+				"fo",
+				"Snippet: For Loop"
+			],
+			[
+				"plac",
+				"Snippet: ul - Placeholder"
+			],
+			[
+				"doc",
+				"Tasks: New document"
+			],
+			[
+				"Doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"if",
+				"Snippet: if(…) else"
+			],
+			[
+				"Com",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"bl",
+				"Toggle Block Comment"
+			],
+			[
+				"brow",
+				"Browse Mode: Outline (Left)"
+			],
+			[
+				"bro",
+				"Browse Mode: Close sidebar(s)"
+			],
+			[
+				"class",
+				"Class Navigator: Go to next Function"
+			],
+			[
+				"codem",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"cla",
+				"Class Navigator: Go to Class"
+			],
+			[
+				"Dia",
+				"Set Syntax: Diagram"
+			],
+			[
+				"for",
+				"Snippet: For Loop"
+			],
+			[
+				"snip",
+				"Snippet: While Loop"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"uml",
+				"SublimeLinter: Make Warnings Passive"
+			],
+			[
+				"um",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"UML",
+				"yUML: Open Diagram in Browser"
+			],
+			[
+				"dia",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"come",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"cas",
+				"Convert Case: Title Case"
+			],
+			[
+				"i",
+				"Snippet: if(…)"
+			],
+			[
+				"co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"vi",
+				"View: Toggle Menu"
+			],
+			[
+				"If",
+				"Snippet: if(…)"
+			],
+			[
+				"swi",
+				"Snippet: #switch"
+			],
+			[
+				" sw",
+				"Snippet: #switch"
+			],
+			[
+				"Snippet: fo",
+				"Snippet: For Loop"
+			],
+			[
+				"Snippet: if",
+				"Snippet: If Condition"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Struct"
+			],
+			[
+				"b",
+				"Bookmarks: Clear All"
+			],
+			[
+				"CLIP",
+				"Jimbly's Clipboard History: Paste Choice"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: sw",
+				"Snippet: #switch"
+			],
+			[
+				"ta",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"to do",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"TO DO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"sn if",
+				"Snippet: if(…)"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"f",
+				"File: New View into File"
+			],
+			[
+				"ne",
+				"Tasks: New"
+			],
+			[
+				"sni  com",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"sni for",
+				"Snippet: For Loop"
+			],
+			[
+				"sp",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"snippet:co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"snippet",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Trigg",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"snipp",
+				"Snippet: MIT License"
+			],
+			[
+				"Sni  to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"Sni",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"boo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"todo ",
+				"TodoReview: Open Files"
+			],
+			[
+				"ks",
+				"Tasks: Open Link"
+			],
+			[
+				"tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TO",
+				"Tasks: Complete"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"spa",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"Tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem"
+	],
+	"file_history":
+	[
+		"/D/TempVMshare/Генератор шума/ПСП/ГСЧVHDL/LFSR/LFSR_Plus_tf.v",
+		"/D/TempVMshare/Генератор шума/ПСП/ГСЧVHDL/LFSR/LFSR_Plus.v",
+		"/D/TempVMshare/Программирование/Алгоритм/Дракон/is_drakon/TMP/Dragon.lic",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/EncodingHelper/EncodingHelper.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/GoTools/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Super Calculator/Super Calculator.sublime-settings",
+		"/D/Docum/Progekts/Altium/Красуха4/СРЧ ПО/ПЛИС/readme.txt",
+		"/D/TempVMshare/Генератор шума/VHDL ПСП/МпослСемёнов/NOISE_MODULE.vhd",
+		"/D/TempVMshare/Electronics/ПЛИС/разработка vhdl описаний/kj.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++/TODO.sublime-snippet",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/MySnippet/c++,/COML.sublime-snippet",
+		"/G/Dokuments/Быкадоров/шекель.txt",
+		"/E/Distr/Контроллеры/ПЛИС/fpga/xilinx/readme.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/BLKPRC51.h",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/FCHPERENOS.h",
+		"/D/Docum/Progekts/Altium/Красуха4/НомераПП.txt",
+		"/F/LMX2594/LMXINIT_1505_2.txt",
+		"/F/LMX2594/LMX2594INIT11_2.txt",
+		"/F/LMX2594/LMXINIT_1055_2.txt",
+		"/D/TempVMshare/lmx2594/LMX2594INIT11_2.txt",
+		"/D/TempVMshare/lmx2594/LMX2594INIT11_9.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/FCHPERENOS.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.cpp",
+		"/F/LMX2594/LMX8000.txt",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/CADF4002.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/PlantUmlDiagrams/PlantUmlDiagrams.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/PlantUmlDiagrams/samples/EXAMPLE.wsd",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/ProcedurBL.todo",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/ASCII-Decorator/ASCII Decorator.sublime-settings",
+		"/G/Dokuments/Быкадоров/gfhjk.txt",
+		"/G/Dokuments/Быкадоров/4663.txt",
+		"/G/Dokuments/Быкадоров/Aliexpres.txt",
+		"/G/Dokuments/Быкадоров/Нонк.txt",
+		"/G/Dokuments/Быкадоров/Страх.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.sublime-project",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/BLKPRC51.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Modific/README.md",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/LMX2594WORK.sublime-workspace",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.sublime-workspace",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051FCH.todo",
+		"/D/TempVMshare/TXT/Пример.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/CTags/Default.sublime-keymap",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+		"/c/users/bikadorov/appdata/local/temp/tmpgqy9vk.txt",
+		"/c/users/bikadorov/appdata/local/temp/tmpdvvxnm.txt",
+		"/D/Диск_E/Temp/3Chr5/3xh5.txt",
+		"/D/TempVMshare/Install/Sublime Text/TXT/PRC051FCH1.todo",
+		"/D/TempVMshare/ascii.todo",
+		"/D/Диск_E/Instal/vet.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Порядок пр~1.txt",
+		"/D/USERS2/Юдин/ADF4371/26.txt",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit2.cpp",
+		"/C/Users/bikadorov/Desktop/A_test_log.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Глава2.txt1",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (12)/Глава13.txt",
+		"/D/Temp/Карта1.docx - Прикрепленные файлы/Глава13.txt",
+		"/D/Temp/Карта1.docx - Прикрепленные файлы/Глава2 (2).txt1",
+		"/D/Temp/3px2_mfch_1_2.docx",
+		"/D/Temp/OnlineDRC.ERR.txt",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (12)/Глава3.txt1",
+		"/D/Temp/Карта1.docx - Прикрепленные файлы/Глава3.txt1",
+		"/D/Temp/Карта1.docx - Прикрепленные файлы/Глава1.TXT1",
+		"/D/Temp/Карта1.docx - Прикрепленные файлы/Глава2.txt1",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (12)/Глава2.txt1",
+		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (12)/Глава1.TXT1",
+		"/D/TempVMshare/Комплектация/Синтезатор/AD/ВВедение1.txt",
+		"/D/Docum/Progekts/EMBARCADERO/MFCHRED/Unit2.cpp",
+		"/D/Temp/РТЬ/МФЧГ преобразователя УППММ.txt",
+		"/D/Temp/РТЬ/Преобразователь ПРЧУКВ1.txt",
+		"/D/Docum/СРЧ/Письмо Став.txt",
+		"/D/Docum/СРЧ/Письмо Став",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/MFC1RR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/MFC1RR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/SwitchRR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/SwitchRR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/PXRGBLOK.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/BLKRPURR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/SRC_libusbK/CTL20PXRG.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/BLKRPURR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/MFCHRED/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRRUKV.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRRUKV.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Delphi/KRR/ManagerMYSQL.dfm",
+		"/D/Docum/Progekts/EMBARCADERO/Delphi/KRR/ManagerMYSQL.pas",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/BLKRRDPX.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/SRC_libusbK/UsbDeviceManager.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/SRC_libusbK/UsbDeviceManager.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/BLKRRDPX.h",
+		"/D/Docum/Progekts/EMBARCADERO/MaketNUSB/Unit1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/MFC1Perexv.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/BL3PX1.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StDDS/SINTH9910.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/BL3PX1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/MFC1Perexv.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/MaketNUSB/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/PRCRR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/PRCRR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/RPURRD/BLRR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/SRC_libusbK/CTL20PXRG.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/StDDS/SINTH9910.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PriborST/Redut/SRC_libusbK/Rpu16.cpp",
+		"/C/Users/bikadorov/usb_driver/x86/libusbK.sys",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRPURR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/DRAKONRR.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/MFC1RR.h",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/MFC1RR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRRUKV_.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/KanalRR/KanalRRUKV_",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/PRC.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit2.cpp",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/PlantUmlDiagrams/README.md",
+		"/D/Docum/Progekts/EMBARCADERO/PRR/PRC.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"<open files>,<open folders>",
+			"<open files>",
+			"<open files>,<open folders>,<open folders>",
+			"<open files>,<open folders>",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SDIAPAZON(3",
+			"SDIAPAZON(1",
+			",",
+			"PRC51PHA32",
+			"Conv_sw",
+			"colo",
+			"FCHLOAD_LMX(",
+			"94.h",
+			".h",
+			"CURSET",
+			"FCAL_EN",
+			"SEG1EN",
+			"OUTBPWR(",
+			"OUTBPWR(;",
+			"OUTBPWR(31);",
+			"TPRC51->FCHP2594->",
+			",",
+			"//",
+			",",
+			"DIV",
+			"FCHP2594->PLMX2594",
+			"DLMX2594",
+			"RPURR",
+			"MFC1->Sint1_LMX2594",
+			"Замена",
+			"Sint1_LMX2594",
+			"SintLOAD_L(1",
+			"SintLOAD_L",
+			"MFC1->",
+			"load",
+			".sinth",
+			".sinth ",
+			"SintLOAD",
+			"load",
+			"<<ASW[1].",
+			"<ASW[1]",
+			"PRUPR",
+			"Switch",
+			"BLRPU",
+			"ATT",
+			" + ",
+			"AdrMod",
+			"DBLookupComboBox7",
+			"dblkcbbFirmNAME",
+			"FRSET(",
+			"ReadLMXUNO",
+			"BLOKRR",
+			"Kluch",
+			"регистр",
+			"SetFreq",
+			"TRpu16",
+			"RPURR",
+			"Polosa[",
+			"LNAD =",
+			"NSET(int",
+			" goto exit_door",
+			"if (freqCR",
+			"(F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"f",
+			"F",
+			"/ ",
+			"//",
+			"OUTAMUX",
+			"CHDIV",
+			"DIVOUT",
+			"K2",
+			"KK1",
+			"KK1/",
+			"KK1",
+			"K1",
+			",",
+			"00,",
+			"2,Fin",
+			"1,Fin",
+			"LNAD",
+			"break;",
+			";break;",
+			"Fin1, Ampl, DB1, DB2)",
+			"ModulDG2->SeFriq(",
+			"FriqSET",
+			";",
+			"PRES",
+			"SeFriq",
+			"for",
+			" while",
+			"Kanal",
+			"268",
+			"SetFriq",
+			"i+1",
+			"REG[78]",
+			"dlgSave1",
+			";",
+			"Massive->",
+			"Form2",
+			"Form42",
+			"FormSR",
+			"//---------------------------------------------------------------------------",
+			"FormSR",
+			"FormSR2",
+			"FormSR",
+			"Form4",
+			"FormSR",
+			"Form",
+			" Massive->",
+			"Form1->Stend->VstendeBL3DG1->ModulFCHG->PolosaFCG",
+			"FormSR2",
+			"Form2",
+			"^\\n",
+			"   \n",
+			"17",
+			"VCO_SEL",
+			"void"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".",
+			"TPRC51->DLMX2594",
+			"BLRPU",
+			"TRpuCTL20",
+			"RPURD",
+			"SetFriq",
+			"Form4",
+			"FormSR2",
+			"",
+			"LMX2594",
+			"unsigned long",
+			"KanalRR",
+			"MPRC",
+			"MMFC1RR",
+			"MMFC2RR",
+			"9020",
+			"Form6",
+			"RelBlok3Vk1INI",
+			"Meas3VK6P1145",
+			"Meas3VK6Kp",
+			"3VK6",
+			"3Вк6",
+			"MOD3VK6_.ini",
+			"Mod3VK6It",
+			"Rel3VK6INI"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21891,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21066,
+								21066
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "ff104bd0",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								14149.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BLKPRC51.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7665,
+								7665
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "d52a877c",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								3435.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "todoreview",
+							"default_dir": "D:\\Docum\\Progekts\\EMBARCADERO\\ПРЧ051",
+							"encoding_helper_encoding": "",
+							"line_padding_bottom": 2,
+							"line_padding_top": 2,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"review_args":
+							{
+								"open_files": true,
+								"open_files_only": true,
+								"settings":
+								{
+								}
+							},
+							"review_results":
+							{
+								"123,175":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\ПРЧ051\\Unit1.cpp",
+									"line": 671,
+									"note": "COMBOBOX @PRES51 (0)",
+									"patt": "changed",
+									"priority": 0
+								},
+								"175,227":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\BLKPRC51.cpp",
+									"line": 451,
+									"note": "LOADPRESET @LOAD (0)",
+									"patt": "changed",
+									"priority": 0
+								},
+								"227,275":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\FCHPERENOS.cpp",
+									"line": 8,
+									"note": "ТОК LMX @LMX (0)",
+									"patt": "changed",
+									"priority": 0
+								},
+								"275,326":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\ПРЧ051\\Unit1.cpp",
+									"line": 560,
+									"note": "UPR_PHA @PRES51 (1)",
+									"patt": "changed",
+									"priority": 1
+								},
+								"326,377":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\ПРЧ051\\Unit1.cpp",
+									"line": 601,
+									"note": "UPR_ATT @PRES51 (1)",
+									"patt": "changed",
+									"priority": 1
+								},
+								"377,428":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\BLKPRC51.cpp",
+									"line": 295,
+									"note": "UPR_PHA @PRES51 (2)",
+									"patt": "changed",
+									"priority": 2
+								},
+								"442,491":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\FCHPERENOS.cpp",
+									"line": 27,
+									"note": "SETPR @PRESET (0)",
+									"patt": "fixme",
+									"priority": 0
+								},
+								"491,535":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\MicroShem\\LMX2594.cpp",
+									"line": 359,
+									"note": "POW @LMX (0)",
+									"patt": "fixme",
+									"priority": 0
+								},
+								"548,614":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\FCHPERENOS.cpp",
+									"line": 98,
+									"note": "Установка ПРЕСЕТ ФЧ @Установка (0)",
+									"patt": "todo",
+									"priority": 0
+								},
+								"614,680":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\FCHPERENOS.cpp",
+									"line": 132,
+									"note": "Установка Перем. ФЧ @Установка (0)",
+									"patt": "todo",
+									"priority": 0
+								},
+								"680,730":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\MicroShem\\LMX2594.cpp",
+									"line": 909,
+									"note": "Load LMX2594 CR(3)",
+									"patt": "todo",
+									"priority": 3
+								},
+								"71,123":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\ПРЧ051\\Unit1.cpp",
+									"line": 64,
+									"note": "PROCEDUR @PRES51 (0)",
+									"patt": "changed",
+									"priority": 0
+								},
+								"730,762":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\BLKPRC51.cpp",
+									"line": 402,
+									"note": "",
+									"patt": "todo",
+									"priority": 50
+								},
+								"762,821":
+								{
+									"file": "D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\PRC051\\FCHPERENOS.cpp",
+									"line": 197,
+									"note": "LMX2594 autoset  LOADAUTO*/",
+									"patt": "todo",
+									"priority": 50
+								}
+							},
+							"syncScroll": false,
+							"syntax": "Packages/TodoReview/TodoReview.hidden-tmLanguage",
+							"todo_results": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "PRC051.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10603,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/BetterBookmarks/icons/function.png",
+								"regions":
+								[
+								],
+								"scope": "comment"
+							}
+						},
+						"selection":
+						[
+							[
+								10295,
+								10295
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "ff81fc56",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								6342.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "FCHPERENOS.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6360,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/BetterBookmarks/icons/todo.png",
+								"regions":
+								[
+								],
+								"scope": "comment"
+							}
+						},
+						"selection":
+						[
+							[
+								6271,
+								6271
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "7a37774e",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								2835.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2835.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 0,
+					"file": "/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21891,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/BetterBookmarks/icons/function.png",
+								"regions":
+								[
+								],
+								"scope": "comment"
+							}
+						},
+						"selection":
+						[
+							[
+								21066,
+								21066
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "ff104bd0",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								14149.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 14149.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BLKPRC51.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7665,
+								7665
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "d52a877c",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								3435.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3435.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28087,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "2f524823",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								15686.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 15686.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 54.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.468263136825,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.figlet_preview":
+	{
+		"height": 486.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "PRC051.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"MaketNUSB\\DDS9910.res"
+			],
+			[
+				"mf",
+				"3DG1\\Kanal3DG6\\MFC1DG.h"
+			],
+			[
+				"t",
+				"3DG1\\KanalPerexv\\Tri3PX2.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Docum\\Progekts\\EMBARCADERO\\Klasses\\MicroShem\\LMX2594.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ADF4002::"
+			],
+			[
+				":",
+				"FCHP::"
+			]
+		],
+		"width": 456.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

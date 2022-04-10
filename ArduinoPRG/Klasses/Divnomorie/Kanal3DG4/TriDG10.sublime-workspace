@@ -1,0 +1,1241 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"UPR2",
+				"UPR2_0\t(KanalDG10.h)"
+			],
+			[
+				"upr",
+				"upr25"
+			],
+			[
+				"Kan",
+				"KanalDG10\t(KanalDG10.h)"
+			],
+			[
+				"Tri",
+				"Tri3DG10\t(Tri3DG10.cpp)"
+			],
+			[
+				"In",
+				"IntToStr\t(Agilent9030.cpp)"
+			],
+			[
+				"IP",
+				"IP_Set"
+			],
+			[
+				"за",
+				"Запись"
+			],
+			[
+				"pri",
+				"private\t(E5071BNetwAnalizer.h)"
+			],
+			[
+				"K",
+				"Kanal"
+			],
+			[
+				"Cl",
+				"Clbr\t(BL3Cr6.cpp)"
+			],
+			[
+				"Ste",
+				"Stend3CR68.h\t(Stend3CR68.cpp)"
+			],
+			[
+				"Wai",
+				"WaidPC"
+			],
+			[
+				"D",
+				"Down"
+			],
+			[
+				"te",
+				"Text"
+			],
+			[
+				"GP",
+				"GPIB_Set"
+			],
+			[
+				"sin",
+				"Sint100_ADF4002"
+			],
+			[
+				"MAP",
+				"MAP02"
+			],
+			[
+				"BL3",
+				"BL3DG1C.h\t(BL3DG1C.cpp)"
+			],
+			[
+				"n",
+				"N2"
+			],
+			[
+				"DF",
+				"DFpc\t(MFC2DG.h)"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"DN",
+				"DNSys\t(MFC1DG.h)"
+			],
+			[
+				"Dn",
+				"DNdiap"
+			],
+			[
+				"Polo",
+				"Polosa\t(MFC1DG.h)"
+			],
+			[
+				"com",
+				"comm-todo\tComment - To-do list"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"div",
+				"DIvG"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"if",
+				"ifelse\tif(…) else"
+			],
+			[
+				"re",
+				"return\t(CADF4002.cpp)"
+			],
+			[
+				"comm",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"co",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"тр",
+				"труда\t(Служебная комп.txt)"
+			],
+			[
+				"про",
+				"производительности\t(Служебная комп.txt)"
+			],
+			[
+				"comm-",
+				"comm-subsection\tComment - Subsection comment"
+			],
+			[
+				"To",
+				"TODO"
+			],
+			[
+				"N",
+				"Nsys"
+			],
+			[
+				"v",
+				"void"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Tri3DG10.cpp",
+			"settings":
+			{
+				"buffer_size": 2121,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.cpp",
+			"settings":
+			{
+				"buffer_size": 37030,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "KanalDG10.cpp",
+			"settings":
+			{
+				"buffer_size": 5450,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFCGDG.cpp",
+			"settings":
+			{
+				"buffer_size": 14827,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "KanalDG10.h",
+			"settings":
+			{
+				"buffer_size": 4845,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFC2DG.cpp",
+			"settings":
+			{
+				"buffer_size": 10260,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.h",
+			"settings":
+			{
+				"buffer_size": 3840,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tri3DG10.h",
+			"settings":
+			{
+				"buffer_size": 1795,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Tri3DG10.todo",
+			"settings":
+			{
+				"buffer_size": 375,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "sni",
+		"selected_items":
+		[
+			[
+				"sni",
+				"SublimeLinter: Choose Mark Style"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"com",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"if",
+				"Snippet: if(…) else"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"co",
+				"Toggle Comment"
+			],
+			[
+				"todo",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"um",
+				"yUML: Open Activity Diagram in Browser"
+			],
+			[
+				"to do",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"",
+				"yUML: Open Class Diagram in Browser"
+			],
+			[
+				"TO DO",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"sn if",
+				"Snippet: if(…)"
+			],
+			[
+				"t",
+				"Tasks: New document"
+			],
+			[
+				"bo",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"f",
+				"File: New View into File"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"ne",
+				"Tasks: New"
+			],
+			[
+				"sni  com",
+				"Snippet: Comment - Section footer comment"
+			],
+			[
+				"sni for",
+				"Snippet: For Loop"
+			],
+			[
+				"snip",
+				"Snippet: struct"
+			],
+			[
+				"sp",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"snippet:co",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"snippet",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"Trigg",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"snipp",
+				"Snippet: MIT License"
+			],
+			[
+				"Sni  to",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"Sni",
+				"Snippet: Comment - To-do list"
+			],
+			[
+				"pac",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"boo",
+				"SublimeBookmarks: Add Bookmark"
+			],
+			[
+				"ta",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"to",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"todo ",
+				"TodoReview: Open Files"
+			],
+			[
+				"ks",
+				"Tasks: Open Link"
+			],
+			[
+				"tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TO",
+				"Tasks: Complete"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"spa",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"Tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG4",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1"
+	],
+	"file_history":
+	[
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG4/Tri3DG10.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG4/KanalDG10.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG4/Tri3DG10.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFCHGnastr.todo",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/Blok3CR68INI.todo",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/Blok3CR68.todo",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Agilent9030.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Agilent9030.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/examples/Unit3CR5.h",
+		"/E/Docum/Progekts/EMBARCADERO/examples/Unit3CR5.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/Stend3CR68.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/BL3Cr6.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/Stend3CR68.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/examples/src/UKV3CR6I8.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/Mod3CR5.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/examples/Copi/BL3Cr6.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/SMU200.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/examples/SxemA.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/examples/Power.ccp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/RSFSL18.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/E5071BNetwAnalizer.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/RSFSU50.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/SMU200.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/HPE44XXB.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/E5071BNetwAnalizer.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Switch34980A.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Switch34980A.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/HPE44XXB.h",
+		"/E/Docum/Progekts/EMBARCADERO/examples/Измерения3Чр5.txt",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Stend1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalKV/BL3CR6.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/examples/src/UKV3CR6I8.h",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/StendPribor.todo",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Stend3GD1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/MFCH2DG.todo",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/ProtocolDG2INI.todo",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/src/Stend3PX1.h",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/Unit1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/BinSearch.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/BinSearch/Unit1.cpp",
+		"/E/Docum/База ImBase/Процесс проверки на правильность Altium",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/Unit1.h",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/SxemA.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MP_N6702A.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/src/Stend3PX1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/TEST3DG1/SavePX2.cpp",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/BL3DG1.todo",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/BL3DG1Nastr.todo",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/HMC830.h",
+		"/E/Docum/Progekts/EMBARCADERO/3px1/KanalPerexv/HMC830.h",
+		"/E/Docum/Progekts/EMBARCADERO/3px1/KanalPerexv/HMC830.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/CADF4002.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFC2DG.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Test3DG1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/CADF4002.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFC2DG.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/BL3PX1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/KanalPerexv/BL3PX1.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/KanalPerexv/BL3DG1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/KanalPerexv/BL3PX1.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/TasksLast.todo",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/KanalPerexv/BL3DG1.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/BL3DG1C.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/BL3DG1C.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/MFC2DG.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/MFC2DG.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4159.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Win32/Release/BL3DJ1.ini",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/MFC1DG.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/MFC1DG.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/LoadADF4159.todo",
+		"/E/TempVMshare/plain/PlainTasks_Help",
+		"/E/TempVMshare/plain/BetterBookmarks.txt",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4159.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Test3DG1.h",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4153.h",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4153.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/ADF4159.cpp",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/KanalPerexv/BL3PX1.h",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/yUML/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/yUML/yUML.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/yUML/README.md",
+		"/E/Docum/Служебная комп.txt",
+		"/E/Docum/Обоснование.txt",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/KanalPerexv/Tri3PX2.cpp",
+		"/E/TempVMshare/plain/1 BetterBookmarks",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/TasksLast",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/C++ Snippets/reference.md",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/C++ Snippets/README.md",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/QuickGotoAnything/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/BufferScroll/BufferScroll.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/BetterBookmarks.sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/BetterBookmarks/Default.sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/BetterBookmarks/BetterBookmarks.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/SublimeBookmarks/Default.sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/User/BetterBookmarks.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Sublime Bookmarks/Default (Windows).sublime-keymap",
+		"/E/TempVMshare/1/Default (Windows).sublime-keymap",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/TodoReview",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/Kanal3DG6/Siqwece",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/SetFreqProc.todo",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/TodoReview.todo",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/SetFreqProc.tasks",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Zen Tabs/ZenTabs.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Zen Tabs/TODO.todo",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/Zen Tabs/Default.sublime-keymap",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/README.md",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/QuickGotoAnything/QuickGotoAnything.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/QuickGotoAnything/README.md",
+		"/E/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/Adf4108.h",
+		"/E/Docum/Progekts/EMBARCADERO/3DG1/KanalPerexv/MFC2Perexv830.cpp",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+		"/C/Users/Anatolii/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 108.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"UPR4",
+			"U1",
+			"U",
+			"U4",
+			"double",
+			"AdrMod|",
+			"upr25",
+			"/* code */",
+			"MKanal",
+			"FsBolshe1215",
+			"KanalDGUKV",
+			"Tri3DG2",
+			"Edit2",
+			"AdvStringGrid1",
+			"VstendeBl3CR6",
+			"Edit2->",
+			"AdvStringGrid1",
+			"3Чр6",
+			"Бло",
+			"блок",
+			"AdresMod<<",
+			"AdresMod<<27",
+			"pData[0]",
+			"AdresMod<<28",
+			"Diapazon",
+			"GeinAnGen(15,false,",
+			",0);",
+			"IP",
+			"ip",
+			"SetFriq(Kanal",
+			"Col-1",
+			"MemINI = new",
+			"return;}",
+			"ProcessMessages",
+			"PriborLoad()",
+			"MemINI",
+			"Vstende5071",
+			"SMU200",
+			"\"get\"",
+			"\"Stend\"",
+			"\"Stend\",\"get\"",
+			"Stend3CR5->get",
+			"GetIPlok",
+			"An9030",
+			"Analiz9030::",
+			"IP_Set",
+			"GetGPIB",
+			"ipLok",
+			"ipAdres",
+			"ipLok",
+			"::PriborLoad",
+			"PriborLoad",
+			"Lan_GPIB",
+			"Form1->",
+			"Stend->",
+			"OPTIONS_BASE",
+			"MemINI = new OPTIONS_BASE",
+			"стенда",
+			",Col",
+			"Shag+1",
+			"Shag+1,R",
+			"Shag+1",
+			",k",
+			"k",
+			"K",
+			"k",
+			"K",
+			"k",
+			"K",
+			"k",
+			"GeinAnGen",
+			"PriborSET",
+			"Pribor5071_IzmLoad",
+			"Pow",
+			"SetMark",
+			"Threshold",
+			"NeMenee",
+			"WaidPC = 1",
+			"1",
+			"2",
+			"0",
+			"1",
+			"StendRPU16",
+			";\n",
+			"btn2PLU->",
+			"btn2PLU->]",
+			"string.c_str)",
+			"string)",
+			"strcat(buffer, \")\");",
+			"An9030",
+			"MP_N6702A->IP_Set",
+			"stend",
+			"Button25",
+			"rel",
+			"куд",
+			"AdvStringGrid2",
+			"StringGrid3",
+			"StringGrid3->Cells",
+			"StringGrid3",
+			"Protocol3PX2",
+			"StringGrid3",
+			"Protocol3PX2",
+			"MFCH1_FsetPX",
+			"MFCH1_Fset",
+			"FriqSET",
+			"MFCH2_Fset",
+			"Data",
+			"FCH1",
+			"ModulFCH1",
+			"set3",
+			"Set3",
+			"PLL5",
+			"CP_CUR",
+			"PARAMSEt4159",
+			"22",
+			"Sint2",
+			"ModulFCH1",
+			"HMC830ADF4002",
+			"SintLOAD_H",
+			".DFpc",
+			"Sint1",
+			"sint",
+			"D45",
+			"NumDapazon",
+			"D55",
+			"UPR",
+			"DNd",
+			"Dnd"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"MKanalDG10",
+			"KanalDG10",
+			"Tri3DG10"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Tri3DG10.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2121,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2082,
+								2082
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "dd845bd5",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1083.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37030,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								19947,
+								19947
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "9b1e9242",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12876.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "KanalDG10.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3039,
+								3039
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "0f02cc32",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2948.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFCGDG.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 14827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5788,
+								5792
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "5fe3b037",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 45.0,
+						"translation.y": 4709.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "KanalDG10.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3307,
+								3307
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "5f7772aa",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1539.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/MFC2DG.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4194,
+								4209
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "0c0ee1f1",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3354.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/Docum/Progekts/EMBARCADERO/Klasses/Divnomorie/Kanal3DG1/BL3DG1C.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3840,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2013,
+								2013
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "ad1fb27e",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Tri3DG10.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1795,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "Packages/BetterBookmarks/icons/todo.png",
+								"regions":
+								[
+								],
+								"scope": "comment"
+							}
+						},
+						"selection":
+						[
+							[
+								919,
+								919
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "3a3de712",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "KanalDG10.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3310,
+								3310
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "5f7772aa",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1881.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "Tri3DG10.todo",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 375,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "string"
+							}
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plaintasks",
+							"buffer_scroll_name": "0362cc25",
+							"spell_check": false,
+							"syntax": "Packages/PlainTasks/PlainTasks.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.543304843305,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.725388848298,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "TriDG10.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"examples\\Измерения3Чр5.txt"
+			],
+			[
+				"mf",
+				"3DG1\\Kanal3DG6\\MFC1DG.h"
+			],
+			[
+				"t",
+				"3DG1\\KanalPerexv\\Tri3PX2.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ADF4002"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 340.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

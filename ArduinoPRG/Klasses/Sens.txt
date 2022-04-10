@@ -1,0 +1,46 @@
+Call COMset(Cells(3, 7))
+Rl = 0
+GP = -50
+C = 29 'C  no?iea
+F = Cells(C, 3)
+
+K = 4 + Cells(3, 7) 'K = 4+inoieaao
+Call Genset(F, GP)
+Call MeasSens(C, K, GP)
+  If Cells(3, 7) < 8 Then
+  Cells(3, 7) = Cells(3, 7) + 1
+    End If
+
+
+
+ Sub MeasSens(C, K, GP)
+  Dim reply As String 'C  no?iea K noieaao
+    A = 4
+    SetIO (A)
+    
+    With DMM
+    
+        
+        .WriteString "CF 70 MHZ;SP 100KHZ;RB 3KHZ;RL -30DBM"
+        .WriteString "VAVG OFF;"
+        .WriteString "MKN;"
+        delay (500)
+        .WriteString "TS;MKPK HI;"
+        delay (200)
+        .WriteString "MKD 40KHZ;"
+        .WriteString "VAVG 100;"
+        delay (10000)
+        
+       .WriteString "MKA?;"
+        reply = .ReadString     ' return value in ASCII format
+    End With
+
+   
+    
+
+    Cells(C, K) = Val(reply) + GP + 10
+    
+    DoEvents
+
+
+End Sub

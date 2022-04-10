@@ -1,0 +1,53 @@
+Call COMset(Cells(3, 7))
+C = 28 'C  строка
+K = 4 + Cells(3, 7) 'K = 4+iстолбец
+Rl = 20
+GP = -15
+F = Cells(C, 3)
+
+
+
+Call Genset(F, GP) 'OIP1
+ Dim reply As String
+    A = 4
+    SetIO (A)
+     With DMM
+    .WriteString "CF 70 MHZ;SP 100KHZ;RB 3KHZ;RL 25DBM"
+    .WriteString "MKN;"
+    .WriteString "VAVG OFF;"
+     delay (200)
+    .WriteString "TS;MKPK HI"
+     delay (200)
+    .WriteString "MKD;"
+    .WriteString "MKA?;"
+     reply = .ReadString     ' return value in ASCII format
+    End With
+j = 0
+Do While (j - Val(reply)) < 1
+   j = j + 1
+   Call Genset(F, GP + j) 'OIP1
+    delay (500)
+    A = 4
+    SetIO (A)
+    With DMM
+        .WriteString "MKA?;"
+        reply = .ReadString     ' return value in ASCII format
+      End With
+      
+  Loop
+Call Genset(F, GP - 1 + j) 'OIP1
+    A = 4
+    SetIO (A)
+     With DMM
+    .WriteString "CF 70 MHZ;SP 100KHZ;RB 3KHZ;RL 25DBM"
+    .WriteString "MKN;"
+    .WriteString "VAVG OFF;"
+    .WriteString "MKA?;"
+    reply = .ReadString     ' return value in ASCII format
+    End With
+    Cells(C, K) = Val(reply)
+       
+    GenOFF
+    If Cells(3, 7) < 8 Then
+  Cells(3, 7) = Cells(3, 7) + 1
+    End If

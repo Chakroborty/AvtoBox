@@ -1,0 +1,17 @@
+//------------Настройка Стенда----------------
+☐ [[..\Unit1.cpp::INITSTEND @STEND]]← описание
+//-----------------------------------
+☐ [[..\StendPR.cpp::GeinAnGen648]]← GeinAnGen(double
+☐ [[..\StendPR.cpp::GeinAnGen675]]← установка адр
+☐ [[..\StendPR.cpp::GeinAnGen16(double]]← GeinAnGen(double
+☐ [[..\StendPR.cpp::ALLAnPeak(int]]← AnPeak
+☐ [[..\StendPR.cpp::CHenalPOW(d]]← Мощность в канале
+ ☐ //--------------Измерение---------------------
+ ☐ [[..\StendPR.cpp::GEIN16RR  @STEND]]← изм Кпописание
+   ☐ [[..\VirtBlock.h::SETFR]]← Установка частоты virt
+   ☐ [[..\BLKRPURR.cpp::Установка частоты]]← Установка частоты
+     ☐ [[..\PRCRR.cpp::SetFriq(i)]]← описание
+     ☐ [[..\BLKRPURR.cpp::Прогрузка частоты Блок @Прогрузка(2)]]← описание
+     ☐ [[..\BLKRPURR.cpp::Прогрузка частоты Блок @Прогрузка(2)]]← описание
+       ☐ [[..\KanalRRUKV.cpp::LOADKL Kanal @Прогрузка (0)]]← описание
+ ☐ [[..\VirtBlock.h::Ссылка]]← описание
