@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.015,=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.030,=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.04.10 15:31:28.785,=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.04.10 15:31:28.800,=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.04.10 15:32:03.050,D:\TempVMshare\Solid\ArduinoPRG\ST2235\Unit1.cpp=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022.04.10 15:32:03.050,D:\TempVMshare\Solid\ArduinoPRG\ST2235\Unit1.dfm=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022.04.10 15:32:03.050,D:\TempVMshare\Solid\ArduinoPRG\ST2235\Unit1.h=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022.04.10 15:32:14.559,D:\TempVMshare\Solid\ArduinoPRG\ST2235\Project235.h=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022.04.10 15:32:27.360,D:\TempVMshare\Solid\ArduinoPRG\ST2235\Proj235.cbproj=C:\Users\bikadorov\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
