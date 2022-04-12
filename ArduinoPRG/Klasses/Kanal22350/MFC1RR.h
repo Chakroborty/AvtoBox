@@ -67,6 +67,7 @@ public:
 //-------------------------------------------------------------------------------------------
 FRRDiap Polosa830[13];
 FRRST   PLAN[268];
+FRRST   POINT;
 	int UPR2;		//Sint1_refsw UPR2
 	int UPR1;		//Sint1_pdp UPR1
 USTRMFC1RR DEVFC1R[3];
