@@ -11,7 +11,7 @@ public:
 long SET394(int DIV);
 int RETURNCOD();
 private:
-int N394[12];
+int N394[32];
 int COD;
 int NDIV;
 };

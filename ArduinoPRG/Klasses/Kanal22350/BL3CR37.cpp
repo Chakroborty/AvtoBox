@@ -26,7 +26,7 @@ BL3CR37::~BL3CR37()
 
 }
 char *BL3CR37::SENDLAN(int ADR,int data,bool Read)
-{
+{   return 0;
 	UdpClient udpClient;
 	bool result = udpClient.Connect(HostADR,UDP_038_PORT);
 

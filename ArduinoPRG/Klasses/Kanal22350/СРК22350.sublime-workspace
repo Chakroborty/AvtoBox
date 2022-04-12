@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"Nu",
+				"NumDapazon"
+			],
+			[
 				"кл",
 				"клемм"
 			],
@@ -347,6 +351,54 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "//---------------------------------------------------------------------------\n\n#include <vcl.h>\n#pragma hdrstop\n#include \"VirtBlock.h\"\n#include \"Unit1.h\"\n#include \"UdpClient.h\"\n#pragma package(smart_init)\n#pragma link \"AdvPageControl\"\n#pragma link \"AdvSpin\"\n#pragma link \"AdvPicture\"\n#pragma resource \"*.dfm\"\nusing namespace LightNetwork;\nTForm1 *Form1;\n\n//---------------------------------------------------------------------------\n__fastcall TForm1::TForm1(TComponent* Owner)\n\t: TForm(Owner)\n{\n\t BLOK37 = new BL3CR37();\n    StringGrid1->ColWidths[0] = 55;\n    StringGrid1->Cells[0][0] = \"№\";\n\tStringGrid1->Cells[1][0] = \"K1.1\";\n\tStringGrid1->Cells[2][0] = \"K1.2\";\n\tStringGrid1->Cells[3][0] = \"K2.1\";\n\tStringGrid1->Cells[4][0] = \"K2.2\";\n\tStringGrid1->Cells[5][0] = \"K3.1\";\n\tStringGrid1->Cells[6][0] = \"K3.2\";\n\tStringGrid1->Cells[7][0] = \"K4.1\";\n\tStringGrid1->Cells[8][0] = \"K4.2\";\n\tStringGrid1->Cells[9][0] = \"K5.1\";\n\tStringGrid1->Cells[10][0] = \"K5.2\";\n\tStringGrid1->Cells[11][0] = \"K6.1\";\n\tStringGrid1->Cells[12][0] = \"K6.2\";\n\tStringGrid1->Cells[13][0] = \"K7.1\";\n\tStringGrid1->Cells[14][0] = \"K7.2\";\n\tStringGrid1->Cells[15][0] = \"K8.1\";\n\tStringGrid1->Cells[16][0] = \"K8.2\";\n\tStringGrid1->Cells[17][0] = \"Del\";\n\tStringGrid1->Cells[0][1] = \"30\";\n\tStringGrid1->Cells[0][2] = \"1000\";\n\tStringGrid1->Cells[0][3] = \"1750\";\n\tStringGrid1->Cells[0][4] = \"2200\";\n\t//---------------------------------------------\n\tStringGrid6->ColWidths[0] = 45;\n\tStringGrid6->Cells[0][0] = \"№\";\n\tStringGrid6->Cells[1][0] = \"K1.1\";\n\tStringGrid6->Cells[2][0] = \"K1.2\";\n\tStringGrid6->Cells[3][0] = \"K2.1\";\n\tStringGrid6->Cells[4][0] = \"K2.2\";\n\tStringGrid6->Cells[5][0] = \"K3.1\";\n\tStringGrid6->Cells[6][0] = \"K3.2\";\n\tStringGrid6->Cells[7][0] = \"K4.1\";\n\tStringGrid6->Cells[8][0] = \"K4.2\";\n\tStringGrid6->Cells[9][0] = \"K5.1\";\n\tStringGrid6->Cells[10][0] = \"K5.2\";\n\tStringGrid6->Cells[11][0] = \"K6.1\";\n\tStringGrid6->Cells[12][0] = \"K6.2\";\n\tStringGrid6->Cells[13][0] = \"K7.1\";\n\tStringGrid6->Cells[14][0] = \"K7.2\";\n\tStringGrid6->Cells[15][0] = \"K8.1\";\n\tStringGrid6->Cells[16][0] = \"K8.2\";\n  \tStringGrid6->Cells[0][1] = \"1750\";\n\t//--------------Изм. 1.1.8---------------------\n\tStringGrid5->ColWidths[0] = 45;\n\tStringGrid5->Cells[0][0] = \"№\";\n\tStringGrid5->Cells[0][0] = \"Kанал\";\n\tStringGrid5->Cells[1][0] = \"Sen 30 МГц\";\n\tStringGrid5->Cells[2][0] = \"Sen 1000 МГц\";\n\tStringGrid5->Cells[3][0] = \"Sen 1750 МГц\";\n\tStringGrid5->Cells[4][0] = \"Sen 2200 МГц\";\n\tStringGrid5->Cells[5][0] = \"P1 1000 МГц\";\n\t//-----------------------------------\n\tStringGrid2->ColWidths[0] = 45;\n\tStringGrid2->Cells[0][0] = \"№\";\n\tStringGrid2->Cells[1][0] = \"K1.1\";\n\tStringGrid2->Cells[2][0] = \"K1.2\";\n\tStringGrid2->Cells[3][0] = \"K2.1\";\n\tStringGrid2->Cells[4][0] = \"K2.2\";\n\tStringGrid2->Cells[5][0] = \"K3.1\";\n\tStringGrid2->Cells[6][0] = \"K3.2\";\n\tStringGrid2->Cells[7][0] = \"K4.1\";\n\tStringGrid2->Cells[8][0] = \"K4.2\";\n\tStringGrid2->Cells[9][0] = \"K5.1\";\n\tStringGrid2->Cells[10][0] = \"K5.2\";\n\tStringGrid2->Cells[11][0] = \"K6.1\";\n\tStringGrid2->Cells[12][0] = \"K6.2\";\n\tStringGrid2->Cells[13][0] = \"K7.1\";\n\tStringGrid2->Cells[14][0] = \"K7.2\";\n\tStringGrid2->Cells[15][0] = \"K8.1\";\n\tStringGrid2->Cells[16][0] = \"K8.2\";\n\tStringGrid2->Cells[0][2] = \"1000\";\n\tStringGrid2->Cells[0][1] = \"1000\";\n\t//-----------------------------------\n\tStringGrid3->ColWidths[0] = 45;\n\tStringGrid3->Cells[0][0] = \"№\";\n\tStringGrid3->Cells[1][0] = \"K1.1\";\n\tStringGrid3->Cells[2][0] = \"K1.2\";\n\tStringGrid3->Cells[3][0] = \"K2.1\";\n\tStringGrid3->Cells[4][0] = \"K2.2\";\n\tStringGrid3->Cells[5][0] = \"K3.1\";\n\tStringGrid3->Cells[6][0] = \"K3.2\";\n\tStringGrid3->Cells[7][0] = \"K4.1\";\n\tStringGrid3->Cells[8][0] = \"K4.2\";\n\tStringGrid3->Cells[9][0] = \"K5.1\";\n\tStringGrid3->Cells[10][0] = \"K5.2\";\n\tStringGrid3->Cells[11][0] = \"K6.1\";\n\tStringGrid3->Cells[12][0] = \"K6.2\";\n\tStringGrid3->Cells[13][0] = \"K7.1\";\n\tStringGrid3->Cells[14][0] = \"K7.2\";\n\tStringGrid3->Cells[15][0] = \"K8.1\";\n\tStringGrid3->Cells[16][0] = \"K8.2\";\n\tStringGrid3->Cells[0][2] = \"1000\";\n\tStringGrid3->Cells[0][1] = \"1000\";\n\t//-----------------------------------\n\tStringGrid4->ColWidths[0] = 45;\n\tStringGrid4->Cells[0][0] = \"№\";\n\tStringGrid4->Cells[1][0] = \"K1.1\";\n\tStringGrid4->Cells[2][0] = \"K1.2\";\n\tStringGrid4->Cells[3][0] = \"K2.1\";\n\tStringGrid4->Cells[4][0] = \"K2.2\";\n\tStringGrid4->Cells[5][0] = \"K3.1\";\n\tStringGrid4->Cells[6][0] = \"K3.2\";\n\tStringGrid4->Cells[7][0] = \"K4.1\";\n\tStringGrid4->Cells[8][0] = \"K4.2\";\n\tStringGrid4->Cells[9][0] = \"K5.1\";\n\tStringGrid4->Cells[10][0] = \"K5.2\";\n\tStringGrid4->Cells[11][0] = \"K6.1\";\n\tStringGrid4->Cells[12][0] = \"K6.2\";\n\tStringGrid4->Cells[13][0] = \"K7.1\";\n\tStringGrid4->Cells[14][0] = \"K7.2\";\n\tStringGrid4->Cells[15][0] = \"K8.1\";\n\tStringGrid4->Cells[16][0] = \"K8.2\";\n\tStringGrid4->Cells[0][2] = \"1000\";\n\tStringGrid4->Cells[0][1] = \"1000\";\n\t//-----------------------------------\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button1Click(TObject *Sender)\n{   ComboBox1Change(Sender);\n\tComboBox2Change(Sender);\n\tCheckBox1Click(Sender);\n\tCheckBox2Click(Sender);\n\n    switch (ComboBox11->ItemIndex)\n\t\t{\n\t\tcase 0:  \tBLOK37->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t\tBLOK37->MFC1->Set394(10);\n\t\tbreak;\n\t\tcase 1:  \tBLOK37->MFC1->Sint1_HMC830->Xtal = 90.9090909091;\n\t\t\t\t\tBLOK37->MFC1->Set394(11);\n\t\tbreak;\n\t\tdefault:  BLOK37->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t  BLOK37->MFC1->Set394(10);\n\t\tbreak;\n\t\t}\n\n\n\tBLOK37->MFC1->Sint1_HMC830->SetFreq(Edit4->Text.ToDouble());\n\tBLOK37->LoadMFC1();\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::FormShow(TObject *Sender)\n{//TODO: INITSTEND @STEND (Unit1.cpp)\n\t   FormSH->TFormSH_INIT(\"BLOK37\",\"B\",BLOK37);\n\t   FormSNSW->INITsave(\"BLOK37\");\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::N1Click(TObject *Sender)\n{\n\t FormSH->ShowModal();\n}\n//---------------------------------------------------------------------------\nvoid TForm1::Kpdelta(TStringGrid *Grid,int R)\n{//CHANGED: DELTA @MEAS (0)\n\n Kmin = Grid->Cells[1][R].ToDouble();\n Kmax = Grid->Cells[1][R].ToDouble();\n\n\tfor (i = 1; i < 13; i++)\n\t{\n\t\t\t\tif (Grid->Cells[i][R]!=\"\")\n\t\t{\n\t\t\t\tif (Grid->Cells[i][R].ToDouble()>Kmax)\n\t\t\t\t{  \tKmax = Grid->Cells[i][R].ToDouble();}\n\t\t\t\tif (Grid->Cells[i][R].ToDouble()<Kmin)\n\t\t\t\t{  \tKmin = Grid->Cells[i][R].ToDouble();}\n\t\t}\n\t}\n Grid->Cells[17][R] = 0.1*floor(10*(Kmax- Kmin));\n}\n\n//---------------------------------------------------------------------------\n\nvoid TForm1::Kpmin1()\n{\n\tKmin = StringGrid1->Cells[i][1].ToDouble();\n\tfor (i = 1; i < 13; i++)\n\t{\n\t\t\tif (StringGrid1->Cells[i][1]!=\"\")\n\t\t{\n\t\t\t\tif (StringGrid1->Cells[i][1].ToDouble()<Kmin)\n\t\t\t\t{\n\t\t\t\t\tKmin = StringGrid1->Cells[i][1].ToDouble();\n\t\t\t\t}\n\t\t}\n\n\t}\n\t\t StringGrid1->Cells[13][1] = Kmin;\n\n}\n\n\n//---------------------------------------------------------------------------\ndouble TForm1::Kpmin(int Col,int Row, TStringGrid* Grid)\n{\n   // Col =1;\n\tKmin = Grid->Cells[Col][Row].ToDouble();\n\n\tfor (i = Col; i < (Grid->ColCount-1); i++)//for (i = 1; i < (Grid->ColCount-1); i++)\n\t{\n\t\tif (!Grid->Cells[i][Row].IsEmpty())\n\t\t{\n\t\t\tif (Grid->Cells[i][Row].ToDouble()<Kmin)\n\t\t\t{\n\t\t\t\tKmin = Grid->Cells[i][Row].ToDouble();\n\t\t\t}\n\t\t}\n\n\t}\n\t return Kmin;\n}\n//---------------------------------------------------------------------------\nvoid TForm1::MEASPROGON(int Row, TStringGrid* Grid,int GRNUM)\n{//FUNC: MMEASPROGON @MEAS (1)\n Zatvor=0;\n\t/* if (!BlokSNchek())\n\t{\n\t\t  if(mrNo==MessageDlg(\"Зав. номера разные. Продолжить?\", mtInformation,\n\t\t\t\tTMsgDlgButtons() << mbNo << mbYes, 0))\n\t\t\t\t{\t //ShowMessage(\"Зав. номера разные\");\n\t\t\t\t return;\n\t\t\t\t}\n\t}*/\n\n\t for (osob = 1; osob < 17; osob++)\n\t{        if (Zatvor)\n\t\t\t\t{\n\t\t\t\t Zatvor=0;\n\t\t\t\t return;\n\t\t\t\t}\n\t\t\t\t\t\t/*if (Stend->TCom==0)\n\t\t\t{\n\t\t\t\t if (Stend->ChekCon(1000,osob))\n\t\t\t\t {\n\t\t\t\t\tShowMessage(\"Подключить кабели к каналу \" + IntToStr(osob));\n\t\t\t\t\t\t// return;\n\t\t\t\t }\n\t\t\t}*/\n\n\t\t\tSelectedRect.Left=osob; //Левая граница\n\t\t\tSelectedRect.Top=Row; //Верхняя граница\n\t\t\tSelectedRect.Right=osob; //Правая граница\n\t\t\tSelectedRect.Bottom=Row; //Нижняя граница\n\t\t\tGrid->Selection = SelectedRect;\n\t\t\tGrid->Cells[osob][Row] = FormSH->Stend->GeinAnGen(1000.0,255.0,0,0,FormSH->Stend->TCom,osob,1)+FormSH->Stend->CTbl[1];\n\t\t\tparam = \"Kp\" +  IntToStr(Row) + IntToStr(osob);\n\t\t\tstparam = \"Tabl\"+IntToStr(GRNUM);\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,stparam.c_str(),param.c_str(),Grid->Cells[osob][Row].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t}\n}\n//---------------------------------------------------------------------------\nvoid TForm1::RelBlokRRINI(int Priemka)\n{//CHANGED: RELOAD @INI (0)\n\tEdit12->Text = FormSH->MemINI->ReadDouble(\"Blok\",\"Зав№\", 22);\n //----------------------------Восстановление табл.1----------------------------------\n\t//AnsiString ExecDir = ExtractFileDir(ParamStr(0));\n\tAnsiString param;\n\tfor (i = 1; i < 17; i++)\n\t{//NOTE: REL T1 @INI (0)\n\t\tparam = \"Kp\" +  IntToStr(i) + \"30\";\n\t\tStringGrid1->Cells[i][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl1\",param.c_str(),\"\");\n\t\tparam = \"Kp\" +  IntToStr(i) + \"1000\";\n\t\tStringGrid1->Cells[i][2] = FormSH->MemINI->TReadString(Priemka,\"Tabl1\",param.c_str(),\"\");\n\t\tparam = \"Kp\" +  IntToStr(i) + \"1750\";\n\t\tStringGrid1->Cells[i][3] = FormSH->MemINI->TReadString(Priemka,\"Tabl1\",param.c_str(),\"\");\n\t\tparam = \"Kp\" +  IntToStr(i) + \"2200\";\n\t\tStringGrid1->Cells[i][4] = FormSH->MemINI->TReadString(Priemka,\"Tabl1\",param.c_str(),\"\");\n\t}\n\tfor (int i = 1; i < 5; ++i)\n\t  {\n\t\tparam = \"KpDEL\" + IntToStr(i) ;\n\t\tStringGrid1->Cells[17][i] =  FormSH->MemINI->TReadString(Priemka,\"Tabl1\",param.c_str(),\"\");\n\t  }\n//-------------------------------------1750 МГц------------------------------------------\n\tfor (i = 1; i < 17; i++)\n\t{//NOTE: REL T2 @INI (0)\n\t\tparam = \"Kp\" +  IntToStr(i) + \"_1750\";\n\t\tStringGrid6->Cells[i][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl2\",param.c_str(),\"\");\n\t}\n//--------------------------------SENS------------------------------------------------\n\t\tparam = \"Sens30\";\n\t\tStringGrid5->Cells[1][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl3\",param.c_str(),\"\");\n\t\tparam = \"Sens1000\";\n\t\tStringGrid5->Cells[2][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl3\",param.c_str(),\"\");\n\t\tparam = \"Sens1750\";\n\t\tStringGrid5->Cells[3][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl3\",param.c_str(),\"\");\n\t\tparam = \"Sens2200\";\n\t\tStringGrid5->Cells[4][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl3\",param.c_str(),\"\");\n\t\tparam = \"IP1\";\n\t\tStringGrid5->Cells[5][1] = FormSH->MemINI->TReadString(Priemka,\"Tabl3\",param.c_str(),\"\");\n//--------------------------------0-8------------------------------------------------\n\tfor(j = 1; j < 3; ++j)\n\t{\n\n\tfor (i = 1; i < 17; i++)\n\t\t{//NOTE: REL T4 @INI (0)\n\t\t\tparam = \"Kp\" +  IntToStr(j) + IntToStr(i);\n\t\t\tStringGrid2->Cells[i][j] = FormSH->MemINI->TReadString(Priemka,\"Tabl4\",param.c_str(),\"\");\n\t\t}\n\t}\n//--------------------------------8-16-----------------------------------------------\n\tfor(j = 1; j < 3; ++j)\n\t{\n\n\tfor (i = 1; i < 17; i++)\n\t\t{//NOTE: REL T5 @INI (0)\n\t\t\tparam = \"Kp\" +  IntToStr(j) + IntToStr(i);\n\t\t\tStringGrid3->Cells[i][j] = FormSH->MemINI->TReadString(Priemka,\"Tabl5\",param.c_str(),\"\");\n\t\t}\n\t}\n//---------------------------------16-24-----------------------------------------\n\tfor(j = 1; j < 3; ++j)\n\t{\n\n\tfor (i = 1; i < 17; i++)\n\t\t{//NOTE: REL T6 @INI (0)\n\t\t\tparam = \"Kp\" +  IntToStr(j) + IntToStr(i);\n\t\t\tStringGrid4->Cells[i][j] = FormSH->MemINI->TReadString(Priemka,\"Tabl6\",param.c_str(),\"\");\n\t\t}\n\t}\n\n}\n\nvoid __fastcall TForm1::CheckBox1Click(TObject *Sender)\n{\n\t\t\tif(CheckBox1->Checked)\n\t\t{\n\t\t\tBLOK37->MFC1->UPR2 = 1;\n\t\t}\n\t\t\telse\n\t\t{\n\t\t\tBLOK37->MFC1->UPR2 = 0;\n\t\t}\n\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::CheckBox2Click(TObject *Sender)\n{\n\t\t\tif(CheckBox2->Checked)\n\t\t{\n\t\t\tBLOK37->MFC1->UPR1 = 1;\n\t\t}\n\t\t\telse\n\t\t{\n\t\t\tBLOK37->MFC1->UPR1 = 0;\n\t\t}\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox1Change(TObject *Sender)\n{\n\t\tBLOK37->MFC1->SetUXM15(ComboBox1->Text.ToInt());  //if 15\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox2Change(TObject *Sender)\n{\n\t\tBLOK37->MFC1->SetUXD20(ComboBox2->Text.ToInt());\t// UXL20\n\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button2Click(TObject *Sender)\n{\n\t\t\tBLOK37->LoadLMX1();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button3Click(TObject *Sender)\n{\n\t\tBLOK37->MFC1->Sint1_LMX2594->REG[0] = 0x00241A;\n\t\tBLOK37->LoadLMXUNO(0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button4Click(TObject *Sender)\n{\n\t\tBLOK37->MFC1->Sint1_LMX2594->REG[0] = 0x00248;\n\t\tBLOK37->LoadLMXUNO(0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button5Click(TObject *Sender)\n{\n\t\t//BLOK37->MFC1->Sint1_LMX2594->REG[0] = 0x002418;\n\t\tBLOK37->LoadLMXUNO(ComboBox3->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button6Click(TObject *Sender)\n{\n\t   //\tBLOK37->MFC1->Sint1_LMX2594->REG[0] = 0x002514;\n\tEdit3->Text = BLOK37->ReadLMXUNO(ComboBox3->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button7Click(TObject *Sender)\n{\nif(Edit2->Text.ToDouble()==7775) {\ti=0;}\nif(Edit2->Text.ToDouble()==7820) {\ti=1;}\nif(Edit2->Text.ToDouble()==8020) {\ti=2;}else{i=5;}\n\t\t\t\t\t\t\tswitch (i)\n\t\t\t{\n\t\t\t\tcase 0:\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->NSET(117);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\t\t\t\t\tBLOK37->LoadLMX1();\n\t\t\t\tbreak;\n\t\t\t\tcase 1:\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->NSET(63);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\t\t\t\t\tBLOK37->LoadLMX1();\n\n\t\t\t\tbreak;\n\t\t\t\tcase 2:\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->NSET(51);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\t\t\t\t\tBLOK37->LoadLMX1();\n\t\t\t\tbreak;\n\t\t\t\tdefault:\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->SetFreq(7820);\n\t\t\t\t\tForm2->AdvSpinEdit4->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\t\t\tForm2->AdvSpinEdit3->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\t\t\tComboBox1->ItemIndex = 2;\n\t\t\t\t\tEdit4->Text = 7820/(ComboBox1->ItemIndex + 4) - 7820/63 -1000;\n\n\t\t\t\t\t\t\t\tswitch (ComboBox11->ItemIndex)\n\t\t\t\t\t{\n\t\t\t\t\tcase 0:  \tBLOK37->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t\t\t\t\tBLOK37->MFC1->Set394(10);\n\t\t\t\t\tbreak;\n\t\t\t\t\tcase 1:  \tBLOK37->MFC1->Sint1_HMC830->Xtal = 90.9090909091;\n\t\t\t\t\t\t\t\tBLOK37->MFC1->Set394(11);\n\t\t\t\t\tbreak;\n\t\t\t\t\tdefault:  BLOK37->MFC1->Sint1_HMC830->Xtal = 100;\n\t\t\t\t\t\t\t  BLOK37->MFC1->Set394(10);\n\t\t\t\t\tbreak;\n\t\t\t\t\t}\n\t\t\t\t\tBLOK37->MFC1->Sint1_HMC830->SetFreq(Edit4->Text.ToDouble());\n\t\t\t\t\tBLOK37->LoadMFC1();\n\n\t\t\t\t\tBLOK37->MFC1->SetUXM15(ComboBox1->ItemIndex + 4);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->NSET(63);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1);\n\t\t\t\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form2->AdvSpinEdit4->Value - AdvSpinEdit1->Value);\n\n\n\t\t\t   \t\tBLOK37->LoadLMX1();\n\n\t\t\t\tbreak;\n\t\t\t}\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::LMX25941Click(TObject *Sender)\n{\n         Form2->ShowModal();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::HMC831Click(TObject *Sender)\n{\n\t\t Form3->ShowModal();\n}\n//---------------------------------------------------------------------------\n\n\n\nvoid __fastcall TForm1::MFC11Click(TObject *Sender)\n{\n\t   Form4->ShowModal();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button8Click(TObject *Sender)\n{\n\t\t\tBLOK37->MFC1->SetAUTOCOR(0,0);\n  \t\t\tBLOK37->LoadLMXUNO(19);\n\n\t\t\tBLOK37->MFC1->Sint1_LMX2594->SetFreq(Edit2->Text.ToDouble());\n\t\t\tForm2->AdvSpinEdit4->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_ST;\n\t\t\tForm2->AdvSpinEdit3->Value = BLOK37->MFC1->Sint1_LMX2594->VCO_DACISET_ST;\n\t\t\tBLOK37->LoadLMX1();\n\t\t\tBLOK37->MFC1->Sint1_LMX2594->MoUTLD(1);\n\t\t\tBLOK37->LoadLMXUNO(0);\n\t\t\ti = Form4->binary_search(Edit2->Text.ToDouble(),0,29)-1;\n\n\t\t\tRichEdit1->Clear();\n\t\t\tRichEdit1->Lines->Add(i);\n\n\t\t\tRichEdit1->Lines->Add(\"Fl=\" + FloatToStr(Form4->Polosa[i].DFv));\n\t\t\tRichEdit1->Lines->Add(\"Fp=\" + FloatToStr(Form4->Polosa[i+1].DFv));\n\t\t\tRichEdit1->Lines->Add(\"M=\" + IntToStr(Form4->Polosa[i].DM));\n\t\t\tRichEdit1->Lines->Add(\"K=\" + IntToStr(Form4->Polosa[i].K));\n\t\t\tRichEdit1->Lines->Add(\"OUT=\" + IntToStr(Form4->Polosa[i].MOUT));\n\t\t\tRichEdit1->Lines->Add(\"N=\" + IntToStr(Form4->Polosa[i].DN));\n\t\t\tRichEdit1->Lines->Add(\"CAP1=\" + IntToStr(Form4->Polosa[i].CAP1));\n\t\t\tRichEdit1->Lines->Add(\"VCO=\" + IntToStr(Form4->Polosa[i].VCO));\n\t\t\t//BLOK37->MFC1->SetUXM15(ComboBox1->Text.ToInt());  //if 15\n\n            \t\tswitch (Form4->Polosa[i].DM)\n            {\tcase 4:ComboBox1->ItemIndex = 0;    break;\n\t            case 5:ComboBox1->ItemIndex = 1;    break;\n\t            case 6:ComboBox1->ItemIndex = 2;    break;\n\t            case 7:ComboBox1->ItemIndex = 3;    break;\n\t\t\t\tcase 8:ComboBox1->ItemIndex = 4;    break;\n\t            case 9:ComboBox1->ItemIndex = 5;    break;\n\n\t            default:  ComboBox1->ItemIndex = 4;    break;\n            }\n\t\t\t\tCheckBox1->Checked = true;\n\t\t\t\t\tif(Form4->Polosa[i].K>0)\n\t\t\t{\n\t\t\t\tCheckBox2->Checked = true;\n\t\t\t}\n\t\t\t\telse\n\t\t\t{\n\t\t\t\tCheckBox2->Checked = false;\n\t\t\t}\n\n//\t\t\t\t\tswitch (Form4->Polosa[i].MOUT2)\n//\t\t\t{\tcase 1:ComboBox2->ItemIndex = 0;    break;\n//\t\t\t\tcase 2:ComboBox2->ItemIndex = 1;    break;\n//\t\t\t\tcase 4:ComboBox2->ItemIndex = 2;    break;\n//\t\t\t\tcase 5:ComboBox2->ItemIndex = 3;    break;\n//\t\t\t\tdefault:  ComboBox1->ItemIndex = 0;    break;\n//\t\t\t}\n\n            Edit4->Text\t= 2000-Edit2->Text.ToDouble()*(Form4->Polosa[i].K*Form4->Polosa[i].DN - Form4->Polosa[i].DM)/(Form4->Polosa[i].K*Form4->Polosa[i].DN*Form4->Polosa[i].DM);\n\n            ComboBox11Change(Sender);\n\t\t\tBLOK37->MFC1->Sint1_LMX2594->NSET(Form4->Polosa[i].DN);\n\t\t\tBLOK37->LoadLMXUNO(34);\n\t\t\tBLOK37->LoadLMXUNO(36);\n\t\t\tBLOK37->MFC1->Sint1_LMX2594->FRSET(0);\n\t\t\tBLOK37->LoadLMXUNO(42);\n\t\t\tBLOK37->LoadLMXUNO(43);\n\t\t\tBLOK37->LoadLMXUNO(BLOK37->MFC1->Sint1_LMX2594->VCO_SEL_FORCE(1));\n\t\t\tBLOK37->LoadLMXUNO(BLOK37->MFC1->Sint1_LMX2594->VCO_SEL(Form4->Polosa[i].VCO));\n\n\t\t\tForm2->ComboBox1->ItemIndex\t= Form4->Polosa[i].VCO;\n\t\t\tBLOK37->LoadLMXUNO(BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL_FORCE(1));\n\n\n\t\t\t\t\tswitch (Form4->Polosa[i].MOUT)\n\t\t\t\t\t{\n\t\t\t\t\tcase 1:\n\t\t\t\t\tForm2->ComboBox11->ItemIndex=1;\n\t\t\t\t\tForm2->ComboBox12->ItemIndex=1;\n\t\t\t\t\t//0: Channel divider 1: VCO\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->OUTAMUX(1)); //R45\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->OUTBMUX(1)); //R46\n\t\t\t\t\tbreak;\n\t\t\t\t\tcase 2:\n\t\t\t\t\tForm2->ComboBox10->ItemIndex=0;\n\t\t\t\t\tForm2->ComboBox11->ItemIndex=0;\n\t\t\t\t\tForm2->ComboBox12->ItemIndex=0;\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->CHANDiV(0)); //R75[10:6]\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->OUTAMUX(0)); //R45\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->OUTBMUX(0)); //R46\n\t\t\t\t\tbreak;\n\t\t\t\t\tdefault:\n\t\t\t\t\tForm2->ComboBox11->ItemIndex=1;\n\t\t\t\t\tForm2->ComboBox12->ItemIndex=1;\n\t\t\t\t\t//0: Channel divider 1: VCO\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->OUTAMUX(1)); //R45\n\t\t\t\t\tBLOK37->LoadLMXUNO(Form1->BLOK37->MFC1->Sint1_LMX2594->OUTBMUX(1)); //R46\n\t\t\t\t\tbreak;\n\t\t\t\t\t}\n\n\n\n\t\t\tButton1Click(Sender);\n\t\t\tBLOK37->LoadMFC1();\n\t\t\tBLOK37->LoadLMX1();\n\n//\t\t\t\t\tswitch (CheckBox3->Checked)\n//\t\t{\n//\t\tcase 0:  BLOK37->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n//\t\tcase 1:  BLOK37->MFC1->SetAUTOCOR(1,ComboBox10->ItemIndex);  break;\n//\t\tdefault:  BLOK37->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n//\t\t}\n//\t\tBLOK37->LoadLMXUNO(BLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form4->Polosa[i].CAP1 + AdvSpinEdit1->Value));  /* TODO -cПрогрузка LMX : Подставить из таблицы */\n//\t\tForm2->AdvSpinEdit1->Value = Form4->Polosa[i].CAP1; //VCO_CAPCTRL\n\n\t\t\tButton9Click(Sender);\n\n//\t\tBLOK37->MFC1->Sint1_LMX2594->MoUTLD(1);\n//\t\tBLOK37->LoadLMXUNO(0);\n//\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(Form4->Polosa[i].CAP1 + AdvSpinEdit1->Value);\n//\t\t\t\t\t\tswitch (CheckBox3->Checked)\n//\t\t{\n//\t\tcase 0:  BLOK37->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n//\t\tcase 1:  BLOK37->MFC1->SetAUTOCOR(1,ComboBox10->ItemIndex);  break;\n//\t\tdefault:  BLOK37->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n//\t\t}\n//\t\tBLOK37->LoadLMXUNO(19);\n\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox4Change(TObject *Sender)\n{\n\n\tBLOK37->PRC->SetFriq(0,ComboBox9->ItemIndex,35,ComboBox5->ItemIndex,AdvSpinEdit2->Value,AdvSpinEdit3->Value,AdvSpinEdit4->Value,63-AdvSpinEdit5->Value,1); //int Mod,int Kanal,double Fin,bool Ampl_,int DB1,int DB2,int DB3,int DB4\n\tBLOK37->PRC->BL_NumModul = AdvSpinEdit8->HexValue<<28;\n\tBLOK37->PRC->MKanal->KanalNum_B_Mod = ComboBox9->ItemIndex;\n\tBLOK37->PRC->MKanal->PRESELSET(ComboBox4->ItemIndex);\n\tEdit5->Text = IntToHex(BLOK37->PRC->LoadKL(1),8);\n\tBLOK37->PRC->MKanal->AmplifSET(ComboBox5->ItemIndex);  //1 Вкл\n\n\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::AdvSpinEdit2Change(TObject *Sender)\n{\n\t   //\tComboBox4Change(Sender);\n\t\tBLOK37->PRC->MKanal->ATT1_SET(AdvSpinEdit2->Value);\n\t\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit3Change(TObject *Sender)\n{\n\t   //\tComboBox4Change(Sender);\n\t\tBLOK37->PRC->MKanal->ATT2_SET(AdvSpinEdit3->Value);\n\t\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit4Change(TObject *Sender)\n{\n\t\t//ComboBox4Change(Sender);\n\t\tBLOK37->PRC->MKanal->ATT3_SET(AdvSpinEdit4->Value);\n\t\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit5Change(TObject *Sender)\n{\n\t\t//ComboBox4Change(Sender);\n        BLOK37->PRC->MKanal->ATT4_SET(63-AdvSpinEdit5->Value);\n\t\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox5Change(TObject *Sender)\n{\n        ComboBox4Change(Sender);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button9Click(TObject *Sender)\n{\n//\t\tBLOK37->MFC1->Sint1_LMX2594->MoUTLD(0);\n//\t\tBLOK37->LoadLMXUNO(0);\n\t\tBLOK37->MFC1->Sint1_LMX2594->MoUTLD(1);\n\t\tBLOK37->LoadLMXUNO(0);\n\n\t\tBLOK37->MFC1->Sint1_LMX2594->VCO_CAPCTRL(AdvSpinEdit6->Value);\n\t\t// \t\t\t\tswitch (CheckBox3->Checked)\n\t\t// {\n\t\t// case 0:  BLOK37->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n\t\t// case 1:  BLOK37->MFC1->SetAUTOCOR(1,ComboBox10->ItemIndex);  break;\n\t\t// default:  BLOK37->MFC1->SetAUTOCOR(0,ComboBox10->ItemIndex);  break;\n\t\t// }\n\n\tBLOK37->MFC1->SetAUTOCOR(CheckBox3->Checked,CheckBox4->Checked);\n\tBLOK37->LoadLMXUNO(19);\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::ComboBox11Change(TObject *Sender)\n{\n\t\t\t\t\tswitch (ComboBox11->ItemIndex)\n\t\t{\n\t\tcase 0:  \tBLOK37->MFC1->Sint1_HMC830->SetREF(2000.0/18,1);\n\t\t\t\t\tBLOK37->MFC1->Set394(18);\n\t\tbreak;\n\t\tcase 1:  \tBLOK37->MFC1->Sint1_HMC830->SetREF(105.26,1); // SetREF(double INREF, double INR)\n\t\t\t\t\tBLOK37->MFC1->Set394(19);\n\t\tbreak;\n\t\tcase 2:  \tBLOK37->MFC1->Sint1_HMC830->SetREF(2000.0/20,1); // SetREF(double INREF, double INR)\n\t\t\t\t\tBLOK37->MFC1->Set394(20);\n\t\tbreak;\n\t\tcase 3:  \tBLOK37->MFC1->Sint1_HMC830->SetREF(2000.0/21,1); // SetREF(double INREF, double INR)\n\t\t\t\t\tBLOK37->MFC1->Set394(21);\n\t\tbreak;\n\t\tcase 4:  \tBLOK37->MFC1->Sint1_HMC830->SetREF(2000.0/22,1); // SetREF(double INREF, double INR)\n\t\t\t\t\tBLOK37->MFC1->Set394(22);\n\t\tbreak;\n\t\tcase 5:  \tBLOK37->MFC1->Sint1_HMC830->SetREF(2000.0/23,1); // SetREF(double INREF, double INR)\n\t\t\t\t\tBLOK37->MFC1->Set394(23);\n\t\tbreak;\n\t\tdefault:  BLOK37->MFC1->Sint1_HMC830->SetREF(100.0,1);\n\t\t\t\t  BLOK37->MFC1->Set394(20);\n\t\tbreak;\n\t\t}\n\t\tBLOK37->MFC1->Sint1_HMC830->SetFreq(Edit4->Text.ToDouble());\n\t\tBLOK37->LoadMFC1();\n\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::ComboBox6Change(TObject *Sender)\n{\n//\t\t\t\tswitch (ComboBox6->ItemIndex)\n//\t\t{\n//\t\tcase 0:  \tBLOK37->PRC->MKanal->NKanal[3].Pch1_Sw = 0;\n//\n//\t\tbreak;\n//\t\tcase 1:    BLOK37->PRC->MKanal->NKanal[3].Pch1_Sw = 1;\n//\t\tbreak;\n//\t\tdefault: BLOK37->PRC->MKanal->NKanal[3].Pch1_Sw =1;\n//\t\tbreak;\n//\t\t}\n\t\tBLOK37->PRC->MKanal->NKanal[2].Pch1_Sw = ComboBox6->ItemIndex;\n\t\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::ComboBox7Change(TObject *Sender)\n{\n\t\tBLOK37->PRC->MKanal->PC2INSET(ComboBox7->ItemIndex);\n\t\tBLOK37->LoadBL3CR37();\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox12Change(TObject *Sender)\n{\n\t\t\t\tswitch (ComboBox12->ItemIndex)     //Вход ПЧ2\n\t\t{\n\t\tcase 0:  \tBLOK37->PRC->MKanal->NKanal[2].Pch2_Sw = BLOK37->PRC->MKanal->NKanal[2].Pch2_Sw&0x1; \tbreak;\n\t\tcase 1:    \tBLOK37->PRC->MKanal->NKanal[2].Pch2_Sw = BLOK37->PRC->MKanal->NKanal[2].Pch2_Sw|0x2;  \tbreak;\n\t\tdefault: \tBLOK37->PRC->MKanal->NKanal[2].Pch2_Sw = BLOK37->PRC->MKanal->NKanal[2].Pch2_Sw|0x2;  \tbreak;\n\t\t}\n\t   //\tBLOK37->PRC->MKanal->NKanal[3].Pch2_Sw = ComboBox7->ItemIndex;\n\t\tBLOK37->LoadBL3CR37();\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button10Click(TObject *Sender)\n{\n\n\n\t\tBLOK37->SENDLAN(StrToInt64(\"0x\"+Edit5->Text)>>32,StrToInt64(\"0x\"+Edit5->Text)&0xFFFFFFFF,0);\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::ComboBox13Change(TObject *Sender)\n{\n\t\t\t\tswitch (ComboBox13->ItemIndex)\n\t {\n\t\tcase 0:  BLOK37->PRC->BL_NumModul = 0xD<<28; break; //0-7 или D\n\t\tcase 1:  BLOK37->PRC->BL_NumModul = 0x0<<28; break;\n\t\tcase 2:  BLOK37->PRC->BL_NumModul = 0x1<<28; break;\n\t\tcase 3:  BLOK37->PRC->BL_NumModul = 0x2<<28; break;\n\t\tcase 4:  BLOK37->PRC->BL_NumModul = 0x3<<28; break;\n\t\tcase 5:  BLOK37->PRC->BL_NumModul = 0x4<<28; break;\n\t\tcase 6:  BLOK37->PRC->BL_NumModul = 0x5<<28; break;\n\t\tcase 7:  BLOK37->PRC->BL_NumModul = 0x6<<28; break;\n\t\tcase 8:  BLOK37->PRC->BL_NumModul = 0x7<<28; break;\n\t\tdefault: BLOK37->PRC->BL_NumModul = 0xD<<28; break;\n\t }\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox14Change(TObject *Sender)\n{\n\t\t\t switch (ComboBox14->ItemIndex)\n\t {\n\t\tcase 0:  BLOK37->MFC1->AdrMod = 0xE<<28; break; //0-7 или D\n\t\tcase 1:  BLOK37->MFC1->AdrMod = 0xF<<28; break;\n\t\tdefault: BLOK37->MFC1->AdrMod = 0xF<<28; break;\n\t }\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit7Change(TObject *Sender)\n{\n\t   BLOK37->MFC1->AdrMod = AdvSpinEdit7->HexValue<<28;\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit8Change(TObject *Sender)\n{\n   BLOK37->PRC->BL_NumModul = AdvSpinEdit8->HexValue<<28;\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::CmB17Change(TObject *Sender)\n{\n\t   FormSH->Stend->KOM34980->CommSetK16HF(CmB17->ItemIndex+1);\n\t   switch (CmB17->ItemIndex)\n\t   {\n\t  case 0: StringGrid5->Cells[0][1] = \"K1.1\";   break;\n\t  case 1: StringGrid5->Cells[0][1] = \"K1.2\";   break;\n\t  case 2: StringGrid5->Cells[0][1] = \"K2.1\";   break;\n\t  case 3: StringGrid5->Cells[0][1] = \"K2.2\";   break;\n\t  case 4: StringGrid5->Cells[0][1] = \"K3.1\";   break;\n\t  case 5: StringGrid5->Cells[0][1] = \"K3.2\";   break;\n\t  case 6: StringGrid5->Cells[0][1] = \"K4.1\";   break;\n\t  case 7: StringGrid5->Cells[0][1] = \"K4.2\";   break;\n\t  case 8: StringGrid5->Cells[0][1] = \"K5.1\";   break;\n\t  case 9: StringGrid5->Cells[0][1] = \"K5.2\";   break;\n\t  case 10: StringGrid5->Cells[0][1] = \"K6.1\";   break;\n\t  case 11: StringGrid5->Cells[0][1] = \"K6.2\";   break;\n\t  case 12: StringGrid5->Cells[0][1] = \"K7.1\";   break;\n\t  case 13: StringGrid5->Cells[0][1] = \"K7.2\";   break;\n\t  case 14: StringGrid5->Cells[0][1] = \"K8.1\";   break;\n\t  case 15: StringGrid5->Cells[0][1] = \"K8.2\";   break;\n\n\t   default:    break;\n\t   }\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button19Click(TObject *Sender)\n{\n\t BLOK37->MFC1->BFCHP->SETFINE(AdvSpinEdit1->Value);\n     BLOK37->MFC1->BFCHP->SETAUTO(CheckBox3->Checked,CheckBox4->Checked);\n\t BLOK37->MFC1->BFCHP->PLMX2594->VCO_CAPCTRL(AdvSpinEdit6->Value);\n\t RichEdit2->Clear();\n\t RichEdit2->Lines->Add(\"Fl=\" + FloatToStr(BLOK37->MFC1->SetFreq(AdvSpinEdit9->FloatValue,Edit2->Text.ToDouble(),0,0)));\n\t BLOK37->FriqSET(0,0,AdvSpinEdit9->FloatValue,1,0,0,0,0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit9Change(TObject *Sender)\n{\n\tRichEdit2->Clear();\n   //\tBLOK37->MFC1->BFCHP->SETFINE(AdvSpinEdit1->Value);\n\tRichEdit2->Lines->Add(\"F830=\" + FloatToStr(BLOK37->MFC1->SetFreq(AdvSpinEdit9->FloatValue,Edit2->Text.ToDouble(),0,0)));\n\n\tRichEdit2->Lines->Add(BLOK37->MFC1->NumDapazon);\n\tRichEdit2->Lines->Add(\"Fo=\" + FloatToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon].F));\n\tRichEdit2->Lines->Add(\"Fl=\" + FloatToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon].FVCO));\n\tRichEdit2->Lines->Add(\"Fp=\" + FloatToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon+1].FVCO));\n\tRichEdit2->Lines->Add(\"M=\" + IntToStr(BLOK37->MFC1->DEVFC1R[1].S15p));\n\tRichEdit2->Lines->Add(\"K=\" + IntToStr(BLOK37->MFC1->DEVFC1R[1].PDP));\n\tRichEdit2->Lines->Add(\"OUT=\" + IntToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon].OUTM));\n\tRichEdit2->Lines->Add(\"N=\" + IntToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon].N));\n\tRichEdit2->Lines->Add(\"CAP1=\" + IntToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon].CAP));\n\tRichEdit2->Lines->Add(\"CAP_M=\" + IntToStr(BLOK37->MFC1->BFCHP->PLMX2594->VCO_CAPCTRL_ST));\n\tRichEdit2->Lines->Add(\"VCO=\" + IntToStr(BLOK37->MFC1->PLAN[BLOK37->MFC1->NumDapazon].VCO));\n\tRichEdit2->Lines->Add(\"VCO_M=\" + IntToStr(BLOK37->MFC1->BFCHP->PLMX2594->VCOSEL));\n\tRichEdit2->Lines->Add(\"N394=\" + IntToStr(BLOK37->MFC1->DEVFC1R[1].F394));\n\tRichEdit2->Lines->Add(\"UMX20=\" + IntToStr(BLOK37->MFC1->DEVFC1R[1].S20p));\n\tRichEdit2->Lines->Add(\"RSV=\" + IntToStr(BLOK37->MFC1->DEVFC1R[1].RSV));\n\n\t//BLOK37->MFC1->DEVFC1R[1].S20p;\n\t//BLOK37->MFC1->DEVFC1R[1].RSV;\n\t//BLOK37->FriqSET(0,0,AdvSpinEdit9->FloatValue,1,0,0,0,0);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvSpinEdit1Change(TObject *Sender)\n{\n\t   BLOK37->MFC1->BFCHP->SETFINE(AdvSpinEdit1->Value);\n       BLOK37->MFC2->BFCHP->SETFINE(AdvSpinEdit1->Value);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Edit12KeyPress(TObject *Sender, System::WideChar &Key)\n{\n\t//TODO: НомерБЛОКА-Пртокола @INI (Unit1.cpp)\n\tFormSNSW->ShowModal();\n\t//MemINI->PAthSet(ExtractFileDir(ParamStr(0)) + \"\\\\RPU16.ini\");\n\t//FormSH->MemINI->WriteDouble(\"Blok\",\"Зав№\", StrToFloat(Edit12->Text));\n\tFormSH->MemINI->WriteDouble(\"Priemka\",\"Tipe\", ComboBox10->ItemIndex);\n\tRelBlokRRINI(ComboBox10->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::StringGrid1DblClick(TObject *Sender)\n{\n//   if (!BlokSNchek())\n//\t{\n//\t  if(mrNo==MessageDlg(\"Зав. номера разные. Продолжить?\", mtInformation,\n//\t\t\tTMsgDlgButtons() << mbNo << mbYes, 0))\n//\t\t\t{\t //ShowMessage(\"Зав. номера разные\");\n//\t\t\t return;\n//\t\t\t}\n//\t}\n\n//\t   if (Stend->ChekCon(1500,i)) {\n//\t\t\t\t   ShowMessage(\"USB кабель не подключен\");\n//\t\t\t\t  // return;\n//\t\t\t   }\n\n\t\t //FUNC: DBL (0)\n\t\t\t\t\tswitch(j)\n   {\n\t case 1:\n  // StringGrid1->Cells[i][j] = Stend->GeinAnGen(30,0,0,i,Stend->TCom)+Stend->CTbl[2];\n\t StringGrid1->Cells[i][j] = FormSH->Stend->GeinAnGen(30.0,255.0,0,0,FormSH->Stend->TCom,i,1)+FormSH->Stend->CTbl[0];\n\t Application->ProcessMessages();\n\t param = \"Kp\" +  IntToStr(i) + \"30\";\n\t break;\n\t case 2:\n //\t StringGrid1->Cells[i][j] = Stend->GeinAnGen(1000,0,0,i,Stend->TCom)+Stend->CTbl[2];\n\t StringGrid1->Cells[i][j] = FormSH->Stend->GeinAnGen(1000.0,255.0,0,0,FormSH->Stend->TCom,i,1)+FormSH->Stend->CTbl[1];\n\t Application->ProcessMessages();\n\t param = \"Kp\" +  IntToStr(i) + \"1000\";\n\t break;\n\t case 3:\n //\t StringGrid1->Cells[i][j] = Stend->GeinAnGen(2000,0,0,i,Stend->TCom)+Stend->CTbl[2];\n\t StringGrid1->Cells[i][j] = FormSH->Stend->GeinAnGen(1750.0,255.0,0,0,FormSH->Stend->TCom,i,1)+FormSH->Stend->CTbl[2];\n\t Application->ProcessMessages();\n\t param = \"Kp\" +  IntToStr(i) + \"1750\";\n\t break;\n\t case 4:\n//\t StringGrid1->Cells[i][j] = Stend->GeinAnGen(3000,0,0,i,Stend->TCom)+Stend->CTbl[2];\n\t StringGrid1->Cells[i][j] = FormSH->Stend->GeinAnGen(2200.0,255.0,0,0,FormSH->Stend->TCom,i,1)+FormSH->Stend->CTbl[3];\n\t Application->ProcessMessages();\n\t param = \"Kp\" +  IntToStr(i) + \"2200\";\n\t break;\n\n   }\n\n\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[i][j].ToDouble());\n\tKpdelta(StringGrid1,j);\n\tparam = \"KpDEL\" + IntToStr(j);\n\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[17][j].ToDouble());\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::StringGrid1SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect)\n{\n\t//FUNC: IJ @MEAS (0)\n\t\ti = ACol;\n\t\tj = ARow;\n\t\t\t\tif (i==0|i==17)\n\t\t{\n\t\t\ti = 1;\n\t\t}\n\t\t\t\tif (j==0)\n\t\t{\n\t\t\tj = 1;\n\t\t}\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::StringGrid5SelectCell(TObject *Sender, int ACol, int ARow,\n\t\t  bool &CanSelect)\n{\n\t\ti = ACol;\n\t\tj = ARow;\n\t\t\t\tif (i==0|i==6)\n\t\t{\n\t\t\ti = 1;\n\t\t}\n\t\t\t\tif (j==0)\n\t\t{\n\t\t\tj = 1;\n\t\t}\n}\n//---------------------------------------------------------------------------\nvoid __fastcall TForm1::Button20Click(TObject *Sender)\n{\n\t\tBLOK37->LoadMFC11(AdvSpinEdit9->FloatValue,AdvSpinEdit7->HexValue);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button21Click(TObject *Sender)\n{\n\tBLOK37->LoadMFC2(AdvSpinEdit9->FloatValue,AdvSpinEdit7->HexValue);\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button18Click(TObject *Sender)\n{\n\t\t//FUNC: MEASAUTO @MEAS (1)\n\t\t//NOTE: SET T1 @INI (0)\n\t\tZatvor=0;\n\t/* if (!BlokSNchek())\n\t{\n\t\t  if(mrNo==MessageDlg(\"Зав. номера разные. Продолжить?\", mtInformation,\n\t\t\t\tTMsgDlgButtons() << mbNo << mbYes, 0))\n\t\t\t\t{\t //ShowMessage(\"Зав. номера разные\");\n\t\t\t\t return;\n\t\t\t\t}\n\t}*/\n\n\t for (osob = 1; osob < 17; osob++)\n\t{        if (Zatvor)\n\t\t\t\t{\n\t\t\t\t Zatvor=0;\n\t\t\t\t return;\n\t\t\t\t}\n\t\t\t\t\t\t/*if (Stend->TCom==0)\n\t\t\t{\n\t\t\t\t if (Stend->ChekCon(1000,osob))\n\t\t\t\t {\n\t\t\t\t\tShowMessage(\"Подключить кабели к каналу \" + IntToStr(osob));\n\t\t\t\t\t\t// return;\n\t\t\t\t }\n\t\t\t}*/\n\t\t\tSelectedRect.Left=osob; //Левая граница\n\t\t\tSelectedRect.Top=1; //Верхняя граница\n\t\t\tSelectedRect.Right=osob; //Правая граница\n\t\t\tSelectedRect.Bottom=1; //Нижняя граница\n\t\t\tStringGrid1->Selection = SelectedRect;\n\t\t\tStringGrid1->Cells[osob][1] =  FormSH->Stend->GeinAnGen(30.0,255.0,0,0,FormSH->Stend->TCom,osob,1)+FormSH->Stend->CTbl[0];\n\t\t\tparam = \"Kp\" +  IntToStr(osob) + \"30\";\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[osob][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\n\t\t\tSelectedRect.Left=osob; //Левая граница\n\t\t\tSelectedRect.Top=2; //Верхняя граница\n\t\t\tSelectedRect.Right=osob; //Правая граница\n\t\t\tSelectedRect.Bottom=2; //Нижняя граница\n\t\t\tStringGrid1->Selection = SelectedRect;\n\t\t\tStringGrid1->Cells[osob][2] =  FormSH->Stend->GeinAnGen(1000.0,255.0,0,0,FormSH->Stend->TCom,osob,1)+FormSH->Stend->CTbl[1];\n\t\t\tparam = \"Kp\" +  IntToStr(osob) + \"1000\";\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[osob][2].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\n\t\t\tSelectedRect.Left=osob; //Левая граница\n\t\t\tSelectedRect.Top=3; //Верхняя граница\n\t\t\tSelectedRect.Right=osob; //Правая граница\n\t\t\tSelectedRect.Bottom=3; //Нижняя граница\n\t\t\tStringGrid1->Selection = SelectedRect;\n\t\t\tStringGrid1->Cells[osob][3] = FormSH->Stend->GeinAnGen(1750.0,255.0,0,0,FormSH->Stend->TCom,osob,1)+FormSH->Stend->CTbl[2];\n\t\t\tparam = \"Kp\" +  IntToStr(osob) + \"1750\";\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[osob][3].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\n\t\t\tSelectedRect.Left=osob; //Левая граница\n\t\t\tSelectedRect.Top=3; //Верхняя граница\n\t\t\tSelectedRect.Right=osob; //Правая граница\n\t\t\tSelectedRect.Bottom=3; //Нижняя граница\n\t\t\tStringGrid1->Selection = SelectedRect;\n\t\t\tStringGrid1->Cells[osob][4] =  FormSH->Stend->GeinAnGen(2200.0,255.0,0,0,FormSH->Stend->TCom,osob,1)+FormSH->Stend->CTbl[3];\n\t\t\tparam = \"Kp\" +  IntToStr(osob) + \"2200\";\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[osob][3].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t}\n\t  i=1;\n\t  \t\tfor (int i = 1; i < 5; ++i)\n\t  {\n\t\tKpdelta(StringGrid1, i);\n\t\t// Kpdelta(StringGrid7, i);\n\t\tparam = \"KpDEL\" + IntToStr(i) ;\n\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl1\",param.c_str(),StringGrid1->Cells[17][i].ToDouble());\n\t  }\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::StringGrid5DblClick(TObject *Sender)\n{    //Func: IP1 @MEAS (0)\n\t CmB17Change(Sender);\n\t\t\t\t\tswitch (i)\n\t{\n\t\t\tcase 1:\n\t\t\tparam = \"Sens30\";\n\t\t\tStringGrid5->Cells[i][1] =  FormSH->Stend->Sens(-70,-10,30,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[0];\n\t\t\tbreak;\n\t\t\tcase 2:\n\t\t\tparam = \"Sens1000\";\n\t\t\tStringGrid5->Cells[i][1] =  FormSH->Stend->Sens(-70,-10,1000,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[1];\n\t\t\tbreak;\n\t\t\tcase 3:\n\t\t\tparam = \"Sens1750\";\n\t\t\tStringGrid5->Cells[i][1] =  FormSH->Stend->Sens(-70,-10,1750,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[2];\n\t\t\tbreak;\n\t\t\tcase 4:\n\t\t\tparam = \"Sens2200\";\n\t\t\tStringGrid5->Cells[i][1] =  FormSH->Stend->Sens(-70,-10,2200,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[3];\n\t\t\tbreak;\n\t\t\tcase 5:\n\t\t\tparam = \"IP1\";\n\t\t\tStringGrid5->Cells[i][1] =  FormSH->Stend->SIP1(-27,25,1000,255,CmB17->ItemIndex+1);\n\t\t\tbreak;\n\t}\n\n/*   \t\t\t\t   switch (i)\n\t{\n\t\tcase 1:\n\t\tparam = \"K1\" + param;\n\t\tbreak;\n\t\tcase 2:\n\t\tparam = \"K2\" + param;\n\t\tbreak;\n\t\tcase 3:\n\t\tparam = \"K2\" + param;\n\t\tbreak;\n\t\tcase 4:\n\t\tparam = \"K2\" + param;\n\t\tbreak;\n\t\tcase 5:\n\t\tparam = \"K2\" + param;\n\t\tbreak;\n\t}\n*/\n\n\t \tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl3\",param.c_str(),StringGrid5->Cells[i][1].ToDouble());\n\n}\n//---------------------------------------------------------------------------\n\n\nvoid __fastcall TForm1::Button17Click(TObject *Sender)\n{     //FUNC: MEASAUTO0 @MEAS (1)\n//NOTE: SET T4 @INI (4)\n\tMEASPROGON(1, StringGrid2,4);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button16Click(TObject *Sender)\n{    //FUNC: MEASAUTO8 @MEAS (1)\n\tMEASPROGON(2, StringGrid2,4);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button15Click(TObject *Sender)\n{     //FUNC: MEASAUTO88 @MEAS (1)\n\tMEASPROGON(1, StringGrid3,5);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button14Click(TObject *Sender)\n{    //FUNC: MEASAUTO16 @MEAS (1)\n\tMEASPROGON(2, StringGrid3,5);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button13Click(TObject *Sender)\n{    //FUNC: MEASAUTO1616 @MEAS (1)\n\tMEASPROGON(1, StringGrid4,6);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button12Click(TObject *Sender)\n{   //FUNC: MEASAUTO24 @MEAS (1)\n\tMEASPROGON(2, StringGrid4,6);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button22Click(TObject *Sender)\n{  //FUNC: MEASAUTOIP @MEAS (1)\n//NOTE: SET T3 @INI (3)\n\t\t\t CmB17Change(Sender);\n\t\t\tparam = \"Sens30\";\n\t\t\tStringGrid5->Cells[1][1] =  FormSH->Stend->Sens(-70,-10,30,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[0];\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl3\",param.c_str(),StringGrid5->Cells[1][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t\t\tparam = \"Sens1000\";\n\t\t\tStringGrid5->Cells[2][1] =  FormSH->Stend->Sens(-70,-10,1000,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[1];\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl3\",param.c_str(),StringGrid5->Cells[2][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t\t\tparam = \"Sens1750\";\n\t\t\tStringGrid5->Cells[3][1] =  FormSH->Stend->Sens(-70,-10,1750,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[2];\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl3\",param.c_str(),StringGrid5->Cells[3][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t\t\tparam = \"Sens2200\";\n\t\t\tStringGrid5->Cells[4][1] =  FormSH->Stend->Sens(-70,-10,2200,255,CmB17->ItemIndex+1)-FormSH->Stend->CTbl[3];\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl3\",param.c_str(),StringGrid5->Cells[4][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t\t\tparam = \"IP1\";\n\t\t\tStringGrid5->Cells[5][1] =  FormSH->Stend->SIP1(-27,25,1000,255,CmB17->ItemIndex+1);\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl3\",param.c_str(),StringGrid5->Cells[5][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button23Click(TObject *Sender)\n{  // FUNC : M1750\n\t\t\tZatvor=0;\n\t/* if (!BlokSNchek())\n\t{\n\t\t  if(mrNo==MessageDlg(\"Зав. номера разные. Продолжить?\", mtInformation,\n\t\t\t\tTMsgDlgButtons() << mbNo << mbYes, 0))\n\t\t\t\t{\t //ShowMessage(\"Зав. номера разные\");\n\t\t\t\t return;\n\t\t\t\t}\n\t}*/\n\n\t for (osob = 1; osob < 17; osob++)\n\t{        if (Zatvor)\n\t\t\t\t{\n\t\t\t\t Zatvor=0;\n\t\t\t\t return;\n\t\t\t\t}\n\t\t\t\t\t\t/*if (Stend->TCom==0)\n\t\t\t{\n\t\t\t\t if (Stend->ChekCon(1000,osob))\n\t\t\t\t {\n\t\t\t\t\tShowMessage(\"Подключить кабели к каналу \" + IntToStr(osob));\n\t\t\t\t\t\t// return;\n\t\t\t\t }\n\t\t\t}*/        //NOTE: SET T2 @INI (2)\n\t\t\tSelectedRect.Left=osob; //Левая граница\n\t\t\tSelectedRect.Top=1; //Верхняя граница\n\t\t\tSelectedRect.Right=osob; //Правая граница\n\t\t\tSelectedRect.Bottom=1; //Нижняя граница\n\t\t\tStringGrid6->Selection = SelectedRect;\n\t\t\tStringGrid6->Cells[osob][1] =  FormSH->Stend->GeinAnGen(1750.0,255.0,0,0,FormSH->Stend->TCom,osob,0)+FormSH->Stend->CTbl[2];\n\t\t\tparam = \"Kp\" +  IntToStr(osob) + \"_1750\";\n\t\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl2\",param.c_str(),StringGrid6->Cells[osob][1].ToDouble());\n\t\t\tApplication->ProcessMessages();\n\t}\n\t\t//Kpdelta(StringGrid6, 1);\n\t\t//param = \"KpDEL1\" ;\n\t\t//FormSH->MemINI->TWriteDouble(ComboBox4->ItemIndex,\"Tabl2\",param.c_str(),StringGrid6->Cells[17][1].ToDouble());\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::StringGrid6DblClick(TObject *Sender)\n{\n\t\tStringGrid6->Cells[i][1] =  /*11;*/FormSH->Stend->GeinAnGen(1750.0,255.0,0,0,FormSH->Stend->TCom,i,0)+FormSH->Stend->CTbl[2];\n\t\tparam = \"Kp\" +  IntToStr(i) + \"_1750\";\n\t\tFormSH->MemINI->TWriteDouble(ComboBox10->ItemIndex,\"Tabl2\",param.c_str(),StringGrid6->Cells[i][1].ToDouble());\n\t\tApplication->ProcessMessages();\n\n\t\t//Kpdelta(StringGrid6, 1);\n\t\t//Kpdelta(StringGrid7, i);\n\t\t//param = \"KpDEL1\" ;\n\t\t//FormSH->MemINI->TWriteDouble(ComboBox4->ItemIndex,\"Tabl2\",param.c_str(),StringGrid6->Cells[17][1].ToDouble());\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::StringGrid6SelectCell(TObject *Sender, int ACol, int ARow,\n          bool &CanSelect)\n{\n\t\t//FUNC: IJ @MEAS (2)\n\t\ti = ACol;\n\t\tj = ARow;\n\t\t\t\tif (i==0|i==17)\n\t\t{\n\t\t\ti = 1;\n\t\t}\n\t\t\t\tif (j==0)\n\t\t{\n\t\t\tj = 1;\n\t\t}\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::AdvPageControl1Change(TObject *Sender)\n{\n\t\t\t switch (AdvPageControl1->ActivePageIndex)\n\t{   \t/* case 1:\n\t\t\t   ComboBox15Change(Sender);\n\t\t\t break;\n\t\t\t case 2:\n\t\t\t   ComboBox_JGMFC2Change(Sender);\n\t\t\t break;\n\n\t\t\t*/\n\t\t\t case 2:\n\t\t  /*\tswitch (ComboBox12->ItemIndex)\n\t\t\t{\n\t\t\t\t  case 6:\n\t\t\t\t  ADR = 0XD;\n\t\t\t\t switch (osob)\n\t\t\t\t {\n\t\t\t\t\t  case 1: Kanal =  20;  break;\n\t\t\t\t\t  case 2: Kanal =  21;  break;\n\t\t\t\t }\n\t\t\t\t break;\n\n\t\t\t\t  default :  Kanal = ComboBox12->ItemIndex*2 + osob;ADR = ComboBox12->ItemIndex;break;\n\t\t\t}\n\t\t\t Stend->VstendeBL3VK1->FriqSET(40,false,0,0,Kanal);    // дел на 0   FriqSET(double Fin1,bool Ampl,int DB1,int DB2,int Kanal)\n\t\t\t */\n\n\t\t\t/*-------------------------------------------------------------------------------------\n\t\t\t MemINI->MPAthSet(\"BL3VK1.ini\"); //= new OPTIONS_BASE(\"BL3VK1.ini\");\n\n\n\t\t\t ComboBox13->ItemIndex = MemINI->ReadDouble(\"Protokol\",\"ProtokolIt\",0);\n\t\t\t ComboBox14->ItemIndex = MemINI->ReadDouble(\"Protokol\",\"Mod3VK6It\",0);\n\n\t\t\t Protokol = \"Protokol\"+ IntToStr(ComboBox13->ItemIndex);\n\t\t\t Modul = \"Modul\"+ IntToStr(ComboBox14->ItemIndex);\n\t\t\t PathINI = MemINI->TReadString(0,Protokol.c_str(),Modul.c_str(), \"\" );  //  ExtractFileDir(ParamStr(0)) + \"\\\\RPU16_.ini\"\n\n\n\t\t\t\t   if (PathINI==\"\")\n\t\t\t{\n\t\t\t MemINI->TWriteString(0,Protokol.c_str(),Modul.c_str(), ExtractFileDir(ParamStr(0)) + \"\\\\MOD3VK6_.ini\");\n\t\t\t MemINI->WriteDouble(\"Protokol\",\"ProtokolIt\",ComboBox13->ItemIndex);\n\t\t\t MemINI->WriteDouble(\"Protokol\",\"Mod3VK6It\",ComboBox14->ItemIndex);\n\n\t\t\t}\n\t\t\t PathINI = MemINI->TReadString(0,Protokol.c_str(),Modul.c_str(), \"\" );\n\t\t\t MemINI->PAthSet(PathINI);\n\t\t\t MemINI->WriteDouble(\"Priemka\",\"Tipe\", ComboBox11->ItemIndex);\n\t\t\t//MemINI->WriteDouble(\"Osnastka\",\"Tipe\", ComboBox12->ItemIndex);\n\n\t\t\t Rel3VK6INI();\n\n              ------------------------------------------------------------------------------*/\n\t\t\t break;\n\t\t\t/* case 4:       //FUNC 3Вк1PageContr @INI (0)\n\t\t\t // ADR = 0;\n\t\t\t Stend->VstendeBL3VK1->blTupe = 0;\n\t\t\t Stend->jgut = false;\n\t\t\t Stend->VstendeBL3VK1->ModulFCH1->AdrSet(0);\n\t\t\t Stend->VstendeBL3VK1->ModulFCH2->AdrSet(0);\n\t\t\t MemINI->MPAthSet(\"BL3VK1.ini\"); //= new OPTIONS_BASE(\"BL3VK1.ini\");\n\t\t\t PathINI = MemINI->TReadString(0,\"Blok\",\"Path\", \"\" );  //  ExtractFileDir(ParamStr(0)) + \"\\\\RPU16_.ini\"\n\t\t\t\t   if (PathINI==\"\")\n\t\t\t {\n\t\t\t\tMemINI->TWriteString(0,\"Blok\",\"Path\", ExtractFileDir(ParamStr(0)) + \"\\\\BL3VK1_.ini\");\n\t\t\t }\n\t\t\t PathINI = MemINI->TReadString(0,\"Blok\",\"Path\", \"\" );\n\t\t\t MemINI->PAthSet(PathINI); // ComboBox1->ItemIndex = MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n\t\t\t Form1->StatusBar1->Panels->Items[0]->Text = \"3Вк1 \" + IntToStr((int)Stend->VstendeBL3VK1->ReadBlokSN());\n\t\t\t RelBlok3Vk1INI(ComboBox4->ItemIndex);\n\t\t\t break;\n\n\t\t\t case 5:\n\n\t\t\t Modul = \"\\\\MFC1_\";\n\t\t\t CuMod = \"CuModFC1\";\n\t\t\t MemINI->MPAthSet(\"BL3VK1.ini\"); //= new OPTIONS_BASE(\"BL3VK1.ini\");\n\t\t\t PathINI = MemINI->TReadString(0,\"CuModFC1\",\"Path\", \"\" );  //  ExtractFileDir(ParamStr(0)) + \"\\\\RPU16_.ini\"\n\t\t\t\t   if (PathINI==\"\")\n\t\t\t  {\n\t\t\t\t MemINI->TWriteString(0,\"CuModFC1\",\"Path\", ExtractFileDir(ParamStr(0)) + \"\\\\MFC1_.ini\");\n\t\t\t\t PathINI = MemINI->TReadString(0,\"CuModFC1\",\"Path\", \"\" );\n\t\t\t\t MemINI->PAthSet(PathINI);\n\t\t\t\t MemINI->WriteDouble(\"Priemka\",\"Tipe\", ComboBox10->ItemIndex);\n\t\t\t\t MemINI->WriteDouble(\"Osnastka\",\"Tipe\", ComboBox9->ItemIndex);\n\t\t\t  }\n\t\t\t PathINI = MemINI->TReadString(0,\"CuModFC1\",\"Path\", \"\" );\n\t\t\t MemINI->PAthSet(PathINI); // ComboBox1->ItemIndex = MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n\t\t\t //ComboBox10->ItemIndex = MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n\t\t\t RelMFC1INI();\n\t\t\t\t switch (ComboBox9->ItemIndex)\n\t\t\t\t{\n\t\t\t\t case 0:\n\t\t\t\t ADR = 0XD;\n\t\t\t\t break;\n\t\t\t\t case 1:\n\t\t\t\t ADR = 0XE;\n\t\t\t\t break;\n\t\t\t\t}\n\t\t\t Form1->StatusBar1->Panels->Items[0]->Text = \"МФЧ1 \"+ IntToStr(Stend->VstendeBL3VK1->ReadSN_Ver(ADR));\n\t\t\t break;\n\n\t\t\t case 6:\n\t\t\t SpeedButton1->Down = false;\n\t\t\t SpeedButton1Click(Sender);\n\t\t\t Modul = \"\\\\MFC2_\";\n\t\t\t CuMod = \"CuModFC2\";\n\t\t\t MemINI->MPAthSet(\"BL3VK1.ini\"); //= new OPTIONS_BASE(\"BL3VK1.ini\");\n\t\t\t PathINI = MemINI->TReadString(0,\"CuModFC2\",\"Path\", \"\" );  //  ExtractFileDir(ParamStr(0)) + \"\\\\RPU16_.ini\"\n\t\t\t\t   if (PathINI==\"\")\n\t\t\t  {\n\t\t\t\t MemINI->TWriteString(0,\"CuModFC2\",\"Path\", ExtractFileDir(ParamStr(0)) + \"\\\\MFC2_.ini\");\n\t\t\t\t PathINI = MemINI->TReadString(0,\"CuModFC2\",\"Path\", \"\" );\n\t\t\t\t MemINI->PAthSet(PathINI);\n\t\t\t\t MemINI->WriteDouble(\"Priemka\",\"Tipe\", ComboBox8->ItemIndex);\n\t\t\t\t MemINI->WriteDouble(\"Osnastka\",\"Tipe\", ComboBox5->ItemIndex);\n\t\t\t  }\n\t\t\t PathINI = MemINI->TReadString(0,\"CuModFC2\",\"Path\", \"\" );\n\t\t\t MemINI->PAthSet(PathINI); // ComboBox1->ItemIndex = MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n\t\t\t ComboBox8->ItemIndex = MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n\t\t\t RelMFC2INI(ComboBox8->ItemIndex);\n\t\t\t\t switch (ComboBox5->ItemIndex)\n\t\t\t\t{\n\t\t\t\t case 0:\n\t\t\t\t ADR = 0XD;\n\t\t\t\t break;\n\t\t\t\t case 1:\n\t\t\t\t ADR = 0XF;\n\t\t\t\t break;\n\t\t\t\t}\n\t\t\t Form1->StatusBar1->Panels->Items[0]->Text = \"МФЧ2 \"+ IntToStr(Stend->VstendeBL3VK1->ReadSN_Ver(ADR));\n\t\t\t break;\n\n\t\t\t case 7:    //3Вк11PageContr\n\t\t\t Stend->VstendeBL3VK1->blTupe = 1;\n\t\t\t Stend->jgut = false;\n             MemINI->MPAthSet(\"BL3VK1.ini\"); //= new OPTIONS_BASE(\"BL3VK1.ini\");\n\t\t\t PathINI = MemINI->TReadString(0,\"Blok11\",\"Path\", \"\" );  //  ExtractFileDir(ParamStr(0)) + \"\\\\RPU16_.ini\"\n\t\t\t\t   if (PathINI==\"\")\n\t\t\t {\n\t\t\t\tMemINI->TWriteString(0,\"Blok11\",\"Path\", ExtractFileDir(ParamStr(0)) + \"\\\\BL3VK11_.ini\");\n\t\t\t }\n\t\t\t PathINI = MemINI->TReadString(0,\"Blok11\",\"Path\", \"\" );\n\t\t\t MemINI->PAthSet(PathINI); // ComboBox1->ItemIndex = MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n\t\t\t Form1->StatusBar1->Panels->Items[0]->Text = \"3Вк11 \" + IntToStr((int)Stend->VstendeBL3VK1->ReadBlokSN());\n\t\t\t RelBlok3Vk11INI(ComboBox20->ItemIndex);\n\t\t\t break;\n\t\t\t  default : break; */\n\t\t}\n\t\t i=1;\n\t\t j=1;\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::Button11Click(TObject *Sender)\n{\n          OpenDialog1->FilterIndex = 1;\n//\n//\n\t\tif (!OpenDialog1->Execute()) return;\n//\n\t\t   FormSH->DEFPath();\n\t\t   FormSH->MemINI->TWriteString(0,\"Blok\",\"Path\", OpenDialog1->FileName);\n\t\t   FormSH->MemINI->PAthSet(OpenDialog1->FileName);\n\t\t   ComboBox10->ItemIndex = FormSH->MemINI->ReadDouble(\"Priemka\",\"Tipe\",0);\n//\n//\n\ti=1;\n\tj=1;\n//\n RelBlokRRINI(ComboBox10->ItemIndex);\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::ComboBox10Change(TObject *Sender)\n{\n\tFormSH->MemINI->WriteDouble(\"Priemka\",\"Tipe\",ComboBox10->ItemIndex);\n\tRelBlokRRINI(ComboBox10->ItemIndex);\n\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::btn1Click(TObject *Sender)\n{\n       Zatvor=1;\n}\n//---------------------------------------------------------------------------\n\nvoid __fastcall TForm1::N2Click(TObject *Sender)\n{   //StBlock->SetFreq(FrGen,0,ATT1,ATT2,ATT2,Kanal,63,PARAM);\n\tswitch (j)\n\t{\n\tcase 1:  BLOK37->SetFreq(30,0,0,0,0,i,63,1);\n\tbreak;\n\tcase 2:  BLOK37->SetFreq(1000,0,0,0,0,i,63,1);\n\tbreak;\n\tcase 3:  BLOK37->SetFreq(1750,0,0,0,0,i,63,1);\n\tbreak;\n\tcase 4:  BLOK37->SetFreq(2200,0,0,0,0,i,63,1);\n\tbreak;\n\tdefault: BLOK37->SetFreq(1000,0,0,0,0,i,63,1);   break;\n\t}\n\t\n}\n//---------------------------------------------------------------------------\n\n",
+			"file": "/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.cpp",
+			"file_size": 53831,
+			"file_write_time": 132942487737435998,
+			"settings":
+			{
+				"buffer_size": 52334,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Super-Calculator/Main.sublime-menu",
+			"settings":
+			{
+				"buffer_size": 3846,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.cpp",
+			"settings":
+			{
+				"buffer_size": 2414,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.h",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "MFC1RR.cpp",
+			"settings":
+			{
+				"buffer_size": 17086,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -375,6 +427,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"nu",
+				"Insert Nums"
+			],
 			[
 				"comp",
 				"Sublimerge: Compare to View..."
@@ -721,10 +777,25 @@
 	"expanded_folders":
 	[
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350",
-		"/D/Docum/Progekts/EMBARCADERO/CR22350"
+		"/D/Docum/Progekts/EMBARCADERO/Klasses",
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem"
 	],
 	"file_history":
 	[
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Super-Calculator/README.md",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Super Calculator/Super Calculator.sublime-settings",
+		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Modific/README.md",
+		"/D/TempVMshare/Solid/ArduinoPRG/Klasses/MicroShem/MHMC394.cpp",
+		"/D/TempVMshare/Solid/ArduinoPRG/Klasses/MicroShem/MHMC394.h",
+		"/D/TempVMshare/Solid/ArduinoPRG/Klasses/Kanal22350/MFC1RR.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/CR22350/DiapazonSearch.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.cpp",
+		"/D/Docum/Progekts/EMBARCADERO/CR22350/Unit2.cpp",
+		"/D/TempVMshare/Solid/ArduinoPRG/ST2235/Unit1.cpp",
+		"/D/USERS2/а.txt",
+		"/F/Dokuments/Быкадоров/шекель.txt",
+		"/D/TempVMshare/Solid/ArduinoPRG/ST2235/Proj235.cbproj",
+		"/F/Dokuments/Быкадоров/git.txt",
 		"/D/Docum/Progekts/EMBARCADERO/CR22350/PROG22350.cbproj",
 		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/PRCH051.cbproj",
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/BL3CR37.h",
@@ -741,7 +812,6 @@
 		"/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.h",
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/Kanal2235.h",
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/Kanal2235.cpp",
-		"/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.cpp",
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/Kanal22350/BL3CR37.cpp",
 		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.cpp",
 		"/D/Docum/Progekts/EMBARCADERO/RPURR/Unit1.h",
@@ -752,9 +822,7 @@
 		"/D/TempVMshare/Комплектация/Источник_питания/Коммутатор/40А fuse is smaller and beatifull/Power_Multiplexer.txt",
 		"/D/TempVMshare/Комплектация/Источник_питания/новые детали в базу/ТМЛ-10-8-5.pdf",
 		"/D/TempVMshare/Electronics/Excel/Формула.txt",
-		"/F/Dokuments/Быкадоров/шекель.txt",
 		"/F/Dokuments/Быкадоров/4663.txt",
-		"/F/Dokuments/Быкадоров/git.txt",
 		"/D/TempVMshare/Install/Программирование/БД/EntityDAC_Delphi/AsInsert.pas",
 		"/D/TempVMshare/Водоканал/Заявление ГВ пломба",
 		"/D/TempVMshare/rostov_2018-01-30/pv.txt",
@@ -837,22 +905,11 @@
 		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Прогрузка ~1.txt",
 		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Шаг3.txt",
 		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Sublimerge 3/Default (Windows).sublime-keymap",
-		"/D/USERS2/а.txt",
 		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Исходник.txt",
 		"/C/Users/bikadorov/AppData/Local/Mindjet/MindManager/20/Temp/tmp (13)/Порядок пр~1.txt",
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.h",
 		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/BLKPRC51.h",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051FCH.todo",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/BLKPRC51.cpp",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.cpp",
-		"/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/Example.sublime-keymap",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/FCHPERENOS.cpp",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051.sublime-project",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.cpp",
-		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit1.cpp",
-		"/D/Docum/Progekts/EMBARCADERO/ПРЧ051/Unit2.cpp",
-		"/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/LMX2594.h",
-		"/C/Users/bikadorov/Desktop/A_test_log.txt"
+		"/D/Docum/Progekts/EMBARCADERO/Klasses/PRC051/PRC051FCH.todo"
 	],
 	"find":
 	{
@@ -876,6 +933,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"BLOK37->MFC1->Set394(20)",
+			"DEVFC1R[1].F394",
+			"Kluch(",
+			"DEVFC1R[1].F394",
+			"DEVFC1R[2].F394",
+			"Form1->BLOKRR",
+			"BLOK37->LoadRPURR()",
+			"LoadB",
+			"Load",
+			"BL3CR37->",
+			"BLOKRR->",
+			"(FloatToStr",
+			"POINT",
+			"NumDapazon",
+			"Form4->Polosa[i].",
 			"case",
 			"189",
 			"//",
@@ -988,22 +1060,7 @@
 			"2,Fin",
 			"1,Fin",
 			"LNAD",
-			"break;",
-			";break;",
-			"Fin1, Ampl, DB1, DB2)",
-			"ModulDG2->SeFriq(",
-			"FriqSET",
-			";",
-			"PRES",
-			"SeFriq",
-			"for",
-			" while",
-			"Kanal",
-			"268",
-			"SetFriq",
-			"i+1",
-			"REG[78]",
-			"dlgSave1"
+			"break;"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1011,6 +1068,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"Form1->BLOK37",
+			"BLOK37->BLOK37",
+			"BLOK37->LoadBL3CR37()",
+			"BLOK37->",
+			"BL3CR37->",
 			"BL3CR37",
 			"Этап",
 			"TPRC51->DLMX2594",
@@ -1047,13 +1109,214 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/D/Docum/Progekts/EMBARCADERO/CR22350/Unit1.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 52334,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24378,
+								24384
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "3f90a3b4",
+							"encoding_helper_encoding": "CP1251",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								12465.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 12465.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/bikadorov/AppData/Roaming/Sublime Text 3/Packages/Super-Calculator/Main.sublime-menu",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								635,
+								651
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "json",
+							"buffer_scroll_name": "7d0c191f",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"syncScroll": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1506,
+								1506
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "d0d76640",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								127.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 721.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/Docum/Progekts/EMBARCADERO/Klasses/MicroShem/MHMC394.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "bac56f5f",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								0.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 4,
+					"file": "MFC1RR.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12545,
+								12545
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "2a1493f0",
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"origPos":
+							[
+								0.0,
+								4887.0
+							],
+							"spell_check": false,
+							"syncScroll": false,
+							"syntax": "Packages/cppStartingKit/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4887.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1085,7 +1348,7 @@
 		"cols":
 		[
 			0.0,
-			0.533788088017,
+			0.680141985267,
 			1.0
 		],
 		"rows":
@@ -1165,7 +1428,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 87.0,
+	"side_bar_width": 315.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
