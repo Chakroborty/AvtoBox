@@ -22,7 +22,7 @@
 #include "usbd_cdc_if.h"
 
 /* USER CODE BEGIN INCLUDE */
-
+#include "main.h"
 /* USER CODE END INCLUDE */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -49,7 +49,8 @@
   */
 
 /* USER CODE BEGIN PRIVATE_TYPES */
-
+extern uint8_t priznak;
+extern uint8_t spi_buf[5];
 /* USER CODE END PRIVATE_TYPES */
 
 /**
@@ -256,27 +257,59 @@ static int8_t CDC_Control_FS(uint8_t cmd, uint8_t* pbuf, uint16_t length)
   * @param  Len: Number of data received (in bytes)
   * @retval Result of the operation: USBD_OK if all operations are OK else USBD_FAIL
   */
-int i;
 static int8_t CDC_Receive_FS(uint8_t* Buf, uint32_t *Len)
 {
   /* USER CODE BEGIN 6 */
   USBD_CDC_SetRxBuffer(&hUsbDeviceFS, &Buf[0]);
-   // HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+
+   if (priznak==0)
+   {
+	  //return 0;
+
+	priznak = 1;
+    uint8_t llen = (uint8_t) *Len;
+    memcpy (spi_buf, Buf, llen);
+     //return 1;
+ }
 
 
-	HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-	for (i = 0; i < 3000000; ++i) {
 
-	}
 
-	HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-	for (i = 0; i < 3000000; ++i) {
+//   int i;
+//int m;
+//  	  	  for (i=0; i<8; i++)
+//	{
+//	if (Buf[0] & 0x80)	// SET 1
+//	{
+//		HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_SET);//IOC|=0x01;     PD5	-- SDIO	-- SDIO
+//	}
+//	else				      // SET 0
+//	{
+//		HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET);//IOC&=0xfe;     PD5	-- SDIO	-- SDIO
+//	};
+//
+//		for (m = 0; m < 1000000; ++m) {		}
+//
+//
+//	Buf[0]<<=1;
+//	};
 
-		}
-	HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
-	for (i = 0; i < 3000000; ++i) {
 
-		}
+//	HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+//	for (i = 0; i < 3000000; ++i) {
+//
+//	}
+//
+//	HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+//	for (i = 0; i < 3000000; ++i) {
+//
+//		}
+//	HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+//	for (i = 0; i < 3000000; ++i) {
+//
+//		}
+
+
 // for (tmp = 10; tmp > 0; tmp--);
 //  HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
 // HAL_Delay(500);
