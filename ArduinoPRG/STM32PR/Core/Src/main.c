@@ -27,7 +27,10 @@
 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
- uint8_t spi_buf[5] = {0xAA,0xBB,0xCC,0xDD,0xFF};
+ uint8_t spi_buf[6] = {0xAA,0xBB,0xCC,0xDD,0xFF,0x00};
+ uint8_t spi_OUT[4];
+ uint8_t spi_func[1];
+ uint8_t NBUTE[1];
  uint8_t priznak = 0;
 /* USER CODE END PTD */
 
@@ -52,6 +55,9 @@ SPI_HandleTypeDef hspi1;
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 static void MX_SPI1_Init(void);
+
+void delay(uint32_t time_delay);
+
 /* USER CODE BEGIN PFP */
 
 /* USER CODE END PFP */
@@ -121,15 +127,35 @@ int main(void)
 */
 	  	  if (priznak == 1)
 	{
-		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET);
+	  		switch(spi_func[0])
+	 { case 0:
+	  	//HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET);
 	  	//HAL_Delay(10);
-		HAL_SPI_Transmit(&hspi1,spi_buf, 5, 100);
-		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET);
-		//HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
+		SPI1->CR1|= SPI_CR1_SPE;
+/******************************************************************/
+	  	HAL_SPI_Transmit(&hspi1,spi_OUT,NBUTE,100);
+/******************************************************************/
+		//HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET);
+		// HAL_SPI_DeInit(hspi);
+		SPI1->CR1 &= ~SPI_CR1_SPE;                       //Disable the SPI1  by setting the SPE bit to 0
+		break;
+		case 1: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_3, GPIO_PIN_SET);
+				delay(200);
+				HAL_GPIO_WritePin(GPIOA, GPIO_PIN_3, GPIO_PIN_RESET);break;
+		case 2: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, GPIO_PIN_SET);
+				delay(200);
+		        HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, GPIO_PIN_RESET);break;
+		default:SPI1->CR1|= SPI_CR1_SPE;
+/******************************************************************/
+	  			HAL_SPI_Transmit(&hspi1,spi_OUT,4,100);
+/******************************************************************/
+	  			SPI1->CR1 &= ~SPI_CR1_SPE;                       //Disable the SPI1  by setting the SPE bit to 0
+	  	break;
+	 }
 		priznak = 0;
 	}
     //SPI_I2S_SendData(SPI1, 0x80F1);
-   HAL_Delay(10);
+   HAL_Delay(5);
     /*while( !(SPI1->SR & SPI_I2S_FLAG_TXE) || SPI1->SR & SPI_I2S_FLAG_BSY );
     SPI_I2S_SendData(SPI1, 0x80F2);
     //delay (100000);
@@ -215,8 +241,8 @@ static void MX_SPI1_Init(void)
   hspi1.Init.DataSize = SPI_DATASIZE_8BIT;
   hspi1.Init.CLKPolarity = SPI_POLARITY_LOW;
   hspi1.Init.CLKPhase = SPI_PHASE_1EDGE;
-  hspi1.Init.NSS = SPI_NSS_SOFT;
-  hspi1.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_16;
+  hspi1.Init.NSS = SPI_NSS_HARD_OUTPUT;
+  hspi1.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_32;
   hspi1.Init.FirstBit = SPI_FIRSTBIT_MSB;
   hspi1.Init.TIMode = SPI_TIMODE_DISABLE;
   hspi1.Init.CRCCalculation = SPI_CRCCALCULATION_DISABLE;
@@ -251,7 +277,7 @@ static void MX_GPIO_Init(void)
   HAL_GPIO_WritePin(GPIOC, GPIO_PIN_13, GPIO_PIN_RESET);
 
   /*Configure GPIO pin Output Level */
-  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET);
+  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2|GPIO_PIN_3, GPIO_PIN_RESET);
 
   /*Configure GPIO pin : PC13 */
   GPIO_InitStruct.Pin = GPIO_PIN_13;
@@ -260,11 +286,11 @@ static void MX_GPIO_Init(void)
   GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_LOW;
   HAL_GPIO_Init(GPIOC, &GPIO_InitStruct);
 
-  /*Configure GPIO pin : PA4 */
-  GPIO_InitStruct.Pin = GPIO_PIN_4;
+  /*Configure GPIO pins : PA2 PA3 */
+  GPIO_InitStruct.Pin = GPIO_PIN_2|GPIO_PIN_3;
   GPIO_InitStruct.Mode = GPIO_MODE_OUTPUT_PP;
   GPIO_InitStruct.Pull = GPIO_NOPULL;
-  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_HIGH;
+  GPIO_InitStruct.Speed = GPIO_SPEED_FREQ_MEDIUM;
   HAL_GPIO_Init(GPIOA, &GPIO_InitStruct);
 
 /* USER CODE BEGIN MX_GPIO_Init_2 */
@@ -272,7 +298,11 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-
+void delay(uint32_t time_delay)
+{
+    uint32_t i;
+    for(i = 0; i < time_delay; i++);
+}
 /* USER CODE END 4 */
 
 /**
