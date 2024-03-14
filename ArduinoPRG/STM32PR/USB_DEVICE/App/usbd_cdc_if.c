@@ -50,8 +50,8 @@
 
 /* USER CODE BEGIN PRIVATE_TYPES */
 extern uint8_t priznak;
-extern uint8_t spi_buf[6];
-extern uint8_t spi_OUT[4];
+extern uint8_t spi_buf[7];
+extern uint8_t spi_OUT[5];
 extern uint8_t spi_func[1];
 extern uint8_t NBUTE[1];
 
@@ -271,13 +271,15 @@ static int8_t CDC_Receive_FS(uint8_t* Buf, uint32_t *Len)
 		priznak = 1;
 		uint8_t llen = (uint8_t) *Len;
 		memcpy(spi_buf, Buf, llen);
-		spi_func[0] = spi_buf[5];
-		NBUTE[0] = spi_buf[0];
-		spi_OUT[0] = spi_buf[1];
-		spi_OUT[1] = spi_buf[2];
-		spi_OUT[2] = spi_buf[3];
-		spi_OUT[3] = spi_buf[4];
-
+		spi_func[0] = spi_buf[6];
+		NBUTE[0] = spi_buf[5];
+		//memcpy(NBUTE[0], spi_buf[5], 1);
+		spi_OUT[0] = spi_buf[0];
+		spi_OUT[1] = spi_buf[1];
+		spi_OUT[2] = spi_buf[2];
+		spi_OUT[3] = spi_buf[3];
+		spi_OUT[4] = spi_buf[4];
+		//CDC_Transmit_FS(spi_buf, 7);
 		//spi_buf = (spi_buf << 8);
 		//return 1;
 	}
