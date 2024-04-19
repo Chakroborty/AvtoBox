@@ -1,4 +1,7 @@
 [
   "shortcuts-extender",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "obsidian-pandoc",
+  "obsidian-enhancing-export",
+  "convert-url-to-iframe"
 ]

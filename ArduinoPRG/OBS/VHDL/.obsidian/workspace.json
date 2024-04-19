@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Текстовый редактор.md",
+                "file": "Из видео.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Can",
+                "query": "https://www.youtube.com/watch?v=P_X9Id5YEeY&list=WL&index=39",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Текстовый редактор.md",
+                "file": "Из видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Текстовый редактор.md",
+                "file": "Из видео.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Текстовый редактор.md"
+                "file": "Из видео.md"
               }
             }
           }
@@ -138,16 +138,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
   "active": "777bef8403282955",
   "lastOpenFiles": [
+    "Текстовый редактор.md",
+    "Из видео.md",
+    "create a link.md",
     "Чр22350.md",
     "Aldec.md",
     "EASE HDL.md",
@@ -158,21 +161,18 @@
     "Pasted image 20240418095234.png",
     "Precision.md",
     "Управление КВ.md",
-    "Текстовый редактор.md",
     "Реферировать книги и статьи.md",
     "ПРЧ  Модуль 3ЧР41.md",
     "Преселектор.md",
     "ПЛИС.md",
     "Инструменты синтеза.md",
     "Инструменты моделирования.md",
-    "Из видео.md",
     "Заметочник.md",
     "Блок 3Чр34.md",
     "Библиотека.md",
     "2024-04-18.md",
     "Welcome.md",
     "VHDPlus   IDE.md",
-    "create a link.md",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Riviera.md",
     "Synplify.md",
