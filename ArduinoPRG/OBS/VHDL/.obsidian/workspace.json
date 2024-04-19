@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Из видео.md",
+                "file": "Текстовый редактор.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "пЛА",
+                "query": "Can",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Из видео.md",
+                "file": "Текстовый редактор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Из видео.md",
+                "file": "Текстовый редактор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +126,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Из видео.md"
+                "file": "Текстовый редактор.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,22 +146,34 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "5a861eef959a546b",
+  "active": "777bef8403282955",
   "lastOpenFiles": [
-    "Текстовый редактор.md",
-    "Из видео.md",
-    "ПЛИС.md",
-    "EASE HDL.md",
-    "Инструменты моделирования.md",
-    "ISIM, XSIM.md",
+    "Чр22350.md",
     "Aldec.md",
-    "2024-04-18.md",
-    "ПРЧ  Модуль 3ЧР41.md",
-    "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
-    "Управление КВ.md",
-    "Преселектор.md",
+    "EASE HDL.md",
+    "ISIM, XSIM.md",
+    "Matlab.md",
+    "Obsidian.md",
+    "OBSIDIAN linc.pdf",
+    "Pasted image 20240418095234.png",
     "Precision.md",
+    "Управление КВ.md",
+    "Текстовый редактор.md",
+    "Реферировать книги и статьи.md",
+    "ПРЧ  Модуль 3ЧР41.md",
+    "Преселектор.md",
+    "ПЛИС.md",
     "Инструменты синтеза.md",
+    "Инструменты моделирования.md",
+    "Из видео.md",
+    "Заметочник.md",
+    "Блок 3Чр34.md",
+    "Библиотека.md",
+    "2024-04-18.md",
+    "Welcome.md",
+    "VHDPlus   IDE.md",
+    "create a link.md",
+    "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Riviera.md",
     "Synplify.md",
     "Без названия.canvas",
@@ -171,19 +182,6 @@
     "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb",
     "History",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.prjpcb",
-    "Чр22350.md",
-    "Блок 3Чр34.md",
-    "Obsidian.md",
-    "Pasted image 20240418095234.png",
-    "Welcome.md",
-    "VHDPlus   IDE.md",
-    "Scrivener.md",
-    "OBSIDIAN linc.pdf",
-    "Matlab.md",
-    "Zettelkasten.md",
-    "Реферировать книги и статьи.md",
-    "create a link.md",
-    "Заметочник.md",
     "ПРОСТОТА_ создание HDL и набор инструментов.pdf"
   ]
 }
