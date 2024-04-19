@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ПЛИС.md",
+                "file": "Из видео.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Обзор",
+                "query": "пЛА",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ПЛИС.md",
+                "file": "Из видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ПЛИС.md",
+                "file": "Из видео.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ПЛИС.md"
+                "file": "Из видео.md"
               }
             }
           }
@@ -147,16 +147,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "777bef8403282955",
+  "active": "5a861eef959a546b",
   "lastOpenFiles": [
+    "Текстовый редактор.md",
+    "Из видео.md",
+    "ПЛИС.md",
     "EASE HDL.md",
     "Инструменты моделирования.md",
     "ISIM, XSIM.md",
     "Aldec.md",
     "2024-04-18.md",
-    "Текстовый редактор.md",
     "ПРЧ  Модуль 3ЧР41.md",
-    "ПЛИС.md",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Управление КВ.md",
     "Преселектор.md",
@@ -183,7 +184,6 @@
     "Реферировать книги и статьи.md",
     "create a link.md",
     "Заметочник.md",
-    "Библиотека.md",
     "ПРОСТОТА_ создание HDL и набор инструментов.pdf"
   ]
 }

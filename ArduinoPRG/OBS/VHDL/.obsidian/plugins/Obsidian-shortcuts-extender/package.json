@@ -1,0 +1,37 @@
+{
+  "name": "shortcuts-extender",
+  "version": "2.2.0",
+  "description": "Use shortcuts for text formatting or input special symbols without language switching",
+  "main": "main.js",
+  "scripts": {
+    "dev": "rollup --config rollup.config.js -w",
+    "build": "rollup --config rollup.config.js",
+    "release": "standard-version"
+  },
+  "keywords": [],
+  "author": "kitchenrunner",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^15.1.0",
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "@rollup/plugin-typescript": "^6.0.0",
+    "@types/node": "^14.14.2",
+    "obsidian": "https://github.com/obsidianmd/obsidian-api/tarball/master",
+    "prettier": "2.1.2",
+    "rollup": "^2.32.1",
+    "standard-version": "^9.0.0",
+    "tslib": "^2.0.3",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "supports-color": "^7.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryjjin/Obsidian-shortcuts-extender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ryjjin/Obsidian-shortcuts-extender/issues"
+  },
+  "homepage": "https://github.com/ryjjin/Obsidian-shortcuts-extender#readme"
+}
