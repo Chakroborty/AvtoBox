@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "8b0440f08d692a10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074040dbc6030b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,6 +176,8 @@
   },
   "active": "05a51a980937eac7",
   "lastOpenFiles": [
+    "hqdefault 1.webp",
+    "hqdefault.webp",
     "Управление КВ.md",
     "create a link.md",
     "Инструменты синтеза.md",
@@ -186,7 +206,6 @@
     "VHDPlus   IDE.md",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Riviera.md",
-    "Synplify.md",
     "Без названия.canvas",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",
     "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb.Zip",
