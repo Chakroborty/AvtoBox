@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Here Is How I Use Tags.md",
+                "file": "Nik Milo.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Here Is How I Use Tags.md",
+                "file": "Nik Milo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Here Is How I Use Tags.md",
+                "file": "Nik Milo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Here Is How I Use Tags.md"
+                "file": "Nik Milo.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,6 +158,7 @@
   },
   "active": "86b5c5ebd8b97c17",
   "lastOpenFiles": [
+    "Pasted image 20240422012849.png",
     "Obsidian.md",
     "Here Is How I Use Tags.md",
     "Nik Milo.md",
@@ -187,7 +189,6 @@
     "Преселектор.md",
     "Заметочник.md",
     "Блок 3Чр34.md",
-    "Библиотека.md",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Без названия.canvas",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",
