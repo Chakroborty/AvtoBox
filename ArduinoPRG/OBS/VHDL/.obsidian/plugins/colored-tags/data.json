@@ -1,0 +1,24 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "PARA": 1,
+    "MOCs": 2,
+    "Обзор": 3,
+    "Ключевые_слова": 4,
+    "Сноски": 5,
+    "Встроенный_код": 6,
+    "Структура_каталого": 7,
+    "Редактирование_кода": 8,
+    "Plugins": 9
+  },
+  "_version": 3
+}
