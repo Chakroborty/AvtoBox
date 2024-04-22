@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Plugins",
+                "query": "Поз",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,21 +147,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "86b5c5ebd8b97c17",
+  "active": "777bef8403282955",
   "lastOpenFiles": [
+    "Преселектор.md",
+    "Nik Milo.md",
     "Pasted image 20240422012849.png",
     "Obsidian.md",
     "Here Is How I Use Tags.md",
-    "Nik Milo.md",
     "Фильтр полосовой.md",
     "ПРЧ  Модуль 3ЧР41.md",
     "Aldec.md",
@@ -186,7 +187,6 @@
     "Pasted image 20240418095234.png",
     "Precision.md",
     "Реферировать книги и статьи.md",
-    "Преселектор.md",
     "Заметочник.md",
     "Блок 3Чр34.md",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",

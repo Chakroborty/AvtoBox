@@ -1,4 +1,6 @@
 
+[[My Best Obsidian Plugins]]
+[[10 Plugis and  3 Themes]]
 [10 плагинов и 3 темы для Obsidian: делаем из приложения конфетку](https://fedorovpishet.ru/pimp-my-obsidian/)
 ![[hqdefault.webp]]
 
@@ -9,8 +11,8 @@
 
 [Here Is How I Use Tags 🏷️ And Links 🔗️ In Obsidian To Manage My Zettelkasten 📝️](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=1095s&pp=gAQBiAQB "Here Is How I Use Tags 🏷️ And Links 🔗️ In Obsidian To Manage My Zettelkasten 📝️")
 
-[[Nik Milo]]
-[[ Here Is How I Use Tags]]
+# [[Nik Milo]]
+# [[ Here Is How I Use Tags]]
 [Every USEFUL Markdown Syntax That I Use in Obsidian](https://www.youtube.com/watch?v=d8fXEhWy_rY&list=WL&index=55&t=6s&pp=gAQBiAQB "Every USEFUL Markdown Syntax That I Use in Obsidian")
 ![[hqdefault 1.webp]]
 [Plugins I use in Obsidian for book writing](https://www.youtube.com/watch?v=t979dOEgBAk&list=WL&index=42&t=488s&pp=gAQBiAQB "Plugins I use in Obsidian for book writing")
