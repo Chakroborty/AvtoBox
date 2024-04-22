@@ -1,7 +1,7 @@
 {
   "strategy": "default",
   "cedictPath": "./cedict_ts.u8",
-  "matchStrategy": "partial",
+  "matchStrategy": "prefix",
   "fuzzyMatch": true,
   "minFuzzyMatchScore": 0.5,
   "matchingWithoutEmoji": true,
@@ -31,8 +31,7 @@
     "select": [
       {
         "modifiers": [],
-        "key": "Enter",
-        "hideHotkeyGuide": false
+        "key": "Enter"
       }
     ],
     "select with custom alias": [],
@@ -58,20 +57,14 @@
     "select 8th": [],
     "select 9th": [],
     "open": [],
-    "completion": [
-      {
-        "modifiers": [],
-        "key": "Spase",
-        "hideHotkeyGuide": false
-      }
-    ],
+    "completion": [],
     "insert as text": []
   },
   "propagateEsc": false,
   "enableCurrentFileComplement": true,
   "currentFileMinNumberOfCharacters": 0,
   "onlyComplementEnglishOnCurrentFileComplement": false,
-  "enableCurrentVaultComplement": true,
+  "enableCurrentVaultComplement": false,
   "currentVaultMinNumberOfCharacters": 0,
   "includeCurrentVaultPathPrefixPatterns": "",
   "excludeCurrentVaultPathPrefixPatterns": "",

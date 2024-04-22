@@ -1,11 +1,16 @@
 [
   "shortcuts-extender",
   "highlightr-plugin",
-  "obsidian-pandoc",
   "obsidian-enhancing-export",
   "convert-url-to-iframe",
   "obsidian-markdown-formatting-assistant-plugin",
   "colored-tags",
   "obsidian-enhancing-mindmap",
-  "various-complements"
+  "various-complements",
+  "url-into-selection",
+  "note-refactor-obsidian",
+  "hotkeysplus-obsidian",
+  "obsidian-pandoc",
+  "obsidian-pandoc-reference-list",
+  "text-snippets-obsidian"
 ]
