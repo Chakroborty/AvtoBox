@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "efb11bee9c7282b6",
+    "id": "706598fd891d3a07",
     "type": "split",
     "children": [
       {
-        "id": "f7d5052e9148e1d8",
+        "id": "3b89e1900d25d356",
         "type": "tabs",
         "children": [
           {
-            "id": "86b5c5ebd8b97c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Nik Milo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83140f5cd6532dd1",
+            "id": "4e7d2e98a39abd5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,22 +19,21 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ab199cd03f8cc6b9",
+    "id": "934d75cd1f8a0072",
     "type": "split",
     "children": [
       {
-        "id": "8c5802d251921064",
+        "id": "2b39ae1f7a1fe9ec",
         "type": "tabs",
         "children": [
           {
-            "id": "c34baa133b5be21d",
+            "id": "1bcae553cbf8eec4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "777bef8403282955",
+            "id": "5f013bdbaff62c81",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Поз",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "e0639dd961f12c69",
+            "id": "85f2f8857e1b2ebb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,18 +69,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 300
   },
   "right": {
-    "id": "511284ece7017e46",
+    "id": "e5ffc0cc842013e4",
     "type": "split",
     "children": [
       {
-        "id": "88f507b65856da92",
+        "id": "b043510623f4edcb",
         "type": "tabs",
         "children": [
           {
-            "id": "20037016104dd2db",
+            "id": "ccfb77c3821344f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -110,7 +97,7 @@
             }
           },
           {
-            "id": "ae17f369415da8e9",
+            "id": "c1e5da4f49dc067b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,18 +109,18 @@
             }
           },
           {
-            "id": "7455e411b4420ffb",
+            "id": "46f620518e79f0a2",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "c2674f52c1b8bb41",
+            "id": "fcffbf7954b9b6ba",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -141,79 +128,25 @@
                 "file": "VHDL NOUT.md"
               }
             }
-          },
-          {
-            "id": "1ac85b80bec7d420",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "83140f5cd6532dd1",
-  "lastOpenFiles": [
-    "VHDL NOUT.md",
-=======
-  "active": "777bef8403282955",
-  "lastOpenFiles": [
-    "Преселектор.md",
->>>>>>> f563fc0a9dc04527527cfc7051af18d4d29b67ff
-    "Nik Milo.md",
-    "Pasted image 20240422012849.png",
-    "Obsidian.md",
-    "Here Is How I Use Tags.md",
-    "Фильтр полосовой.md",
-    "ПРЧ  Модуль 3ЧР41.md",
-    "Aldec.md",
-    "Zettelkasten.md",
-    "Pasted image 20240421035813.png",
-    "Best Obsidian Plugins 2023.md",
-    "Welcome.md",
-    "Текстовый редактор.md",
-    "hqdefault 1.webp",
-    "hqdefault.webp",
-    "Управление КВ.md",
-    "create a link.md",
-    "Инструменты синтеза.md",
-    "ПЛИС.md",
-    "ISIM, XSIM.md",
-    "Инструменты моделирования.md",
-    "Matlab.md",
-    "Из видео.md",
-    "Чр22350.md",
-    "EASE HDL.md",
-    "OBSIDIAN linc.pdf",
-    "Pasted image 20240418095234.png",
-    "Precision.md",
-    "Реферировать книги и статьи.md",
-    "Заметочник.md",
-    "Блок 3Чр34.md",
-    "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
-    "Без названия.canvas",
-    "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",
-    "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb.Zip",
-    "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb",
-    "History",
-    "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.prjpcb",
-    "ПРОСТОТА_ создание HDL и набор инструментов.pdf"
-  ]
+  "active": "4e7d2e98a39abd5c",
+  "lastOpenFiles": []
 }
