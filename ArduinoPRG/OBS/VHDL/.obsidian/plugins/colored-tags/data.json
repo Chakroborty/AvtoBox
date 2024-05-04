@@ -18,7 +18,12 @@
     "Встроенный_код": 6,
     "Структура_каталого": 7,
     "Редактирование_кода": 8,
-    "Plugins": 9
+    "Plugins": 9,
+    "FFF3A3A6": 10,
+    "Tags": 11,
+    "Typewriter": 12,
+    "Typewriter_Scroll": 13,
+    "Autocomplete": 14
   },
   "_version": 3
 }

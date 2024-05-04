@@ -21,7 +21,9 @@
 [07:27](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=447s) Seeing the emerging structure of the vault
 [07:46](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=466s) Avoiding front loaded heirarchical structuring
 [08:21](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=501s) Dealing with a top level organization
+#Tags
 [09:43](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=583s) Tag notes that exist but are not yet MOCs
+
 [11:37](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=697s) Traversing the linked MOCs
 [12:19](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=739s) Seeing your web of MOCs
 [14:24](https://www.youtube.com/watch?v=zIh1S7ra3aI&list=WL&index=52&t=864s)
