@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "83140f5cd6532dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VHDL NOUT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nik Milo.md",
+                "file": "VHDL NOUT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nik Milo.md",
+                "file": "VHDL NOUT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nik Milo.md"
+                "file": "VHDL NOUT.md"
               }
             }
           },
@@ -156,12 +168,13 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "86b5c5ebd8b97c17",
+  "active": "83140f5cd6532dd1",
   "lastOpenFiles": [
+    "VHDL NOUT.md",
+    "Nik Milo.md",
     "Pasted image 20240422012849.png",
     "Obsidian.md",
     "Here Is How I Use Tags.md",
-    "Nik Milo.md",
     "Фильтр полосовой.md",
     "ПРЧ  Модуль 3ЧР41.md",
     "Aldec.md",
