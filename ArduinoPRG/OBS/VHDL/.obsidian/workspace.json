@@ -4,34 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "f7d5052e9148e1d8",
+        "id": "09e21549498f88dc",
         "type": "tabs",
         "children": [
           {
-            "id": "86b5c5ebd8b97c17",
+            "id": "1108a3fe8f6bd3bd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "localgraph",
               "state": {
-                "file": "Matlab.md",
-                "mode": "source",
-                "source": false
+                "file": "CubeMX.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000009,
+                  "close": false
+                }
               }
             }
           },
           {
-            "id": "82304fb7ced81aa9",
+            "id": "a86e2e92b4371abb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Измерения.md",
+                "file": "CubeMX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Поз",
+                "query": "tag:#Редактирование_кода",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,12 +100,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "9605b138a19a60da",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 329.5
   },
   "right": {
     "id": "511284ece7017e46",
@@ -97,14 +129,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matlab.md",
-                "collapseAll": false,
+                "file": "CubeMX.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -114,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matlab.md",
+                "file": "CubeMX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matlab.md"
+                "file": "CubeMX.md"
               }
             }
           },
@@ -148,9 +180,32 @@
               "type": "side-panel-control-view",
               "state": {}
             }
+          },
+          {
+            "id": "e320b609e74005db",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "5885fe423fa62884",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "da3a62e363d7a1a7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,57 +213,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "86b5c5ebd8b97c17",
+  "active": "a86e2e92b4371abb",
   "lastOpenFiles": [
+    "IMG_20240529_154356_1.jpg",
+    "CubeMX.md",
+    "STM32.md",
+    "OBSIDIAN linc.pdf",
+    "IMG_20240529_154333_1.JPG",
+    "IMG_20240529_154427_1.JPG",
+    "hqdefault 1.webp",
+    "hqdefault.webp",
+    "Контроллеры.md",
+    "Home.md",
+    "IMG_20240529_154356.jpg",
+    "IMG_20240529_154427.jpg",
+    "IMG_20240529_154427_1.JPG~RFaa3f0.TMP",
+    "~MG_20240529_154427_1.tmp",
+    "IMG_20240529_154427_1.JPG~RF8cd99.TMP",
+    "IMG_20240529_154333.jpg",
+    "IMG_20240529_154333_1.JPG~RF65fb6.TMP",
+    "~MG_20240529_154333_1.tmp",
+    "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
+    "Pasted image 20240418095234.png",
     "Измерения.md",
+    "VHDL NOUT.md",
+    "ПЛИС.md",
+    "Welcome.md",
+    "create a link.md",
+    "Pasted image 20240422113122.png",
+    "Текстовый редактор.md",
+    "Заметочник.md",
+    "Obsidian.md",
+    "Реферировать книги и статьи.md",
+    "Zettelkasten.md",
+    "Инструменты моделирования.md",
+    "EASE HDL.md",
+    "Библиотека.md",
+    "Ссылки.md",
+    "Nik Milo.md",
+    "My Best Obsidian Plugins.md",
+    "Best Obsidian Plugins 2023.md",
     "Matlab.md",
     "Усилитель KEYLINK.md",
     "Усилитель KEYLINK.html",
-    "Obsidian.md",
-    "Nik Milo.md",
     "Преселектор.md",
-    "Pasted image 20240422012849.png",
     "Here Is How I Use Tags.md",
-    "Фильтр полосовой.md",
-    "ПРЧ  Модуль 3ЧР41.md",
-    "Aldec.md",
-    "Zettelkasten.md",
-    "Pasted image 20240421035813.png",
-    "Best Obsidian Plugins 2023.md",
-    "Welcome.md",
-    "Текстовый редактор.md",
-    "hqdefault 1.webp",
-    "hqdefault.webp",
-    "Управление КВ.md",
-    "create a link.md",
-    "Инструменты синтеза.md",
-    "ПЛИС.md",
-    "ISIM, XSIM.md",
-    "Инструменты моделирования.md",
-    "Из видео.md",
-    "Чр22350.md",
-    "EASE HDL.md",
-    "OBSIDIAN linc.pdf",
-    "Pasted image 20240418095234.png",
-    "Precision.md",
-    "Реферировать книги и статьи.md",
-    "Заметочник.md",
-    "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Без названия.canvas",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",
-    "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb.Zip",
-    "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb",
-    "History",
-    "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.prjpcb",
-    "ПРОСТОТА_ создание HDL и набор инструментов.pdf"
+    "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb.Zip"
   ]
 }

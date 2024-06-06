@@ -20,3 +20,8 @@
 [Менеджер идей Obsidian. 6. Полезные плагины](https://www.youtube.com/watch?v=_QzNoujjJiY&list=WL&index=43&pp=gAQBiAQB "Менеджер идей Obsidian. 6. Полезные плагины")
 
 [[Best Obsidian Plugins 2023]]
+
+[[Текстовый редактор]] 
+
+[[Zettelkasten]] 
+[[Библиотека]] 
