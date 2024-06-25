@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CubeMX.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "a86e2e92b4371abb",
+            "id": "f5a787cb88a77de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CubeMX.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Редактирование_кода",
+                "query": "tag:#IQ-модулятора",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CubeMX.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CubeMX.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CubeMX.md"
+                "file": "Home.md"
               }
             }
           },
@@ -205,7 +206,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,8 +233,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a86e2e92b4371abb",
+  "active": "f5a787cb88a77de7",
   "lastOpenFiles": [
+    "ПЛИС.md",
+    "fsm_state_1.pdf.md",
+    "IQ-модулятор.md",
+    "DRFM статья.md",
+    "DESim.md",
+    "Jupyter.md",
+    "Cocotb.md",
+    "Home.md",
     "IMG_20240529_154356_1.jpg",
     "CubeMX.md",
     "STM32.md",
@@ -242,7 +252,6 @@
     "hqdefault 1.webp",
     "hqdefault.webp",
     "Контроллеры.md",
-    "Home.md",
     "IMG_20240529_154356.jpg",
     "IMG_20240529_154427.jpg",
     "IMG_20240529_154427_1.JPG~RFaa3f0.TMP",
@@ -255,7 +264,6 @@
     "Pasted image 20240418095234.png",
     "Измерения.md",
     "VHDL NOUT.md",
-    "ПЛИС.md",
     "Welcome.md",
     "create a link.md",
     "Pasted image 20240422113122.png",
@@ -270,12 +278,7 @@
     "Ссылки.md",
     "Nik Milo.md",
     "My Best Obsidian Plugins.md",
-    "Best Obsidian Plugins 2023.md",
-    "Matlab.md",
-    "Усилитель KEYLINK.md",
     "Усилитель KEYLINK.html",
-    "Преселектор.md",
-    "Here Is How I Use Tags.md",
     "Без названия.canvas",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",
     "History/ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.~(1).prjpcb.Zip"

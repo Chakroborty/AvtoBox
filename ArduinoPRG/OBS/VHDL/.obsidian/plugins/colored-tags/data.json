@@ -24,7 +24,9 @@
     "Typewriter": 12,
     "Typewriter_Scroll": 13,
     "Autocomplete": 14,
-    "Вложенные": 15
+    "Вложенные": 15,
+    "Реализация": 16,
+    "IQ-модулятора": 17
   },
   "_version": 3
 }
