@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "ToDoReview",
+      "path": "ToDoReview.md"
+    },
+    {
+      "basename": "Subliume Plugins",
+      "path": "Subliume Plugins.md"
+    },
+    {
+      "basename": "Sublime Text",
+      "path": "Sublime Text.md"
+    },
+    {
+      "basename": "Навигация по коду",
+      "path": "Навигация по коду.md"
+    },
+    {
+      "basename": "Программирование",
+      "path": "Программирование.md"
+    },
+    {
       "basename": "Home",
       "path": "Home.md"
     },
     {
-      "basename": "fsm_state_1.pdf",
-      "path": "fsm_state_1.pdf.md"
+      "basename": "Операции Ci",
+      "path": "Операции Ci.md"
+    },
+    {
+      "basename": "Язык С",
+      "path": "Язык С.md"
+    },
+    {
+      "basename": "Арифметические Операции",
+      "path": "Арифметические Операции.md"
+    },
+    {
+      "basename": "Установить значение битового поля",
+      "path": "Установить значение битового поля.md"
+    },
+    {
+      "basename": "Битовые Операции",
+      "path": "Битовые Операции.md"
+    },
+    {
+      "basename": "STM32",
+      "path": "STM32.md"
+    },
+    {
+      "basename": "Контроллеры",
+      "path": "Контроллеры.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Obsidian.md"
+    },
+    {
+      "basename": "RASPBERY",
+      "path": "RASPBERY.md"
+    },
+    {
+      "basename": "Вебстраница",
+      "path": "Вебстраница.md"
+    },
+    {
+      "basename": "CubeMX",
+      "path": "CubeMX.md"
+    },
+    {
+      "basename": "Приходченко",
+      "path": "Приходченко.md"
+    },
+    {
+      "basename": "VIVADO",
+      "path": "VIVADO.md"
+    },
+    {
+      "basename": "ЦОС",
+      "path": "ЦОС.md"
     },
     {
       "basename": "ПЛИС",
       "path": "ПЛИС.md"
+    },
+    {
+      "basename": "fsm_state_1.pdf",
+      "path": "fsm_state_1.pdf.md"
     },
     {
       "basename": "IQ-модулятор",
@@ -29,16 +105,8 @@
       "path": "Cocotb.md"
     },
     {
-      "basename": "CubeMX",
-      "path": "CubeMX.md"
-    },
-    {
       "basename": "IMG_20240529_154356_1",
       "path": "IMG_20240529_154356_1.jpg"
-    },
-    {
-      "basename": "STM32",
-      "path": "STM32.md"
     },
     {
       "basename": "OBSIDIAN linc",
@@ -59,10 +127,6 @@
     {
       "basename": "hqdefault",
       "path": "hqdefault.webp"
-    },
-    {
-      "basename": "Контроллеры",
-      "path": "Контроллеры.md"
     },
     {
       "basename": "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow",
@@ -95,10 +159,6 @@
     {
       "basename": "Заметочник",
       "path": "Заметочник.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "Obsidian.md"
     },
     {
       "basename": "Реферировать книги и статьи",
@@ -139,66 +199,6 @@
     {
       "basename": "Покупки",
       "path": "Покупки.md"
-    },
-    {
-      "basename": "Mathlab",
-      "path": "Mathlab.md"
-    },
-    {
-      "basename": "VHDL",
-      "path": "ПЛИС/VHDL.md"
-    },
-    {
-      "basename": "Yotube",
-      "path": "Yotube/Yotube.md"
-    },
-    {
-      "basename": "HDLPlusLIB",
-      "path": "ПЛИС/HDLPlusLIB.md"
-    },
-    {
-      "basename": "Без названия",
-      "path": "Без названия.md"
-    },
-    {
-      "basename": "Кислород",
-      "path": "Кислород.md"
-    },
-    {
-      "basename": "ERLS",
-      "path": "ERLS.md"
-    },
-    {
-      "basename": "FPV",
-      "path": "FPV.md"
-    },
-    {
-      "basename": "Маринад для курицы",
-      "path": "Маринад для курицы.md"
-    },
-    {
-      "basename": "Гриндер",
-      "path": "Гриндер/Гриндер.md"
-    },
-    {
-      "basename": "ADC",
-      "path": "ADC.md"
-    },
-    {
-      "basename": "DAC",
-      "path": "DAC.md"
-    },
-    {
-      "basename": "ESP32",
-      "path": "ESP32.md"
-    },
-    {
-      "basename": "Tang NANO",
-      "path": "Tang NANO.md"
-    },
-    {
-      "basename": "Sipeed Tang 20k",
-      "path": "Sipeed Tang 20k.md"
     }
   ],
   "omittedPaths": [],

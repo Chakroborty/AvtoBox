@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "ToDoReview.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "f5a787cb88a77de7",
+            "id": "f2524b3598d1e5ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "ToDoReview.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "ToDoReview.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "ToDoReview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,16 +169,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "ToDoReview.md"
               }
-            }
-          },
-          {
-            "id": "1ac85b80bec7d420",
-            "type": "leaf",
-            "state": {
-              "type": "side-panel-control-view",
-              "state": {}
             }
           },
           {
@@ -205,9 +196,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "bbc4f3635dbdb1ad",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -233,25 +232,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f5a787cb88a77de7",
+  "active": "f2524b3598d1e5ab",
   "lastOpenFiles": [
+    "Subliume Plugins.md",
+    "ToDoReview.md",
+    "Sublime Text.md",
+    "Навигация по коду.md",
+    "Программирование.md",
+    "Home.md",
+    "Операции Ci.md",
+    "Язык С.md",
+    "Арифметические Операции.md",
+    "Установить значение битового поля.md",
+    "Битовые Операции.md",
+    "STM32.md",
+    "Контроллеры.md",
+    "Obsidian.md",
+    "RASPBERY.md",
+    "Вебстраница.md",
+    "CubeMX.md",
+    "Приходченко.md",
+    "VIVADO.md",
+    "ЦОС.md",
     "ПЛИС.md",
     "fsm_state_1.pdf.md",
     "IQ-модулятор.md",
     "DRFM статья.md",
     "DESim.md",
     "Jupyter.md",
-    "Cocotb.md",
-    "Home.md",
     "IMG_20240529_154356_1.jpg",
-    "CubeMX.md",
-    "STM32.md",
     "OBSIDIAN linc.pdf",
     "IMG_20240529_154333_1.JPG",
     "IMG_20240529_154427_1.JPG",
     "hqdefault 1.webp",
     "hqdefault.webp",
-    "Контроллеры.md",
     "IMG_20240529_154356.jpg",
     "IMG_20240529_154427.jpg",
     "IMG_20240529_154427_1.JPG~RFaa3f0.TMP",
@@ -262,22 +276,7 @@
     "~MG_20240529_154333_1.tmp",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Pasted image 20240418095234.png",
-    "Измерения.md",
-    "VHDL NOUT.md",
-    "Welcome.md",
-    "create a link.md",
     "Pasted image 20240422113122.png",
-    "Текстовый редактор.md",
-    "Заметочник.md",
-    "Obsidian.md",
-    "Реферировать книги и статьи.md",
-    "Zettelkasten.md",
-    "Инструменты моделирования.md",
-    "EASE HDL.md",
-    "Библиотека.md",
-    "Ссылки.md",
-    "Nik Milo.md",
-    "My Best Obsidian Plugins.md",
     "Усилитель KEYLINK.html",
     "Без названия.canvas",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",
