@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "Теги STM32",
+      "path": "Теги STM32.md"
+    },
+    {
+      "basename": "STM32",
+      "path": "STM32.md"
+    },
+    {
+      "basename": "Датчик температуры",
+      "path": "Датчик температуры.md"
+    },
+    {
+      "basename": "CubeMX",
+      "path": "CubeMX.md"
+    },
+    {
+      "basename": "Добавление",
+      "path": "Добавление.md"
+    },
+    {
+      "basename": "ДобавлениеСН",
+      "path": "ДобавлениеСН.md"
+    },
+    {
+      "basename": "STM32CubeMonitor",
+      "path": "STM32CubeMonitor.md"
+    },
+    {
+      "basename": "Вебстраница",
+      "path": "Вебстраница.md"
+    },
+    {
       "basename": "ToDoReview",
       "path": "ToDoReview.md"
     },
@@ -19,10 +55,6 @@
     {
       "basename": "Программирование",
       "path": "Программирование.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
     },
     {
       "basename": "Операции Ci",
@@ -45,10 +77,6 @@
       "path": "Битовые Операции.md"
     },
     {
-      "basename": "STM32",
-      "path": "STM32.md"
-    },
-    {
       "basename": "Контроллеры",
       "path": "Контроллеры.md"
     },
@@ -59,14 +87,6 @@
     {
       "basename": "RASPBERY",
       "path": "RASPBERY.md"
-    },
-    {
-      "basename": "Вебстраница",
-      "path": "Вебстраница.md"
-    },
-    {
-      "basename": "CubeMX",
-      "path": "CubeMX.md"
     },
     {
       "basename": "Приходченко",
@@ -179,26 +199,6 @@
     {
       "basename": "Библиотека",
       "path": "Библиотека.md"
-    },
-    {
-      "basename": "Ссылки",
-      "path": "Ссылки.md"
-    },
-    {
-      "basename": "Nik Milo",
-      "path": "Nik Milo.md"
-    },
-    {
-      "basename": "My Best Obsidian Plugins",
-      "path": "My Best Obsidian Plugins.md"
-    },
-    {
-      "basename": "Best Obsidian Plugins 2023",
-      "path": "Best Obsidian Plugins 2023.md"
-    },
-    {
-      "basename": "Покупки",
-      "path": "Покупки.md"
     }
   ],
   "omittedPaths": [],

@@ -31,24 +31,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Core/Inc/adf4159.h</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B/STM32/STMCOD/AAdf4159/adf4159.h</locationURI>
+			<name>df4159</name>
+			<type>2</type>
+			<location>Z:/TempVMshare/KONTROL/AAdf4159/df4159</location>
 		</link>
 		<link>
-			<name>Core/Inc/adf5355.h</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B/STM32/STMCOD/AAdf5355/adf5355.h</locationURI>
-		</link>
-		<link>
-			<name>Core/Src/adf4159.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B/STM32/STMCOD/AAdf4159/adf4159.c</locationURI>
-		</link>
-		<link>
-			<name>Core/Src/adf5355.c</name>
-			<type>1</type>
-			<locationURI>PARENT-4-PROJECT_LOC/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D0%BB%D0%B5%D1%80%D1%8B/STM32/STMCOD/AAdf5355/adf5355.c</locationURI>
+			<name>df5355</name>
+			<type>2</type>
+			<location>Z:/TempVMshare/KONTROL/AAdf5355/df5355</location>
 		</link>
 	</linkedResources>
 </projectDescription>

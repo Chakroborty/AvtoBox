@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ToDoReview.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "f2524b3598d1e5ab",
+            "id": "809959927e9c73e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ToDoReview.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDoReview.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ToDoReview.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ToDoReview.md"
+                "file": "Home.md"
               }
             }
           },
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 361.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,34 +233,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f2524b3598d1e5ab",
+  "active": "809959927e9c73e2",
   "lastOpenFiles": [
-    "Subliume Plugins.md",
+    "Теги STM32.md",
+    "STM32.md",
+    "Датчик температуры.md",
+    "CubeMX.md",
+    "Добавление.md",
+    "ДобавлениеСН.md",
+    "Pasted image 20240905142020.png",
+    "STM32CubeMonitor.md",
+    "Вебстраница.md",
+    "Home.md",
     "ToDoReview.md",
+    "Subliume Plugins.md",
     "Sublime Text.md",
     "Навигация по коду.md",
     "Программирование.md",
-    "Home.md",
     "Операции Ci.md",
     "Язык С.md",
     "Арифметические Операции.md",
     "Установить значение битового поля.md",
     "Битовые Операции.md",
-    "STM32.md",
     "Контроллеры.md",
     "Obsidian.md",
     "RASPBERY.md",
-    "Вебстраница.md",
-    "CubeMX.md",
     "Приходченко.md",
     "VIVADO.md",
     "ЦОС.md",
     "ПЛИС.md",
-    "fsm_state_1.pdf.md",
-    "IQ-модулятор.md",
-    "DRFM статья.md",
-    "DESim.md",
-    "Jupyter.md",
     "IMG_20240529_154356_1.jpg",
     "OBSIDIAN linc.pdf",
     "IMG_20240529_154333_1.JPG",
@@ -276,7 +278,6 @@
     "~MG_20240529_154333_1.tmp",
     "sravnenie-otkrytyh-marshrutov-proektirovaniya-tsifrovoy-apparatury-qflow-openlane-coriolis-symbiflow.pdf",
     "Pasted image 20240418095234.png",
-    "Pasted image 20240422113122.png",
     "Усилитель KEYLINK.html",
     "Без названия.canvas",
     "ЛБИЮ.464344.066 (Модуль 3Чр41)_Project.$$$",

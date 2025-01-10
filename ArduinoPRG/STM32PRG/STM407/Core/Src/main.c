@@ -684,9 +684,9 @@ void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
     	dev = 0xA;
     	break;//band
     case 2:  dev = 0x4;
-        regsend[4] = ((regsend[4] >> 4) & 15) | ((regsend[4] & 15) << 4);
-        regsend[4] = ((regsend[4] >> 2) & 51) | ((regsend[4] & 51) << 2);
-        regsend[4] = ((regsend[4] >> 1) & 85) | ((regsend[4] & 85) << 1);break;//power
+        regsend[2] = ((regsend[2] >> 4) & 15) | ((regsend[2] & 15) << 4);
+        regsend[2] = ((regsend[2] >> 2) & 51) | ((regsend[2] & 51) << 2);
+        regsend[2] = ((regsend[2] >> 1) & 85) | ((regsend[2] & 85) << 1);break;//power
 
     default:    break;
     }
@@ -703,7 +703,7 @@ void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
 //		regsend[1] = frrec[6];
 //		regsend[2] = frrec[5];
 //		regsend[3] = frrec[4];
-//		regsend[4] = frrec[3];
+//		regsend[2] = frrec[3];
 //		regsend[5] = frrec[2];
 //		regsend[6] = frrec[1];
 //		regsend[7] = frrec[0];
