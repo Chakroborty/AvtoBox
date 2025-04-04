@@ -29,6 +29,7 @@
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 typedef struct Command Command_t;
+static struct State ST0;
 uint16_t ADR = 7;
 uint64_t Ff4OUT = 4200000000;
 
@@ -38,7 +39,7 @@ uint32_t *DLTF = {0};
 /*----------  AD4159  ----------*/
 uint64_t FRQ4159 = 45008;
 float DELF4159;
-uint32_t DT;
+float DT = 18;
 #define BUFFER_SIZE (12)
 #define  CMD_PREFIX (0xAA)
 #define D4000  (1)
@@ -46,8 +47,9 @@ uint32_t DT;
 uint8_t buffer[BUFFER_SIZE] = {0};
 uint8_t regsend[BUFFER_SIZE-4] = {0};
 uint8_t frrec[BUFFER_SIZE-4] = {0};
-int rcv = 0;
-int dev = 0;
+int rcv = 1;
+int dev = 9;
+uint8_t start = 1;
 uint16_t SPILen = 4;
 /*----------  ADF5355  ----------*/
 uint64_t FRQ5355 = 5000000000;
@@ -75,7 +77,7 @@ TIM_HandleTypeDef htim1;
 UART_HandleTypeDef huart1;
 
 /* USER CODE BEGIN PV */
-/*FIXME:@Comand 407*/
+/*FIXME:@2 Comand 407*/
 struct Command
 {
   uint8_t Prefix;
@@ -83,6 +85,13 @@ struct Command
   uint8_t Comm;
   uint8_t Output[8];
   uint8_t Crc;
+};
+struct State
+{
+  uint64_t FRQOUT;
+  float DELF;
+  float DELT;
+  uint8_t VATT[2];
 };
 /* USER CODE END PV */
 
@@ -97,8 +106,11 @@ static void MX_TIM1_Init(void);
 /* USER CODE BEGIN PFP */
 /*FIXME:@Send (0)*/
 void SendData(uint8_t *data);
+void SendSPI(uint8_t *DATA, uint16_t Nbute, uint8_t port);
+void FRSET(uint64_t F);
 void Perenos(uint8_t POZ);
 void OUT_ON(uint8_t ON);
+void FRSET(uint64_t F);
 /* USER CODE END PFP */
 
 /* Private user code ---------------------------------------------------------*/
@@ -146,7 +158,34 @@ int main(void)
   ADR = GPIOE->IDR;
   ADR = ADR>>11;
   ADR = ADR&0x000F;
+  ST0.DELT = 18;
+  ST0.VATT[0] = 0;
+  ST0.VATT[1] = 0;
 
+         switch (ADR)
+  {
+  case 0:  Ff4OUT = 4950000000;
+           ST0.FRQOUT = 4950000000;
+           DELF4159 = 70000000;
+           ST0.DELF = 70000000;break;
+  case 1:  Ff4OUT = 5470000000;
+           ST0.FRQOUT = 5470000000;
+           DELF4159 = 70000000;
+           ST0.DELF = 70000000;break;
+  case 2:  Ff4OUT = 5900000000;
+           ST0.FRQOUT = 5900000000;
+           DELF4159 = 60000000;
+           ST0.DELF = 60000000;break;
+  case 3:  Ff4OUT = 5960000000;
+           ST0.FRQOUT = 5960000000;
+           DELF4159 = 140000000;
+           ST0.DELF = 140000000;break;
+  default: Ff4OUT = 4950000000;
+           ST0.FRQOUT = 4950000000;
+           DELF4159 = 70000000;
+           ST0.DELF = 70000000;break;
+  }
+ HAL_Delay(10);
  // adf4159_PRESET0();
   adf4159_setupRG();
  // adf4159_out_altvoltage0_frequency(4000000000);
@@ -173,7 +212,7 @@ int main(void)
 //			if( HAL_UART_Receive(&huart1, str, 1, 3) == HAL_OK )
 //			{
 				 HAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_RESET);
-				 HAL_Delay(10);
+				 HAL_Delay(1);
 
 				//HAL_UART_Transmit(&huart1, str, 5, 0xFFFF); //передача байта
 				// if( HAL_UART_Receive_IT (&huart1, buffer, 5) != HAL_BUSY )
@@ -199,7 +238,7 @@ int main(void)
          if(dev == 9)
             //  if(cmd->Comm == 0)
       {
-
+/*-----------------------FRSET()
               	  if((Ff4OUT>=100000000)&(Ff4OUT<2900000000))
       		{
         		FRQ5355 = 6900000000;
@@ -226,7 +265,16 @@ int main(void)
       		adf5355_autoA_sync(1);
       		adf4159_out_altvoltage0_frequency(FRQ4159);
       		adf4159_autoA_sync(1);
-      		HAL_Delay(10);
+----------------END FRSET()*/
+          FRSET(ST0.FRQOUT);
+          adf4159_autoA_sync(1);
+      		HAL_Delay(2);
+          if(start == 1)
+          {
+           // dev = 0xA;
+            dev = 4;
+            HAL_Delay(2);
+          }
 
       }
 
@@ -263,7 +311,13 @@ int main(void)
         case 2: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_3, GPIO_PIN_SET); break;
         case 3: HAL_GPIO_WritePin(GPIOC, GPIO_PIN_4, GPIO_PIN_SET); break;
         case 4: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET);
-        		OUT_ON(regsend[0]);											break;
+        		    OUT_ON(regsend[0]);
+                if(start == 1)
+          {
+            dev = 0xA;
+            //dev = 4;
+            OUT_ON(1);
+          }											break;
         default:    break;
         }
 
@@ -291,8 +345,24 @@ int main(void)
         adf4159_autoA_sync(1);
         HAL_Delay(10);
       }
-            SendData(buffer);
+            if(dev==0xB)
+      { OUT_ON(0);
+        FRSET(ST0.FRQOUT);
+        adf4159_ramp(ST0.DELF,ST0.DELT);//deltaf deltat
+        adf4159_autoA_sync(1);
+        //SendSPI(uint32_t DATA, uint8_t Nbute, uint8_t port);
+        SendSPI(*ST0.VATT, 2, 4);
+        OUT_ON(1);
+      }
+
+
+            if(start == 0)
+            {
+              SendData(buffer);
+            }
+
 // HAL_SPI_Transmit(&hspi1, &buffer, 10, 1000);
+        start = 0;
         rcv = 0;
     }
 
@@ -379,7 +449,7 @@ static void MX_SPI1_Init(void)
   hspi1.Init.CLKPolarity = SPI_POLARITY_LOW;
   hspi1.Init.CLKPhase = SPI_PHASE_1EDGE;
   hspi1.Init.NSS = SPI_NSS_SOFT;
-  hspi1.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_128;
+  hspi1.Init.BaudRatePrescaler = SPI_BAUDRATEPRESCALER_256;
   hspi1.Init.FirstBit = SPI_FIRSTBIT_MSB;
   hspi1.Init.TIMode = SPI_TIMODE_DISABLE;
   hspi1.Init.CRCCalculation = SPI_CRCCALCULATION_DISABLE;
@@ -633,69 +703,110 @@ static void MX_GPIO_Init(void)
 }
 
 /* USER CODE BEGIN 4 */
-/*FIXME:@Send (1) Fuction*/
+/*FUNC:@SendDAT (1) Fuction*/
 void SendData(uint8_t *data)
 {
 // FL = __REV(RG);
  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_SET);
- HAL_Delay(10);
-// while( HAL_UART_Transmit_IT(&huart1, data, sizeof(data)) == HAL_BUSY );
-
+ HAL_Delay(2);
  HAL_UART_Transmit(&huart1, data, BUFFER_SIZE,1000);
-  // Pull RE Low to enable RX operation
  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_12, GPIO_PIN_RESET);
 //_delay_us(2);
 }
+void SendSPI(uint8_t *DATA, uint16_t Nbute, uint8_t port)
+{
+     switch (port)
+  {
+  case 1: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, GPIO_PIN_RESET); break;//ADF4159
+  case 2: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_3, GPIO_PIN_RESET); break;//ADF5355
+  case 3: HAL_GPIO_WritePin(GPIOC, GPIO_PIN_4, GPIO_PIN_RESET); break;//AD9911
+  case 4: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_RESET); break;//PE43705
+  default:    break;
+  }
+          switch (port)
+  {
+  case 1: HAL_SPI_Transmit(&hspi1, (uint8_t*)&DATA, Nbute, 1000); break;
+  case 2: HAL_SPI_Transmit(&hspi1, (uint8_t*)&DATA, Nbute, 1000); break;
+  case 3: HAL_SPI_Transmit(&hspi2, (uint8_t*)&DATA, Nbute, 1000); break;
+  case 4: HAL_SPI_Transmit(&hspi3, (uint8_t*)&DATA, Nbute, 1000); break;
+  default:    break;
+  }
+          switch (port)
+  {
+  case 1: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, GPIO_PIN_SET); break;
+  case 2: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_3, GPIO_PIN_SET); break;
+  case 3: HAL_GPIO_WritePin(GPIOC, GPIO_PIN_4, GPIO_PIN_SET); break;
+  case 4: HAL_GPIO_WritePin(GPIOA, GPIO_PIN_4, GPIO_PIN_SET); break;
+  default:    break;
+  }
+}
+
+
 //NOTE: @2 Event UART dev
 
 void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
 {
   /*----------------------------------------------------*/
-	if(rcv == 0)
- { Command_t *cmd = (Command_t *)buffer;
+		if(rcv == 0)
+	{ Command_t *cmd = (Command_t *)buffer;
 
-      if(cmd->Prefix == CMD_PREFIX && cmd->Id == ADR)//&&rcv == 0
-  {
-		frrec[7] = cmd->Output[0];
-		frrec[6] = cmd->Output[1];
-		frrec[5] = cmd->Output[2];
-		frrec[4] = cmd->Output[3];
-		frrec[3] = cmd->Output[4];
-		frrec[2] = cmd->Output[5];
-		frrec[1] = cmd->Output[6];
-		frrec[0] = cmd->Output[7];
-		FU4OUT = (uint64_t*)frrec;
-		Ff4OUT = *FU4OUT;
-		regsend[0] = frrec[0];
-		regsend[1] = frrec[1];
-		regsend[2] = frrec[2];
-		regsend[3] = frrec[3];
-		regsend[4] = frrec[4];
-		regsend[5] = frrec[5];
-		regsend[6] = frrec[6];
-		regsend[7] = frrec[7];
-            switch (cmd->Comm)
-    {
-    case 0:                 //friq
-    	 dev = 0X9; break;
-    case 1:
-    	DELF4159 = Ff4OUT>>32;
-    	DT = Ff4OUT&0xFFFFFFFF;
-    	dev = 0xA;
-    	break;//band
-    case 2:  dev = 0x4;
-        regsend[2] = ((regsend[2] >> 4) & 15) | ((regsend[2] & 15) << 4);
-        regsend[2] = ((regsend[2] >> 2) & 51) | ((regsend[2] & 51) << 2);
-        regsend[2] = ((regsend[2] >> 1) & 85) | ((regsend[2] & 85) << 1);break;//power
+		  if(cmd->Prefix == CMD_PREFIX && cmd->Id == ADR)//&&rcv == 0
+		{
+			frrec[7] = cmd->Output[0];
+			frrec[6] = cmd->Output[1];
+			frrec[5] = cmd->Output[2];
+			frrec[4] = cmd->Output[3];
+			frrec[3] = cmd->Output[4];
+			frrec[2] = cmd->Output[5];
+			frrec[1] = cmd->Output[6];
+			frrec[0] = cmd->Output[7];
+			FU4OUT = (uint64_t*)frrec;
+			Ff4OUT = *FU4OUT;
+      ST0.FRQOUT = Ff4OUT;
+			regsend[0] = frrec[0];
+			regsend[1] = frrec[1];
+			regsend[2] = frrec[2];
+			regsend[3] = frrec[3];
+			regsend[4] = frrec[4];
+			regsend[5] = frrec[5];
+			regsend[6] = frrec[6];
+			regsend[7] = frrec[7];
+					switch (cmd->Comm)
+			{
+			case 0:                 //friq
+				 dev = 0X9; break;
+			case 1:
+				DELF4159 = Ff4OUT>>32;
+				ST0.DELF = DELF4159;
+				DT = Ff4OUT&0xFFFFFFFF;
+				ST0.DELT = DT;
+				dev = 0xA;
+				break;//band
+			case 2:  dev = 0x4;
+				regsend[2] = ((regsend[2] >> 4) & 15) | ((regsend[2] & 15) << 4);
+				regsend[2] = ((regsend[2] >> 2) & 51) | ((regsend[2] & 51) << 2);
+				regsend[2] = ((regsend[2] >> 1) & 85) | ((regsend[2] & 85) << 1);
+				ST0.VATT[1] = regsend[2];break;//power
+			case 3:                 //com
+			   dev = 0X1; break;
+			case 4:                 //MODERN
+			  ST0.FRQOUT = 1000000*(Ff4OUT>>48);
+			  regsend[5] = ((regsend[5] >> 4) & 15) | ((regsend[5] & 15) << 4);
+			  regsend[5] = ((regsend[5] >> 2) & 51) | ((regsend[5] & 51) << 2);
+			  regsend[5] = ((regsend[5] >> 1) & 85) | ((regsend[5] & 85) << 1);
+			  ST0.VATT[1] = 0;
+			  ST0.VATT[0] = regsend[5];
+			  dev = 0xB;
+			   break;
 
-    default:    break;
-    }
-    rcv = 1;//пришли данные
-  }
-  else
-  {
+			default:    break;
+			}
+		rcv = 1;//пришли данные
+		}
+		else
+		{
 
-  }
+		}
 /*----------------------------------------------------------*/
 
 
@@ -742,7 +853,7 @@ void HAL_UARTEx_RxEventCallback(UART_HandleTypeDef *huart, uint16_t Size)
       // default: dev = 0;   break;
       // }
      /* dev = buffer[0];
-      SPILen = buffer[9];*/
+      Nbute = buffer[9];*/
 
 	  }
 
@@ -767,7 +878,36 @@ void Perenos(uint8_t POZ)
   default:HAL_GPIO_WritePin(GPIOD, GPIO_PIN_12, GPIO_PIN_SET);
           HAL_GPIO_WritePin(GPIOD, GPIO_PIN_13, GPIO_PIN_RESET);  break;
   }
+}
+void FRSET(uint64_t F)
+{
+          if((F>=100000000)&(F<2900000000))
+          {
+            FRQ5355 = 6900000000;
+            FRQ4159 = 6900000000 - F;
+            Perenos(D4000);
+          }else if((F>=2900000000)&(F<4000000000))
+          {
+            FRQ4159 = 4000000000;
+            FRQ5355 = F + 4000000000;
+            Perenos(D4000);
+          }else if((F>=4000000000)&(F<=8000000000))
+          {
+            FRQ4159 = F;
+            Perenos(D8000);
+          }else
+          {
+            FRQ5355 = 6900000000;
+            FRQ4159 = 4900000000;
+            Perenos(D4000);
+          }
 
+          adf5355_out_altvoltage0_frequency(FRQ5355);
+          HAL_Delay(1);
+          adf5355_autoA_sync(1);
+          adf4159_out_altvoltage0_frequency(FRQ4159);
+          // adf4159_autoA_sync(1);
+          // HAL_Delay(10);
 }
 void OUT_ON(uint8_t ON)
 {
@@ -782,8 +922,10 @@ void OUT_ON(uint8_t ON)
   default:HAL_GPIO_WritePin(GPIOD, GPIO_PIN_14, GPIO_PIN_SET);
           HAL_GPIO_WritePin(GPIOD, GPIO_PIN_15, GPIO_PIN_SET);    break;//выкл
   }
-
 }
+
+//NOTE: @2 PROC FR
+
 /* USER CODE END 4 */
 
 /**
